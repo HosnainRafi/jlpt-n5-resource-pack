@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-e4c74999abad",
+    "slug": "jlpt-n5-vocabulary-exercise-05",
+    "title": "JLPT N5 – Vocabulary Exercise 05",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-05",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "このぎゅうにゅうはれいぞこにいれてありました。とても _______ 。",
+      "choices": [
+        "ひくいです",
+        "つめたいです",
+        "さむいです",
+        "すずしいです"
+      ],
+      "correct_answer": "つめたいです",
+      "explanation": "このぎゅうにゅうはれいぞこにいれてありました。とても つめたいです 。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "ゆうびんきょくへいって、はがきと _______ をかいます。",
+      "choices": [
+        "きっぷ",
+        "きって",
+        "ざっし",
+        "しんぶん"
+      ],
+      "correct_answer": "きって",
+      "explanation": "ゆうびんきょくへいって、はがきと きって をかいます。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "コーヒーにさとうをいれて _______ してください。",
+      "choices": [
+        "あまく",
+        "からく",
+        "つよく",
+        "あつく"
+      ],
+      "correct_answer": "あまく",
+      "explanation": "コーヒーにさとうをいれて あまく してください。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "きょうは _______ がわるいから、かさをもっていきます。",
+      "choices": [
+        "そら",
+        "くもり",
+        "かぜ",
+        "てんき"
+      ],
+      "correct_answer": "てんき",
+      "explanation": "きょうは てんき がわるいから、かさをもっていきます。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "ひらがなはぜんぶ _______ が、かたかなはまだです。",
+      "choices": [
+        "しりました",
+        "よびました",
+        "おぼえました",
+        "ちがいました"
+      ],
+      "correct_answer": "おぼえました",
+      "explanation": "ひらがなはぜんぶ おぼえました が、かたかなはまだです。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "おとうさんのおとこのきょうだいは _______ です。",
+      "choices": [
+        "おじさん",
+        "おばさん",
+        "おじいさん",
+        "おばあさん"
+      ],
+      "correct_answer": "おじさん",
+      "explanation": "おとうさんのおとこのきょうだいは おじさん です。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "わたしはいつもよる _______ ねます。",
+      "choices": [
+        "ちかく",
+        "ほそく",
+        "はやく",
+        "おもく"
+      ],
+      "correct_answer": "はやく",
+      "explanation": "わたしはいつもよる はやく ねます。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "_______ 、そのニュースをしりました。",
+      "choices": [
+        "ちじをみて",
+        "きっぷをかって",
+        "じしょをひいて",
+        "しんぶんをよんで"
+      ],
+      "correct_answer": "しんぶんをよんで",
+      "explanation": "しんぶんをよんで 、そのニュースをしりました。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "「はじめまして。どうぞよろしく。」 「 _______ 。」",
+      "choices": [
+        "おげんきで",
+        "こちらこそ",
+        "しつれいしました",
+        "すみませんでした"
+      ],
+      "correct_answer": "こちらこそ",
+      "explanation": "「はじめまして。どうぞよろしく。」「 こちらこそ 。」"
+    },
+    {
+      "question_number": 10,
+      "prompt": "わたしは _______ がおおきいです。ちょうどいいくつがありません。",
+      "choices": [
+        "め",
+        "あし",
+        "みみ",
+        "からだ"
+      ],
+      "correct_answer": "あし",
+      "explanation": "わたしは あし がおおきいです。ちょうどいいくつがありません。"
+    }
+  ]
+}

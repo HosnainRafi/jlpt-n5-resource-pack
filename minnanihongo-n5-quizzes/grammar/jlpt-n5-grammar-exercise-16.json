@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-455dfa9647f5",
+    "slug": "jlpt-n5-grammar-exercise-16",
+    "title": "JLPT N5 – Grammar Exercise 16",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-16",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "月よう日 _______ 火よう日にテストがあります。",
+      "choices": [
+        "で",
+        "に",
+        "を",
+        "か"
+      ],
+      "correct_answer": "か",
+      "explanation": "月よう日 か 火よう日にテストがあります。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "これは先週友だちのいえで _______ しゃしんです。",
+      "choices": [
+        "とる",
+        "とるの",
+        "とった",
+        "とります"
+      ],
+      "correct_answer": "とった",
+      "explanation": "これは先週友だちのいえで とった しゃしんです。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "くだものが _______ です。",
+      "choices": [
+        "食べて",
+        "食べる",
+        "食べない",
+        "食べたい"
+      ],
+      "correct_answer": "食べたい",
+      "explanation": "くだものが 食べたい です。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "えき _______ むこうにびょういんがあります。",
+      "choices": [
+        "の",
+        "に",
+        "で",
+        "が"
+      ],
+      "correct_answer": "の",
+      "explanation": "えき の むこうにびょういんがあります。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "本を _______ とき、じしょをつかいます。",
+      "choices": [
+        "読む",
+        "読み",
+        "読んで",
+        "読んだ"
+      ],
+      "correct_answer": "読む",
+      "explanation": "本を 読む とき、じしょをつかいます。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "魚がたくさん _______ います。",
+      "choices": [
+        "およぎて",
+        "およぐて",
+        "およいで",
+        "およんで"
+      ],
+      "correct_answer": "およいで",
+      "explanation": "魚がたくさん およいで います。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "A 「すみませんが、そのしおをとってください。」B「 _______ 。」",
+      "choices": [
+        "いいえ、どうも",
+        "はい、ください",
+        "はい、どうぞ",
+        "いいえ、とります"
+      ],
+      "correct_answer": "はい、どうぞ",
+      "explanation": "A 「すみませんが、そのしおをとってください。」B「 はい、どうぞ 。」"
+    },
+    {
+      "question_number": 8,
+      "prompt": "いもうとが _______ とき、父は外国にいました。",
+      "choices": [
+        "生まれ",
+        "生まれた",
+        "生まれて",
+        "生まれるの"
+      ],
+      "correct_answer": "生まれた",
+      "explanation": "いもうとが 生まれた とき、父は外国にいました。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "いっしょに _______ ましょう。",
+      "choices": [
+        "うたい",
+        "うたう",
+        "うたって",
+        "うたいて"
+      ],
+      "correct_answer": "うたい",
+      "explanation": "いっしょに うたい ましょう。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "としょかんへ本をかえし _______ 行きます。",
+      "choices": [
+        "へ",
+        "で",
+        "に",
+        "を"
+      ],
+      "correct_answer": "に",
+      "explanation": "としょかんへ本をかえし に 行きます。"
+    }
+  ]
+}

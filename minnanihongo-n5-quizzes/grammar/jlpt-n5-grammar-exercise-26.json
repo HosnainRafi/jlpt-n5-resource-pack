@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-be085378293d",
+    "slug": "jlpt-n5-grammar-exercise-26",
+    "title": "JLPT N5 – Grammar Exercise 26",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-26",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "わたしの母は５０さいです。父は５５さいです。母は父 _______ ５さいわかいです。",
+      "choices": [
+        "から",
+        "まで",
+        "より",
+        "のほうが"
+      ],
+      "correct_answer": "より",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "わたしのうちはがっこうの隣 _______ あります。",
+      "choices": [
+        "は",
+        "を",
+        "に",
+        "で"
+      ],
+      "correct_answer": "に",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "こんげつは雨が１回 _______ ふりませんでした。",
+      "choices": [
+        "しか",
+        "だけ",
+        "ぐらい",
+        "など"
+      ],
+      "correct_answer": "しか",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "子供 「いただきます。」 母 「あ、食べる _______ 手をあらいましょう。」",
+      "choices": [
+        "まえに",
+        "のまえに",
+        "あとに",
+        "のあとに"
+      ],
+      "correct_answer": "まえに",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "父はへや _______ でて会社へ行きました。 まで",
+      "choices": [
+        "より",
+        "だけ",
+        "から",
+        "…★…に入るものはどれですか。１・２・３・４から一つえらんでください。"
+      ],
+      "correct_answer": "…★…に入るものはどれですか。１・２・３・４から一つえらんでください。",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "男１ 「あの _______ _______ …★… _______ 人はどなたですか。」 男２ 「ああ、あの赤いシャツを着た人ね。あれはリーさんですよ。」",
+      "choices": [
+        "いる",
+        "を",
+        "サングラス",
+        "かけて"
+      ],
+      "correct_answer": "かけて",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "佐藤さんは _______ _______ …★… _______ います。",
+      "choices": [
+        "飲んで",
+        "お茶を",
+        "いま",
+        "きっさてんで"
+      ],
+      "correct_answer": "お茶を",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "ここは車を _______ _______ …★… _______ こうじょうです。",
+      "choices": [
+        "いちばん大きい",
+        "つくっている",
+        "日本で",
+        "こうじょうで"
+      ],
+      "correct_answer": "日本で",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "６時におきて _______ _______ …★… _______ 行きます。",
+      "choices": [
+        "それから",
+        "たべて",
+        "かいしゃへ",
+        "ごはんを"
+      ],
+      "correct_answer": "それから",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "とうきょうえきで _______ _______ …★… _______ ください。",
+      "choices": [
+        "おりて",
+        "よこはまえきで",
+        "のって",
+        "でんしゃに"
+      ],
+      "correct_answer": "よこはまえきで",
+      "explanation": null
+    }
+  ]
+}

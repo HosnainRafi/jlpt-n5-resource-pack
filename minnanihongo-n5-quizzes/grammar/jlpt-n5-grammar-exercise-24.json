@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-40519f054661",
+    "slug": "jlpt-n5-grammar-exercise-24",
+    "title": "JLPT N5 – Grammar Exercise 24",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-24",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "なつやすみに一人 _______ 祖母のいえに行きます。",
+      "choices": [
+        "と",
+        "で",
+        "は",
+        "が"
+      ],
+      "correct_answer": "で",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "テーブルの上にナイフとフォークが _______ 。",
+      "choices": [
+        "おいてあります",
+        "おいています",
+        "おきます",
+        "おきました"
+      ],
+      "correct_answer": "おいてあります",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "もう少し _______ 食べてください。",
+      "choices": [
+        "はやい",
+        "はやくて",
+        "はやく",
+        "はやかった"
+      ],
+      "correct_answer": "はやく",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "いつも母 _______ いっしょにしょくじをします。",
+      "choices": [
+        "へ",
+        "と",
+        "の",
+        "で"
+      ],
+      "correct_answer": "と",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "しゅくだいを _______ あとで、テレビを見ます。",
+      "choices": [
+        "して",
+        "した",
+        "する",
+        "しに"
+      ],
+      "correct_answer": "した",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "今日は _______ ねましょう。",
+      "choices": [
+        "はやい",
+        "はやくて",
+        "はやく",
+        "はやかった"
+      ],
+      "correct_answer": "はやく",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "わたしはよくラジオ _______ おんがくを聞きます。",
+      "choices": [
+        "で",
+        "に",
+        "は",
+        "を"
+      ],
+      "correct_answer": "で",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "ばんごはんを _______ あとで、さんぽします。",
+      "choices": [
+        "たべる",
+        "たべた",
+        "たべて",
+        "たべ"
+      ],
+      "correct_answer": "たべた",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "わたしはさくぶんを _______ とき、いつもじしょをつかいます。",
+      "choices": [
+        "かいた",
+        "かいて",
+        "かきに",
+        "かく"
+      ],
+      "correct_answer": "かく",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "わたしはたなかさんを３時間 _______ まっていました。",
+      "choices": [
+        "も",
+        "を",
+        "が",
+        "で"
+      ],
+      "correct_answer": "も",
+      "explanation": null
+    }
+  ]
+}

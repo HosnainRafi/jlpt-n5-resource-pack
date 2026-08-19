@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "quiz_id": "crawl-e40c4ea07b17",
+    "slug": "jlpt-n5-grammar-exercise-04",
+    "title": "JLPT N5 – Grammar Exercise 04",
+    "level": "N5",
+    "categories": [
+      "grammar",
+      "reading"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-04",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "わたしはここにいちど _______ 来たことがあります。",
+      "choices": [
+        "だけ",
+        "もう",
+        "まだ",
+        "まえ"
+      ],
+      "correct_answer": "だけ",
+      "explanation": "わたしはここにいちど だけ 来たことがあります。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "アキラ _______ わたし _______ あなたのともだちなんですよ。",
+      "choices": [
+        "は/は",
+        "や/や",
+        "と/と",
+        "も/も"
+      ],
+      "correct_answer": "も/も",
+      "explanation": "アキラ も わたし も あなたのともだちなんですよ。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "母はとなりのおくさんと少し話を _______ から家にかえっていった。",
+      "choices": [
+        "し",
+        "する",
+        "して",
+        "した"
+      ],
+      "correct_answer": "して",
+      "explanation": "母はとなりのおくさんと少し話を して から家にかえっていった。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "家にいるよりここ _______ ほうがきけんですよ。",
+      "choices": [
+        "を",
+        "な",
+        "に",
+        "の"
+      ],
+      "correct_answer": "の",
+      "explanation": "家にいるよりここ の ほうがきけんですよ。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "わたしがあなた _______ ならんで立ってもいいですか？",
+      "choices": [
+        "と",
+        "で",
+        "を",
+        "に"
+      ],
+      "correct_answer": "と",
+      "explanation": "わたしがあなた と ならんで立ってもいいですか？"
+    },
+    {
+      "question_number": 6,
+      "prompt": "コーヒーでも飲みながら _______ 。",
+      "choices": [
+        "話します",
+        "話しません",
+        "話しましょう",
+        "話しましよう"
+      ],
+      "correct_answer": "話しましょう",
+      "explanation": "コーヒーでも飲みながら 話しましょう 。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "みなさん、なぜここにあつまったか、わかっている _______ 。",
+      "choices": [
+        "でした",
+        "でしました",
+        "でしょう",
+        "でしましょう"
+      ],
+      "correct_answer": "でしょう",
+      "explanation": "みなさん、なぜここにあつまったか、わかっている でしょう 。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "わたしの学校にはたくさんの学生が _______ 。",
+      "choices": [
+        "いっています",
+        "います",
+        "あります",
+        "あっています"
+      ],
+      "correct_answer": "います",
+      "explanation": "わたしの学校にはたくさんの学生が います 。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "このじしょはここ _______ つかってください。",
+      "choices": [
+        "に",
+        "の",
+        "で",
+        "を"
+      ],
+      "correct_answer": "で",
+      "explanation": "このじしょはここ で つかってください。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "なにか _______ ことがありますか？",
+      "choices": [
+        "言たい",
+        "言いたい",
+        "言うたい",
+        "言ってたい"
+      ],
+      "correct_answer": "言いたい",
+      "explanation": "なにか 言いたい ことがありますか？"
+    }
+  ]
+}

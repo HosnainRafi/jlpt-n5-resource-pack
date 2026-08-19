@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-f2fe623aeb97",
+    "slug": "jlpt-n5-kanji-exercise-12",
+    "title": "JLPT N5 – Kanji Exercise 12",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-12",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 10,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "母 はかぜをひいていて手があつかったです。",
+      "choices": [
+        "ちち",
+        "はは",
+        "あね",
+        "いもうと"
+      ],
+      "correct_answer": "はは",
+      "explanation": "母 => はは"
+    },
+    {
+      "question_number": 2,
+      "prompt": "ぎんこう はどこですか。",
+      "choices": [
+        "金行",
+        "銀行",
+        "良行",
+        "傘行"
+      ],
+      "correct_answer": "銀行",
+      "explanation": "ぎんこう => 銀行"
+    },
+    {
+      "question_number": 3,
+      "prompt": "あの 人 はとても有名です。",
+      "choices": [
+        "にん",
+        "ひと",
+        "しと",
+        "じん"
+      ],
+      "correct_answer": "ひと",
+      "explanation": "人 => ひと"
+    },
+    {
+      "question_number": 4,
+      "prompt": "わたしは えいご がぜんぜんできません。",
+      "choices": [
+        "英話",
+        "英詰",
+        "英誘",
+        "英語"
+      ],
+      "correct_answer": "英語",
+      "explanation": "えいご => 英語"
+    },
+    {
+      "question_number": 5,
+      "prompt": "ドアの前に 立って ください。",
+      "choices": [
+        "たって",
+        "すわって",
+        "のって",
+        "とまって"
+      ],
+      "correct_answer": "たって",
+      "explanation": "立って => たって"
+    },
+    {
+      "question_number": 6,
+      "prompt": "きのうの ごご へやでラジオをききました。",
+      "choices": [
+        "半後",
+        "牛後",
+        "午後",
+        "干後"
+      ],
+      "correct_answer": "午後",
+      "explanation": "ごご => 午後"
+    },
+    {
+      "question_number": 7,
+      "prompt": "火よう日に 駅 で会いましょう。",
+      "choices": [
+        "へや",
+        "もん",
+        "えき",
+        "うち"
+      ],
+      "correct_answer": "えき",
+      "explanation": "駅 => えき"
+    },
+    {
+      "question_number": 8,
+      "prompt": "ビールを 三本 かいました。",
+      "choices": [
+        "さんほん",
+        "さんぽん",
+        "さんぼん",
+        "みつほん"
+      ],
+      "correct_answer": "さんぼん",
+      "explanation": "三本 => さんぼん"
+    },
+    {
+      "question_number": 9,
+      "prompt": "このへやは くらくて さむい。",
+      "choices": [
+        "黒くて",
+        "暗くて",
+        "晩くて",
+        "暮くて"
+      ],
+      "correct_answer": "暗くて",
+      "explanation": "くらくて => 暗くて"
+    },
+    {
+      "question_number": 10,
+      "prompt": "あした れぽーと をだします。",
+      "choices": [
+        "ルポート",
+        "ルプート",
+        "レポート",
+        "レプート"
+      ],
+      "correct_answer": "レポート",
+      "explanation": "れぽーと => レポート"
+    }
+  ]
+}

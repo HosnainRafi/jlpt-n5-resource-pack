@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-5a1fb5d8d3d8",
+    "slug": "jlpt-n5-vocabulary-exercise-04",
+    "title": "JLPT N5 – Vocabulary Exercise 04",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-04",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 40,
+    "correct_count": 4
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "たなかさんはべんきょうをして、_______ いしゃになりました。",
+      "choices": [
+        "りっぱな",
+        "きれいな",
+        "まっすぐな",
+        "だいじょうぶな"
+      ],
+      "correct_answer": "りっぱな",
+      "explanation": "たなかさんはべんきょうをして、 りっぱな いしゃになりました。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "あのおおきいはしを _______ 、みぎにまがってください。",
+      "choices": [
+        "あがって",
+        "あそんで",
+        "あるいて",
+        "わたって"
+      ],
+      "correct_answer": "わたって",
+      "explanation": "あのおおきいはしを わたって 、みぎにまがってください。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "このケーキにはさとうがたくさんはいっています。とても _______ です。",
+      "choices": [
+        "からい",
+        "あまい",
+        "まるい",
+        "わかい"
+      ],
+      "correct_answer": "あまい",
+      "explanation": "このケーキにはさとうがたくさんはいっています。とても あまい です。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "すずきさんのじてんしゃは _______ きれいです。",
+      "choices": [
+        "いそがしくて",
+        "わかくて",
+        "あたらしくて",
+        "あつくて"
+      ],
+      "correct_answer": "あたらしくて",
+      "explanation": "すずきさんのじてんしゃは あたらしくて きれいです。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "「そろそろ、_______ 」と いってせんせいのへやをでました。",
+      "choices": [
+        "しつれいしません",
+        "しつれいします",
+        "しつれいしています",
+        "しつれいしました"
+      ],
+      "correct_answer": "しつれいします",
+      "explanation": "「そろそろ、 しつれいします 」といってせんせいのへやをでました。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "きょうはたくさんしごとをしたから、とても _______ 。",
+      "choices": [
+        "つかれました",
+        "つくりました",
+        "つかいました",
+        "つとめました"
+      ],
+      "correct_answer": "つかれました",
+      "explanation": "きょうはたくさんしごとをしたから、とても つかれました 。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "ラジオをけすときは、このボタンを _______ ください。",
+      "choices": [
+        "おして",
+        "きって",
+        "つけて",
+        "さして"
+      ],
+      "correct_answer": "おして",
+      "explanation": "ラジオをけすときは、このボタンを おして ください。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "わたしは _______ あさ７じにおきます。",
+      "choices": [
+        "たいてい",
+        "たいへん",
+        "だいぶ",
+        "だんだん"
+      ],
+      "correct_answer": "たいてい",
+      "explanation": "わたしは たいてい あさ７じにおきます。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "えいがかんのまえにみせが _______ ならんでいます。",
+      "choices": [
+        "ひじめて",
+        "たいへん",
+        "たくさん",
+        "おおぜい"
+      ],
+      "correct_answer": "たくさん",
+      "explanation": "えいがかんのまえにみせが たくさん ならんでいます。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "くるまでうちからびょういんまで２０ぷん _______ 。",
+      "choices": [
+        "かけます",
+        "かかります",
+        "いります",
+        "います"
+      ],
+      "correct_answer": "かかります",
+      "explanation": "くるまでうちからびょういんまで２０ぷん かかります 。"
+    }
+  ]
+}

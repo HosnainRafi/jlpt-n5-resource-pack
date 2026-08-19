@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-17aa5709446f",
+    "slug": "jlpt-n5-grammar-exercise-18",
+    "title": "JLPT N5 – Grammar Exercise 18",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-18",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 10,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "母は１か月 _______ １かいびょういんへ行きます。",
+      "choices": [
+        "も",
+        "と",
+        "に",
+        "へ"
+      ],
+      "correct_answer": "に",
+      "explanation": "母は１か月 に １かいびょういんへ行きます。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "しゅくだいを _______ あとで、てがみを書きます。",
+      "choices": [
+        "した",
+        "する",
+        "して",
+        "しない"
+      ],
+      "correct_answer": "した",
+      "explanation": "しゅくだいを した あとで、てがみを書きます。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "きのうは雨が _______ かぜが _______ しました。",
+      "choices": [
+        "ふって/ふいて",
+        "ふりて/ふきて",
+        "ふりたり/ふきたり",
+        "ふったり/ふいたり"
+      ],
+      "correct_answer": "ふったり/ふいたり",
+      "explanation": "きのうは雨が ふったり かぜが ふいたり しました。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "このりょうりはぎゅうにく _______ ぶたにくをつかいます。",
+      "choices": [
+        "が",
+        "か",
+        "も",
+        "で"
+      ],
+      "correct_answer": "か",
+      "explanation": "このりょうりはぎゅうにく か ぶたにくをつかいます。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "きょねんのふゆは _______ 。",
+      "choices": [
+        "あたたかいです",
+        "あたたかいだった",
+        "あたたかかったです",
+        "あたたかくでした"
+      ],
+      "correct_answer": "あたたかかったです",
+      "explanation": "きょねんのふゆは あたたかかったです 。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "あしたはかぜが _______ でしょう。",
+      "choices": [
+        "つよかった",
+        "つよくて",
+        "つよい",
+        "つよく"
+      ],
+      "correct_answer": "つよい",
+      "explanation": "あしたはかぜが つよい でしょう。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "あしたは _______ から、あそびに行きませんか。",
+      "choices": [
+        "ひま",
+        "ひまな",
+        "ひまの",
+        "ひまだ"
+      ],
+      "correct_answer": "ひまだ",
+      "explanation": "あしたは ひまだ から、あそびに行きませんか。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "ここはとてもしずか _______ いいところです。",
+      "choices": [
+        "だ",
+        "で",
+        "に",
+        "と"
+      ],
+      "correct_answer": "で",
+      "explanation": "ここはとてもしずか で いいところです。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "どんないろ _______ すきですか。",
+      "choices": [
+        "は",
+        "が",
+        "で",
+        "に"
+      ],
+      "correct_answer": "が",
+      "explanation": "どんないろ が すきですか。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "会社へ _______ まえに、ぎんこうへ行きました。",
+      "choices": [
+        "行きます",
+        "行った",
+        "行って",
+        "行く"
+      ],
+      "correct_answer": "行く",
+      "explanation": "会社へ 行く まえに、ぎんこうへ行きました。"
+    }
+  ]
+}

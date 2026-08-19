@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-e6824668b544",
+    "slug": "jlpt-n5-vocabulary-exercise-16",
+    "title": "JLPT N5 – Vocabulary Exercise 16",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-16",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "きんようびにしゅくだいを _______ ください。",
+      "choices": [
+        "さして",
+        "おして",
+        "けして",
+        "だして"
+      ],
+      "correct_answer": "だして",
+      "explanation": "きんようびにしゅくだいを だして ください。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "きょうは _______ です。あしたはみっかです。",
+      "choices": [
+        "ふつか",
+        "はつか",
+        "よっか",
+        "ついたち"
+      ],
+      "correct_answer": "ふつか",
+      "explanation": "きょうは ふつか です。あしたはみっかです。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "このほんは _______ かるいです。",
+      "choices": [
+        "おもくて",
+        "うすくて",
+        "ふるくて",
+        "ほそくて"
+      ],
+      "correct_answer": "うすくて",
+      "explanation": "このほんは うすくて かるいです。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "ここでは _______ くにの ひとが はたらいて います。",
+      "choices": [
+        "いろいろな",
+        "すくない",
+        "もっと",
+        "たいへんな"
+      ],
+      "correct_answer": "いろいろな",
+      "explanation": "ここでは いろいろな くにのひとがはたらいています。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "「このカメラはあなたのですか。」「いいえ、______。」",
+      "choices": [
+        "あります",
+        "ありません",
+        "ちがいます",
+        "ちがいません"
+      ],
+      "correct_answer": "ちがいます",
+      "explanation": "「このカメラはあなたのですか。」「いいえ、 ちがいます 。」"
+    },
+    {
+      "question_number": 6,
+      "prompt": "_______ ゆっくりはなしてください。",
+      "choices": [
+        "よく",
+        "たぶん",
+        "どうも",
+        "もっと"
+      ],
+      "correct_answer": "もっと",
+      "explanation": "もっと ゆっくりはなしてください。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "_______ がふるそうです。",
+      "choices": [
+        "かぜ",
+        "ゆき",
+        "かみなり",
+        "くもり"
+      ],
+      "correct_answer": "ゆき",
+      "explanation": "ゆき がふるそうです。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "どんな _______ をしたいですか。",
+      "choices": [
+        "しょくじ",
+        "がっこう",
+        "じしょ",
+        "しごと"
+      ],
+      "correct_answer": "しごと",
+      "explanation": "どんな しごと をしたいですか。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "まじめに _______ をとってください。",
+      "choices": [
+        "トイレ",
+        "カレー",
+        "テープ",
+        "ノート"
+      ],
+      "correct_answer": "ノート",
+      "explanation": "まじめに ノート をとってください。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "_______ なまえをかいてください。つぎに、しつもんにこたえてください。",
+      "choices": [
+        "ときどき",
+        "もちろん",
+        "はじめに",
+        "いちばん"
+      ],
+      "correct_answer": "はじめに",
+      "explanation": "はじめに なまえをかいてください。つぎに、しつもんにこたえてください。"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-ecf39670e73a",
+    "slug": "jlpt-n5-vocabulary-exercise-13",
+    "title": "JLPT N5 – Vocabulary Exercise 13",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-13",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "_______ ですから、ドアをあけてください。",
+      "choices": [
+        "さむい",
+        "あつい",
+        "ながい",
+        "ふるい"
+      ],
+      "correct_answer": "あつい",
+      "explanation": "あつい ですから、ドアをあけてください。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "この _______ をおしてください。",
+      "choices": [
+        "ボタン",
+        "タワー",
+        "デスク",
+        "カレー"
+      ],
+      "correct_answer": "ボタン",
+      "explanation": "この ボタン をおしてください。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "ゆうがたまでいもうとといっしょににわで _______ 。",
+      "choices": [
+        "つとめました",
+        "つくりました",
+        "あそびました",
+        "あびました"
+      ],
+      "correct_answer": "あそびました",
+      "explanation": "ゆうがたまでいもうとといっしょににわで あそびました 。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "きのう _______ べんきょうしませんでした。",
+      "choices": [
+        "ぜんぶ",
+        "まだ",
+        "ただ",
+        "ぜんぜん"
+      ],
+      "correct_answer": "ぜんぜん",
+      "explanation": "きのう ぜんぜん べんきょうしませんでした。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "いつ _______ へかえりますか？",
+      "choices": [
+        "じしょ",
+        "でんしゃ",
+        "くに",
+        "うみ"
+      ],
+      "correct_answer": "くに",
+      "explanation": "いつ くに へかえりますか？"
+    },
+    {
+      "question_number": 6,
+      "prompt": "ちょっと _______ を見ますね。あそこしんごうがありますね。",
+      "choices": [
+        "ちず",
+        "そら",
+        "くに",
+        "かばん"
+      ],
+      "correct_answer": "ちず",
+      "explanation": "ちょっと ちず を見ますね。あそこしんごうがありますね。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "ちばさんはいつも _______ コーヒーを買いますか？",
+      "choices": [
+        "どこで",
+        "どんなに",
+        "どう",
+        "あそこ"
+      ],
+      "correct_answer": "どこで",
+      "explanation": "ちばさんはいつも どこで コーヒーを買いますか？"
+    },
+    {
+      "question_number": 8,
+      "prompt": "じしょで _______ のいみをしらべます。",
+      "choices": [
+        "はがき",
+        "やおや",
+        "じびき",
+        "ことば"
+      ],
+      "correct_answer": "ことば",
+      "explanation": "じしょで ことば のいみをしらべます。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "きょうはかぜが _______ です。",
+      "choices": [
+        "みじがい",
+        "つよい",
+        "ふとい",
+        "ほそい"
+      ],
+      "correct_answer": "つよい",
+      "explanation": "きょうはかぜが つよい です。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "わたしはいつも１０じにねて５じに _______ 。",
+      "choices": [
+        "あきます",
+        "おきます",
+        "はきます",
+        "ひきます"
+      ],
+      "correct_answer": "おきます",
+      "explanation": "わたしはいつも１０じにねて５じに おきます 。"
+    }
+  ]
+}

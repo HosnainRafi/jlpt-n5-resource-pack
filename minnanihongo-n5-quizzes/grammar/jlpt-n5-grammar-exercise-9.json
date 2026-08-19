@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-a372fd3152cf",
+    "slug": "jlpt-n5-grammar-exercise-9",
+    "title": "JLPT N5 – Grammar Exercise 9",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-9",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "パ－ティーはいつ _______ いいですか。",
+      "choices": [
+        "が",
+        "に",
+        "を",
+        "と"
+      ],
+      "correct_answer": "が",
+      "explanation": "パ－ティーはいつ が いいですか。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "目の中にゴミ _______ 入って、いたいです。",
+      "choices": [
+        "を",
+        "が",
+        "に",
+        "で"
+      ],
+      "correct_answer": "が",
+      "explanation": "目の中にゴミ が 入って、いたいです。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "あの店は何 _______ いう名前ですか。",
+      "choices": [
+        "が",
+        "に",
+        "の",
+        "と"
+      ],
+      "correct_answer": "と",
+      "explanation": "あの店は何 と いう名前ですか。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "30分 _______ まちましたが、バスは来ませんでした。",
+      "choices": [
+        "ごろ",
+        "など",
+        "しか",
+        "ぐらい"
+      ],
+      "correct_answer": "ぐらい",
+      "explanation": "30分 ぐらい まちましたが、バスは来ませんでした。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "1日 _______ 3かいくすりをのみます。",
+      "choices": [
+        "が",
+        "に",
+        "へ",
+        "を"
+      ],
+      "correct_answer": "に",
+      "explanation": "1日 に 3かいくすりをのみます。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "大学 _______ 電車で30分かかります。",
+      "choices": [
+        "を",
+        "が",
+        "では",
+        "まで"
+      ],
+      "correct_answer": "まで",
+      "explanation": "大学 まで 電車で30分かかります。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "このしんぶんは _______ からもういりません。",
+      "choices": [
+        "おとといの",
+        "おとといのだ",
+        "おとといので",
+        "おとといだった"
+      ],
+      "correct_answer": "おとといのだ",
+      "explanation": "このしんぶんは おとといのだ からもういりません。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "このことばを _______ ください。",
+      "choices": [
+        "おぼえて",
+        "おぼりて",
+        "おぼって",
+        "おぼえって"
+      ],
+      "correct_answer": "おぼえて",
+      "explanation": "このことばを おぼえて ください。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "公園の花はとても _______ 。",
+      "choices": [
+        "きれいだった",
+        "きれかった",
+        "きれくなかった",
+        "きれくないだった"
+      ],
+      "correct_answer": "きれいだった",
+      "explanation": "公園の花はとても きれいだった 。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "まいあさうちでせんたくを _______ から、学校に行きます。",
+      "choices": [
+        "する",
+        "して",
+        "します",
+        "した"
+      ],
+      "correct_answer": "して",
+      "explanation": "まいあさうちでせんたくを して から、学校に行きます。"
+    }
+  ]
+}

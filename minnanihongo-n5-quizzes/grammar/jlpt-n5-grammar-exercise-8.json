@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-8fdcf2f1d26a",
+    "slug": "jlpt-n5-grammar-exercise-8",
+    "title": "JLPT N5 – Grammar Exercise 8",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-8",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "しんぶんはあまり _______ 。",
+      "choices": [
+        "よみます",
+        "よみません",
+        "よんでください",
+        "よみましょう"
+      ],
+      "correct_answer": "よみません",
+      "explanation": "しんぶんはあまり よみません 。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "りょこうは _______ でしたか？",
+      "choices": [
+        "どう",
+        "いつ",
+        "なぜ",
+        "だれ"
+      ],
+      "correct_answer": "どう",
+      "explanation": "りょこうは どう でしたか？"
+    },
+    {
+      "question_number": 3,
+      "prompt": "– _______ しごとをやすみましたか？ – びょうきだったからです。",
+      "choices": [
+        "どこの",
+        "どなたが",
+        "どうして",
+        "どのぐらい"
+      ],
+      "correct_answer": "どうして",
+      "explanation": "「 どうして しごとをやすみましたか？」 「 びょうきだったからです。」"
+    },
+    {
+      "question_number": 4,
+      "prompt": "– それは _______ の国のきってですか？ – 日本のです。",
+      "choices": [
+        "なに",
+        "どれ",
+        "いつ",
+        "どこ"
+      ],
+      "correct_answer": "どこ",
+      "explanation": "「それは どこ の国のきってですか？」「 日本のです。」"
+    },
+    {
+      "question_number": 5,
+      "prompt": "– パーティーではどんな _______ をのみましたか？ – ジュースやコーラをのみました。",
+      "choices": [
+        "ひと",
+        "こと",
+        "もの",
+        "とき"
+      ],
+      "correct_answer": "もの",
+      "explanation": "「パーティーではどんな もの をのみましたか？」「ジュースやコーラをのみました。」"
+    },
+    {
+      "question_number": 6,
+      "prompt": "びょうきできょういちにち、_______ たべませんでした。",
+      "choices": [
+        "なにに",
+        "なにか",
+        "なんで",
+        "なにも"
+      ],
+      "correct_answer": "なにも",
+      "explanation": "びょうきできょういちにち、 なにも たべませんでした。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "_______ ください。",
+      "choices": [
+        "りんごを３つを",
+        "りんごが３つを",
+        "りんごを３つ",
+        "りんごが３つ"
+      ],
+      "correct_answer": "りんごを３つ",
+      "explanation": "りんごを３つ ください。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "おにいさんはおげんきですか？",
+      "choices": [
+        "はい、おかげさまで。",
+        "いいえ、ありがとう。",
+        "あ、どういたしまして。",
+        "ええ、すみません。"
+      ],
+      "correct_answer": "はい、おかげさまで。",
+      "explanation": "はい、おかげさまで 。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "さとうさんはもう来ましたか？",
+      "choices": [
+        "いいえ、来ませんでした。",
+        "いいえ、まだです。",
+        "はい、そうです。",
+        "はい、もうです。"
+      ],
+      "correct_answer": "いいえ、まだです。",
+      "explanation": "いいえ、まだです 。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "– えきからがっこうまではとおいですか？ – いいえ、_______ 。",
+      "choices": [
+        "あるいて3ぷんです",
+        "3ぷんあるきます。",
+        "あるいて3ぷんかかります",
+        "3分あるいています"
+      ],
+      "correct_answer": "あるいて3ぷんです",
+      "explanation": "「えきからがっこうまではとおいですか？ 」「いいえ、 あるいて3ぷんです 。」"
+    }
+  ]
+}

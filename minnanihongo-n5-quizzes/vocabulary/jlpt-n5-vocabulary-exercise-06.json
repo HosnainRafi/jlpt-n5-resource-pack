@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-e5167219828b",
+    "slug": "jlpt-n5-vocabulary-exercise-06",
+    "title": "JLPT N5 – Vocabulary Exercise 06",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-06",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 40,
+    "correct_count": 4
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "このくつしたはうすいですが、_______ です。",
+      "choices": [
+        "かんたん",
+        "じょうぶ",
+        "げんき",
+        "じょうず"
+      ],
+      "correct_answer": "じょうぶ",
+      "explanation": "このくつしたはうすいですが、 じょうぶ です。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "いっしゅかんに _______ テニスを します。",
+      "choices": [
+        "さんかい",
+        "さんばん",
+        "さんがい",
+        "さんぼん"
+      ],
+      "correct_answer": "さんかい",
+      "explanation": "いっしゅかんに さんかい テニスをします。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "あの _______ をわたって、だいがくへいきます。",
+      "choices": [
+        "もん",
+        "まど",
+        "はし",
+        "やま"
+      ],
+      "correct_answer": "はし",
+      "explanation": "あの はし をわたって、だいがくへいきます。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "このほんをたむらさんに _______ ください。",
+      "choices": [
+        "みて",
+        "かいて",
+        "かえって",
+        "わたして"
+      ],
+      "correct_answer": "わたして",
+      "explanation": "このほんをたむらさんに わたして ください。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "ほんだなにほんを _______ 。",
+      "choices": [
+        "ならいましょう",
+        "ならしましょう",
+        "ならびましょう",
+        "ならべましょう"
+      ],
+      "correct_answer": "ならべましょう",
+      "explanation": "ほんだなにほんを ならべましょう 。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "あのレストランのりょうりはとても _______ ですよ。",
+      "choices": [
+        "へた",
+        "おいしい",
+        "にぎやか",
+        "じょうず"
+      ],
+      "correct_answer": "おいしい",
+      "explanation": "あのレストランのりょうりはとても おいしい ですよ。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "このみちを _______ びょういんへいきます。",
+      "choices": [
+        "あるいて",
+        "だして",
+        "およいで",
+        "とんで"
+      ],
+      "correct_answer": "あるいて",
+      "explanation": "このみちを あるいて びょういんへいきます。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "いもうとは きょねん _______ 。 ことし、いっさいに なります。",
+      "choices": [
+        "うまれました",
+        "おきなました",
+        "はじまりました",
+        "つきました"
+      ],
+      "correct_answer": "うまれました",
+      "explanation": "いもうとはきょねん うまれました 。ことし、いっさいになります。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "やまだ「このほん、どうもありがとうございました。」 たなか「いいえ、 _______ 。",
+      "choices": [
+        "どういたしまして",
+        "ごちそうさまでした",
+        "おねがいします",
+        "ごめんなさい"
+      ],
+      "correct_answer": "どういたしまして",
+      "explanation": "やまだ「このほん、どうもありがとうございました。」たなか「いいえ、 どういたしまして 。」"
+    },
+    {
+      "question_number": 10,
+      "prompt": "たくさんありますから、_______ たべてください。",
+      "choices": [
+        "もう",
+        "よく",
+        "もっと",
+        "とても"
+      ],
+      "correct_answer": "もっと",
+      "explanation": "たくさんありますから、 もっと たべてください。"
+    }
+  ]
+}

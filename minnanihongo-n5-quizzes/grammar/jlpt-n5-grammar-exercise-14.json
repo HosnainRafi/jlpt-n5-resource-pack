@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-6296ac3915d0",
+    "slug": "jlpt-n5-grammar-exercise-14",
+    "title": "JLPT N5 – Grammar Exercise 14",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-14",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "おとうとはいしゃ _______ なりました。",
+      "choices": [
+        "を",
+        "に",
+        "で",
+        "の"
+      ],
+      "correct_answer": "に",
+      "explanation": "おとうとはいしゃ に なりました。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "雨がふっている _______ 、きょうは出かけません。",
+      "choices": [
+        "から",
+        "など",
+        "では",
+        "まで"
+      ],
+      "correct_answer": "から",
+      "explanation": "雨がふっている から 、きょうは出かけません。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "きょうは、午後ゆうびんきょくへ行きますが、ぎんこう _______ 行きません。",
+      "choices": [
+        "へは",
+        "へも",
+        "へと",
+        "へに"
+      ],
+      "correct_answer": "へは",
+      "explanation": "きょうは、午後ゆうびんきょくへ行きますが、ぎんこう へは 行きません。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "からだが _______ なりました。",
+      "choices": [
+        "じょうぶな",
+        "じょうぶに",
+        "じょうぶく",
+        "じょうぶで"
+      ],
+      "correct_answer": "じょうぶに",
+      "explanation": "からだが じょうぶに なりました。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "いもうとは17さい _______ 、学生です。",
+      "choices": [
+        "に",
+        "と",
+        "で",
+        "な"
+      ],
+      "correct_answer": "で",
+      "explanation": "いもうとは１７さい で 、学生です。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "きょうのテストは _______ なかったです。",
+      "choices": [
+        "むずかし",
+        "むずかしい",
+        "むずかしくて",
+        "むずかしく"
+      ],
+      "correct_answer": "むずかしく",
+      "explanation": "きょうのテストは むずかしく なかったです。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "みんながたくさん飲みましたから、 _______ おさけはありません。",
+      "choices": [
+        "もう",
+        "まだ",
+        "よく",
+        "とても"
+      ],
+      "correct_answer": "もう",
+      "explanation": "みんながたくさん飲みましたから、 もう おさけはありません。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "ドアが _______ 。",
+      "choices": [
+        "しめます",
+        "しめています",
+        "しまっています",
+        "しまってあります"
+      ],
+      "correct_answer": "しまっています",
+      "explanation": "ドアが しまっています 。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "きょうはとてもあついです _______ 。",
+      "choices": [
+        "や",
+        "は",
+        "と",
+        "ね"
+      ],
+      "correct_answer": "ね",
+      "explanation": "きょうはとてもあついです ね 。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "A 「そのへやに入らないでください。」B「 _______ 。」",
+      "choices": [
+        "すみませんが",
+        "わかりました",
+        "ごめんください",
+        "しつれいします"
+      ],
+      "correct_answer": "わかりました",
+      "explanation": "A 「そのへやに入らないでください。」B「 わかりました 。」"
+    }
+  ]
+}

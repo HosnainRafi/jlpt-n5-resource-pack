@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-fe65d34f95fb",
+    "slug": "jlpt-n5-vocabulary-exercise-9",
+    "title": "JLPT N5 – Vocabulary Exercise 9",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-9",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "友だちはしんせつですが、いつも _______ です。",
+      "choices": [
+        "うれしい",
+        "いそがしい",
+        "むずかしい",
+        "やさしい"
+      ],
+      "correct_answer": "いそがしい",
+      "explanation": "友だちはしんせつですが、いつも いそがしい です。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "インドの _______ はどうですか？おいしいですか？",
+      "choices": [
+        "かいもの",
+        "しょくぶつ",
+        "たてもの",
+        "たべもの"
+      ],
+      "correct_answer": "たべもの",
+      "explanation": "インドの たべもの はどうですか？おいしいですか？"
+    },
+    {
+      "question_number": 3,
+      "prompt": "「とうきょうまでのきっぷはいくらですか。」「＿＿＿＿ は２００えんで、こどもは１００えんです。」",
+      "choices": [
+        "おとこ",
+        "おとな",
+        "おんな",
+        "おとうと"
+      ],
+      "correct_answer": "おとな",
+      "explanation": "「とうきょうまでのきっぷはいくらですか。」「 おとな は２００えんで、こどもは１００えんです。」"
+    },
+    {
+      "question_number": 4,
+      "prompt": "_______ のちょうしがわるいですか？",
+      "choices": [
+        "あたま",
+        "げんき",
+        "じぶん",
+        "からだ"
+      ],
+      "correct_answer": "からだ",
+      "explanation": "からだ のちょうしがわるいですか？"
+    },
+    {
+      "question_number": 5,
+      "prompt": "このおかしにはさとうがたくさんはいっています。とても _______ です。",
+      "choices": [
+        "あまい",
+        "あかい",
+        "あおい",
+        "あつい"
+      ],
+      "correct_answer": "あまい",
+      "explanation": "このおかしにはさとうがたくさんはいっています。とても あまい です。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "_______ までべんきょうしますか？",
+      "choices": [
+        "なに",
+        "なんかい",
+        "なんじ",
+        "なんにん"
+      ],
+      "correct_answer": "なんじ",
+      "explanation": "なんじ までべんきょうしますか？"
+    },
+    {
+      "question_number": 7,
+      "prompt": "すぐわたしの _______ へ来てください。",
+      "choices": [
+        "いえ",
+        "かばん",
+        "えんぴつ",
+        "ベア"
+      ],
+      "correct_answer": "いえ",
+      "explanation": "すぐわたしの いえ へ来てください。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "きょうはとてもつかれました。いえにかえって _______ ねます。",
+      "choices": [
+        "ほんとう",
+        "すぐに",
+        "たぶん",
+        "ちょうど"
+      ],
+      "correct_answer": "すぐに",
+      "explanation": "きょうはとてもつかれました。いえにかえって すぐに ねます。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "_______ はサッカーがだいすきです。",
+      "choices": [
+        "いす",
+        "あに",
+        "ねこ",
+        "りんご"
+      ],
+      "correct_answer": "あに",
+      "explanation": "あに はサッカーがだいすきです。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "こどもたちはかわで _______ います。",
+      "choices": [
+        "あるいて",
+        "はしって",
+        "およいで",
+        "すわって"
+      ],
+      "correct_answer": "およいで",
+      "explanation": "こどもたちはかわで およいで います。"
+    }
+  ]
+}

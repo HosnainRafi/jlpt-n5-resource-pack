@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-6555ca11c7b9",
+    "slug": "jlpt-n5-kanji-exercise-16",
+    "title": "JLPT N5 – Kanji Exercise 16",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-16",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "今月 のとおかにえんそくにいきます。",
+      "choices": [
+        "こんげつ",
+        "こんがつ",
+        "ほんげつ",
+        "ほんがつ"
+      ],
+      "correct_answer": "こんげつ",
+      "explanation": "今月 => こんげつ"
+    },
+    {
+      "question_number": 2,
+      "prompt": "北のまちに 電車 ででかけました。",
+      "choices": [
+        "てんしゃ",
+        "てんじゃ",
+        "でんしゃ",
+        "でんじゃ"
+      ],
+      "correct_answer": "でんしゃ",
+      "explanation": "電車 => でんしゃ"
+    },
+    {
+      "question_number": 3,
+      "prompt": "このかばんを だいじ につかっています。",
+      "choices": [
+        "大字",
+        "大事",
+        "犬字",
+        "犬事"
+      ],
+      "correct_answer": "大事",
+      "explanation": "だいじ => 大事"
+    },
+    {
+      "question_number": 4,
+      "prompt": "あの えいがかん はおとがいいです。",
+      "choices": [
+        "眩写館",
+        "映写館",
+        "映画館",
+        "眩画館"
+      ],
+      "correct_answer": "映画館",
+      "explanation": "えいがかん => 映画館"
+    },
+    {
+      "question_number": 5,
+      "prompt": "ちちはいましんぶんを 読んで います。",
+      "choices": [
+        "よんで",
+        "のんで",
+        "とんで",
+        "しんで"
+      ],
+      "correct_answer": "よんで",
+      "explanation": "読んで => よんで"
+    },
+    {
+      "question_number": 6,
+      "prompt": "父は目も 耳 もおおきい。",
+      "choices": [
+        "くち",
+        "あたま",
+        "みみ",
+        "からだ"
+      ],
+      "correct_answer": "みみ",
+      "explanation": "耳 => みみ"
+    },
+    {
+      "question_number": 7,
+      "prompt": "そのほんを みせて ください。",
+      "choices": [
+        "目せて",
+        "覚せて",
+        "聞せて",
+        "見せて"
+      ],
+      "correct_answer": "見せて",
+      "explanation": "みせて => 見せて"
+    },
+    {
+      "question_number": 8,
+      "prompt": "わたしのこどもは はな がすきです。",
+      "choices": [
+        "衣",
+        "芘",
+        "笩",
+        "花"
+      ],
+      "correct_answer": "花",
+      "explanation": "はな => 花"
+    },
+    {
+      "question_number": 9,
+      "prompt": "らいねん 外国 へりゅうがくにいきます。",
+      "choices": [
+        "がいこく",
+        "がいごく",
+        "かいこく",
+        "かいごく"
+      ],
+      "correct_answer": "がいこく",
+      "explanation": "外国 => がいこく"
+    },
+    {
+      "question_number": 10,
+      "prompt": "妹 の代わりに手紙を書きました。",
+      "choices": [
+        "いもと",
+        "むすめ",
+        "いもうと",
+        "むすうめ"
+      ],
+      "correct_answer": "いもうと",
+      "explanation": "妹 => いもうと"
+    }
+  ]
+}

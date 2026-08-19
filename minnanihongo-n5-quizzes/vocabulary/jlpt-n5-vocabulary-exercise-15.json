@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-6ffe6ee1eb31",
+    "slug": "jlpt-n5-vocabulary-exercise-15",
+    "title": "JLPT N5 – Vocabulary Exercise 15",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-15",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "「やまもとさん、_______ はスミスさんです。」「はじめまして。」",
+      "choices": [
+        "これ",
+        "だれ",
+        "こちら",
+        "どちら"
+      ],
+      "correct_answer": "こちら",
+      "explanation": "「やまもとさん、 こちら はスミスさんです。」「はじめまして。」"
+    },
+    {
+      "question_number": 2,
+      "prompt": "あそこにじてんしゃが _______ とまっています。",
+      "choices": [
+        "いっぴき",
+        "いっさつ",
+        "いちまい",
+        "いちだい"
+      ],
+      "correct_answer": "いちだい",
+      "explanation": "あそこにじてんしゃが いちだい とまっています。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "かんじのおぼえかたを _______ ください。",
+      "choices": [
+        "かんがえて",
+        "おもって",
+        "おしえて",
+        "はしって"
+      ],
+      "correct_answer": "おしえて",
+      "explanation": "かんじのおぼえかたを おしえて ください。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "_______ をさんぽしましょう。",
+      "choices": [
+        "べんり",
+        "かべ",
+        "ビル",
+        "こうえん"
+      ],
+      "correct_answer": "こうえん",
+      "explanation": "こうえん をさんぽしましょう。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "_______ じぶんのくるまをかいたいです。",
+      "choices": [
+        "だれか",
+        "どこか",
+        "いつか",
+        "なにか"
+      ],
+      "correct_answer": "いつか",
+      "explanation": "いつか じぶんのくるまをかいたいです。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "もう _______ ゆっくりいってください。",
+      "choices": [
+        "いちど",
+        "いくつ",
+        "いちまい",
+        "いっしょに"
+      ],
+      "correct_answer": "いちど",
+      "explanation": "もう いちど ゆっくりいってください。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "昨日 _______ をしました。",
+      "choices": [
+        "かみ",
+        "いぬ",
+        "しゅくだい",
+        "とし"
+      ],
+      "correct_answer": "しゅくだい",
+      "explanation": "昨日 しゅくだい をしました。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "このりょうりは _______ です。",
+      "choices": [
+        "からい",
+        "くらい",
+        "さむい",
+        "みじかい"
+      ],
+      "correct_answer": "からい",
+      "explanation": "このりょうりは からい です。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "きょうからこのがっこうに _______ ことになりました。",
+      "choices": [
+        "かく",
+        "いく",
+        "かよう",
+        "すむ"
+      ],
+      "correct_answer": "かよう",
+      "explanation": "きょうからこのがっこうに かよう ことになりました。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "これはラジカセと _______ 。",
+      "choices": [
+        "よびます",
+        "のみます",
+        "よみます",
+        "とびます"
+      ],
+      "correct_answer": "よびます",
+      "explanation": "これはラジカセと よびます 。"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "quiz_id": "crawl-ab32b998f875",
+    "slug": "jlpt-n5-kanji-exercise-02",
+    "title": "JLPT N5 – Kanji Exercise 02",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 7,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-02",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 7,
+    "score": 14,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "山",
+      "choices": [
+        "まち",
+        "むら",
+        "かわ",
+        "やま"
+      ],
+      "correct_answer": "やま",
+      "explanation": "山: やま"
+    },
+    {
+      "question_number": 2,
+      "prompt": "百本",
+      "choices": [
+        "ひゃくぼん",
+        "ひゃっぽん",
+        "ひゃっぷん",
+        "ひゃくふん"
+      ],
+      "correct_answer": "ひゃっぽん",
+      "explanation": "百本: ひゃっぽん"
+    },
+    {
+      "question_number": 3,
+      "prompt": "花見",
+      "choices": [
+        "つきみ",
+        "はなみ",
+        "かぜみ",
+        "ゆきみ"
+      ],
+      "correct_answer": "はなみ",
+      "explanation": "花見: はなみ"
+    },
+    {
+      "question_number": 4,
+      "prompt": "はは",
+      "choices": [
+        "父",
+        "火",
+        "花",
+        "母"
+      ],
+      "correct_answer": "母",
+      "explanation": "はは: 母"
+    },
+    {
+      "question_number": 5,
+      "prompt": "だいがく",
+      "choices": [
+        "大核",
+        "退学",
+        "大学",
+        "最核"
+      ],
+      "correct_answer": "大学",
+      "explanation": "だいがく: 大学"
+    },
+    {
+      "question_number": 6,
+      "prompt": "としょかん",
+      "choices": [
+        "図書館",
+        "図所館",
+        "読所管",
+        "読書館"
+      ],
+      "correct_answer": "図書館",
+      "explanation": "としょかん: 図書館"
+    },
+    {
+      "question_number": 7,
+      "prompt": "はたらいて",
+      "choices": [
+        "動いて",
+        "隠いて",
+        "働いて",
+        "行いて"
+      ],
+      "correct_answer": "働いて",
+      "explanation": "はたらいて: 働いて"
+    }
+  ]
+}

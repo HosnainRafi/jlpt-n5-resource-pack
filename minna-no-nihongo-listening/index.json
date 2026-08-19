@@ -1,0 +1,616 @@
+{
+  "title": "Minna no Nihongo Shokyu I (Elementary 1) - Listening Audio",
+  "source": "3A Corporation official audio (minna shokyu 1, tracks 1-87)",
+  "lessons": [
+    {
+      "lesson": 1,
+      "track_range": "1-4",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 1,
+          "filename": "minna_shokyu_1_001.mp3",
+          "duration_seconds": 24
+        },
+        {
+          "track_number": 2,
+          "filename": "minna_shokyu_1_002.mp3",
+          "duration_seconds": 31
+        },
+        {
+          "track_number": 3,
+          "filename": "minna_shokyu_1_003.mp3",
+          "duration_seconds": 30
+        },
+        {
+          "track_number": 4,
+          "filename": "minna_shokyu_1_004.mp3",
+          "duration_seconds": 77
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "track_range": "5-8",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 5,
+          "filename": "minna_shokyu_1_005.mp3",
+          "duration_seconds": 37
+        },
+        {
+          "track_number": 6,
+          "filename": "minna_shokyu_1_006.mp3",
+          "duration_seconds": 29
+        },
+        {
+          "track_number": 7,
+          "filename": "minna_shokyu_1_007.mp3",
+          "duration_seconds": 36
+        },
+        {
+          "track_number": 8,
+          "filename": "minna_shokyu_1_008.mp3",
+          "duration_seconds": 46
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "track_range": "9-11",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 9,
+          "filename": "minna_shokyu_1_009.mp3",
+          "duration_seconds": 38
+        },
+        {
+          "track_number": 10,
+          "filename": "minna_shokyu_1_010.mp3",
+          "duration_seconds": 30
+        },
+        {
+          "track_number": 11,
+          "filename": "minna_shokyu_1_011.mp3",
+          "duration_seconds": 81
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "track_range": "12-16",
+      "track_count": 5,
+      "files": [
+        {
+          "track_number": 12,
+          "filename": "minna_shokyu_1_012.mp3",
+          "duration_seconds": 40
+        },
+        {
+          "track_number": 13,
+          "filename": "minna_shokyu_1_013.mp3",
+          "duration_seconds": 31
+        },
+        {
+          "track_number": 14,
+          "filename": "minna_shokyu_1_014.mp3",
+          "duration_seconds": 26
+        },
+        {
+          "track_number": 15,
+          "filename": "minna_shokyu_1_015.mp3",
+          "duration_seconds": 61
+        },
+        {
+          "track_number": 16,
+          "filename": "minna_shokyu_1_016.mp3",
+          "duration_seconds": 57
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "track_range": "17-20",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 17,
+          "filename": "minna_shokyu_1_017.mp3",
+          "duration_seconds": 50
+        },
+        {
+          "track_number": 18,
+          "filename": "minna_shokyu_1_018.mp3",
+          "duration_seconds": 30
+        },
+        {
+          "track_number": 19,
+          "filename": "minna_shokyu_1_019.mp3",
+          "duration_seconds": 24
+        },
+        {
+          "track_number": 20,
+          "filename": "minna_shokyu_1_020.mp3",
+          "duration_seconds": 55
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "track_range": "21-23",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 21,
+          "filename": "minna_shokyu_1_021.mp3",
+          "duration_seconds": 28
+        },
+        {
+          "track_number": 22,
+          "filename": "minna_shokyu_1_022.mp3",
+          "duration_seconds": 30
+        },
+        {
+          "track_number": 23,
+          "filename": "minna_shokyu_1_023.mp3",
+          "duration_seconds": 93
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "track_range": "24-27",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 24,
+          "filename": "minna_shokyu_1_024.mp3",
+          "duration_seconds": 46
+        },
+        {
+          "track_number": 25,
+          "filename": "minna_shokyu_1_025.mp3",
+          "duration_seconds": 33
+        },
+        {
+          "track_number": 26,
+          "filename": "minna_shokyu_1_026.mp3",
+          "duration_seconds": 23
+        },
+        {
+          "track_number": 27,
+          "filename": "minna_shokyu_1_027.mp3",
+          "duration_seconds": 57
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "track_range": "28-31",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 28,
+          "filename": "minna_shokyu_1_028.mp3",
+          "duration_seconds": 42
+        },
+        {
+          "track_number": 29,
+          "filename": "minna_shokyu_1_029.mp3",
+          "duration_seconds": 29
+        },
+        {
+          "track_number": 30,
+          "filename": "minna_shokyu_1_030.mp3",
+          "duration_seconds": 23
+        },
+        {
+          "track_number": 31,
+          "filename": "minna_shokyu_1_031.mp3",
+          "duration_seconds": 60
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "track_range": "32-34",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 32,
+          "filename": "minna_shokyu_1_032.mp3",
+          "duration_seconds": 48
+        },
+        {
+          "track_number": 33,
+          "filename": "minna_shokyu_1_033.mp3",
+          "duration_seconds": 30
+        },
+        {
+          "track_number": 34,
+          "filename": "minna_shokyu_1_034.mp3",
+          "duration_seconds": 96
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "track_range": "35-38",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 35,
+          "filename": "minna_shokyu_1_035.mp3",
+          "duration_seconds": 39
+        },
+        {
+          "track_number": 36,
+          "filename": "minna_shokyu_1_036.mp3",
+          "duration_seconds": 31
+        },
+        {
+          "track_number": 37,
+          "filename": "minna_shokyu_1_037.mp3",
+          "duration_seconds": 52
+        },
+        {
+          "track_number": 38,
+          "filename": "minna_shokyu_1_038.mp3",
+          "duration_seconds": 43
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "track_range": "39-42",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 39,
+          "filename": "minna_shokyu_1_039.mp3",
+          "duration_seconds": 46
+        },
+        {
+          "track_number": 40,
+          "filename": "minna_shokyu_1_040.mp3",
+          "duration_seconds": 33
+        },
+        {
+          "track_number": 41,
+          "filename": "minna_shokyu_1_041.mp3",
+          "duration_seconds": 21
+        },
+        {
+          "track_number": 42,
+          "filename": "minna_shokyu_1_042.mp3",
+          "duration_seconds": 61
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "track_range": "43-45",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 43,
+          "filename": "minna_shokyu_1_043.mp3",
+          "duration_seconds": 36
+        },
+        {
+          "track_number": 44,
+          "filename": "minna_shokyu_1_044.mp3",
+          "duration_seconds": 32
+        },
+        {
+          "track_number": 45,
+          "filename": "minna_shokyu_1_045.mp3",
+          "duration_seconds": 101
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "track_range": "46-48",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 46,
+          "filename": "minna_shokyu_1_046.mp3",
+          "duration_seconds": 58
+        },
+        {
+          "track_number": 47,
+          "filename": "minna_shokyu_1_047.mp3",
+          "duration_seconds": 34
+        },
+        {
+          "track_number": 48,
+          "filename": "minna_shokyu_1_048.mp3",
+          "duration_seconds": 101
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "track_range": "49-52",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 49,
+          "filename": "minna_shokyu_1_049.mp3",
+          "duration_seconds": 53
+        },
+        {
+          "track_number": 50,
+          "filename": "minna_shokyu_1_050.mp3",
+          "duration_seconds": 30
+        },
+        {
+          "track_number": 51,
+          "filename": "minna_shokyu_1_051.mp3",
+          "duration_seconds": 27
+        },
+        {
+          "track_number": 52,
+          "filename": "minna_shokyu_1_052.mp3",
+          "duration_seconds": 61
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "track_range": "53-55",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 53,
+          "filename": "minna_shokyu_1_053.mp3",
+          "duration_seconds": 36
+        },
+        {
+          "track_number": 54,
+          "filename": "minna_shokyu_1_054.mp3",
+          "duration_seconds": 32
+        },
+        {
+          "track_number": 55,
+          "filename": "minna_shokyu_1_055.mp3",
+          "duration_seconds": 93
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "track_range": "56-59",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 56,
+          "filename": "minna_shokyu_1_056.mp3",
+          "duration_seconds": 42
+        },
+        {
+          "track_number": 57,
+          "filename": "minna_shokyu_1_057.mp3",
+          "duration_seconds": 32
+        },
+        {
+          "track_number": 58,
+          "filename": "minna_shokyu_1_058.mp3",
+          "duration_seconds": 31
+        },
+        {
+          "track_number": 59,
+          "filename": "minna_shokyu_1_059.mp3",
+          "duration_seconds": 64
+        }
+      ]
+    },
+    {
+      "lesson": 17,
+      "track_range": "60-62",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 60,
+          "filename": "minna_shokyu_1_060.mp3",
+          "duration_seconds": 41
+        },
+        {
+          "track_number": 61,
+          "filename": "minna_shokyu_1_061.mp3",
+          "duration_seconds": 35
+        },
+        {
+          "track_number": 62,
+          "filename": "minna_shokyu_1_062.mp3",
+          "duration_seconds": 108
+        }
+      ]
+    },
+    {
+      "lesson": 18,
+      "track_range": "63-65",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 63,
+          "filename": "minna_shokyu_1_063.mp3",
+          "duration_seconds": 36
+        },
+        {
+          "track_number": 64,
+          "filename": "minna_shokyu_1_064.mp3",
+          "duration_seconds": 32
+        },
+        {
+          "track_number": 65,
+          "filename": "minna_shokyu_1_065.mp3",
+          "duration_seconds": 117
+        }
+      ]
+    },
+    {
+      "lesson": 19,
+      "track_range": "66-68",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 66,
+          "filename": "minna_shokyu_1_066.mp3",
+          "duration_seconds": 47
+        },
+        {
+          "track_number": 67,
+          "filename": "minna_shokyu_1_067.mp3",
+          "duration_seconds": 26
+        },
+        {
+          "track_number": 68,
+          "filename": "minna_shokyu_1_068.mp3",
+          "duration_seconds": 103
+        }
+      ]
+    },
+    {
+      "lesson": 20,
+      "track_range": "69-71",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 69,
+          "filename": "minna_shokyu_1_069.mp3",
+          "duration_seconds": 32
+        },
+        {
+          "track_number": 70,
+          "filename": "minna_shokyu_1_070.mp3",
+          "duration_seconds": 30
+        },
+        {
+          "track_number": 71,
+          "filename": "minna_shokyu_1_071.mp3",
+          "duration_seconds": 102
+        }
+      ]
+    },
+    {
+      "lesson": 21,
+      "track_range": "72-74",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 72,
+          "filename": "minna_shokyu_1_072.mp3",
+          "duration_seconds": 50
+        },
+        {
+          "track_number": 73,
+          "filename": "minna_shokyu_1_073.mp3",
+          "duration_seconds": 33
+        },
+        {
+          "track_number": 74,
+          "filename": "minna_shokyu_1_074.mp3",
+          "duration_seconds": 110
+        }
+      ]
+    },
+    {
+      "lesson": 22,
+      "track_range": "75-77",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 75,
+          "filename": "minna_shokyu_1_075.mp3",
+          "duration_seconds": 43
+        },
+        {
+          "track_number": 76,
+          "filename": "minna_shokyu_1_076.mp3",
+          "duration_seconds": 34
+        },
+        {
+          "track_number": 77,
+          "filename": "minna_shokyu_1_077.mp3",
+          "duration_seconds": 96
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "track_range": "78-81",
+      "track_count": 4,
+      "files": [
+        {
+          "track_number": 78,
+          "filename": "minna_shokyu_1_078.mp3",
+          "duration_seconds": 48
+        },
+        {
+          "track_number": 79,
+          "filename": "minna_shokyu_1_079.mp3",
+          "duration_seconds": 33
+        },
+        {
+          "track_number": 80,
+          "filename": "minna_shokyu_1_080.mp3",
+          "duration_seconds": 38
+        },
+        {
+          "track_number": 81,
+          "filename": "minna_shokyu_1_081.mp3",
+          "duration_seconds": 69
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "track_range": "82-84",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 82,
+          "filename": "minna_shokyu_1_082.mp3",
+          "duration_seconds": 38
+        },
+        {
+          "track_number": 83,
+          "filename": "minna_shokyu_1_083.mp3",
+          "duration_seconds": 39
+        },
+        {
+          "track_number": 84,
+          "filename": "minna_shokyu_1_084.mp3",
+          "duration_seconds": 108
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "track_range": "85-87",
+      "track_count": 3,
+      "files": [
+        {
+          "track_number": 85,
+          "filename": "minna_shokyu_1_085.mp3",
+          "duration_seconds": 43
+        },
+        {
+          "track_number": 86,
+          "filename": "minna_shokyu_1_086.mp3",
+          "duration_seconds": 35
+        },
+        {
+          "track_number": 87,
+          "filename": "minna_shokyu_1_087.mp3",
+          "duration_seconds": 112
+        }
+      ]
+    }
+  ]
+}

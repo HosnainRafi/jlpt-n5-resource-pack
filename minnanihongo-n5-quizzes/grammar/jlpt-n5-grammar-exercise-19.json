@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-926126272165",
+    "slug": "jlpt-n5-grammar-exercise-19",
+    "title": "JLPT N5 – Grammar Exercise 19",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-19",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 10,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "きょうはあまり _______ ありません。",
+      "choices": [
+        "いそがしく",
+        "いそがしいでは",
+        "いそがしいく",
+        "いそがしいは"
+      ],
+      "correct_answer": "いそがしく",
+      "explanation": "きょうはあまり いそがしく ありません。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "山川さんと _______ ながら、ごはんを食べました。",
+      "choices": [
+        "話す",
+        "話し",
+        "話して",
+        "話した"
+      ],
+      "correct_answer": "話し",
+      "explanation": "山川さんと 話し ながら、ごはんを食べました。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "へやをもっと _______ してください。",
+      "choices": [
+        "あかるい",
+        "あかるく",
+        "あかるくて",
+        "あかるいに"
+      ],
+      "correct_answer": "あかるく",
+      "explanation": "へやをもっと あかるく してください。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "先生のへやは _______ です。",
+      "choices": [
+        "その",
+        "どんな",
+        "こちら",
+        "どうして"
+      ],
+      "correct_answer": "こちら",
+      "explanation": "先生のへやは こちら です。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "このたまごは６こ _______ ３００円です。",
+      "choices": [
+        "と",
+        "に",
+        "で",
+        "を"
+      ],
+      "correct_answer": "で",
+      "explanation": "このたまごは６こ で ３００円です。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "休みの日はえいがを _______ たり買いものをしたりします。",
+      "choices": [
+        "みる",
+        "みた",
+        "みっ",
+        "み"
+      ],
+      "correct_answer": "み",
+      "explanation": "休みの日はえいがを み たり買いものをしたりします。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "えいがは何時 _______ おわりますか。",
+      "choices": [
+        "など",
+        "ごろ",
+        "じゅう",
+        "か"
+      ],
+      "correct_answer": "ごろ",
+      "explanation": "えいがは何時 ごろ おわりますか。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "山へはぼうしを _______ 行きましょう。",
+      "choices": [
+        "かぶると",
+        "かぶりて",
+        "かぶりに",
+        "かぶって"
+      ],
+      "correct_answer": "かぶって",
+      "explanation": "山へはぼうしを かぶって 行きましょう。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "パーティーはまだ _______ 。",
+      "choices": [
+        "はじまります",
+        "はじまりません",
+        "はじまりました",
+        "はじまっています"
+      ],
+      "correct_answer": "はじまりません",
+      "explanation": "パーティーはまだ はじまりません 。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "A 「先週のにちようびにどこかへ行きましたか。」 B 「いいえ、雨がふったから、 _______ 。」",
+      "choices": [
+        "どこかへ行きました",
+        "どこへも行きました",
+        "どこへへ行きませんでした",
+        "どこへも行きませんでした"
+      ],
+      "correct_answer": "どこへも行きませんでした",
+      "explanation": "A 「先週のにちようびにどこかへ行きましたか。」 B 「いいえ、雨がふったから、 どこへも行きませんでした 。」"
+    }
+  ]
+}

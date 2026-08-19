@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-3e4eef332a83",
+    "slug": "jlpt-n5-kanji-exercise-15",
+    "title": "JLPT N5 – Kanji Exercise 15",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-15",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "その ちいさい かれんだーをください。",
+      "choices": [
+        "小い",
+        "小さい",
+        "少い",
+        "少さい"
+      ],
+      "correct_answer": "小さい",
+      "explanation": "ちいさい => 小さい"
+    },
+    {
+      "question_number": 2,
+      "prompt": "いすの した にねこがいます。",
+      "choices": [
+        "下",
+        "外",
+        "上",
+        "中"
+      ],
+      "correct_answer": "下",
+      "explanation": "した => 下"
+    },
+    {
+      "question_number": 3,
+      "prompt": "むいか のごごにあいましょう。",
+      "choices": [
+        "九日",
+        "三日",
+        "六日",
+        "五日"
+      ],
+      "correct_answer": "六日",
+      "explanation": "むいか => 六日"
+    },
+    {
+      "question_number": 4,
+      "prompt": "しんかんせんに 乗った ことがありますか。",
+      "choices": [
+        "やった",
+        "いった",
+        "のった",
+        "おった"
+      ],
+      "correct_answer": "のった",
+      "explanation": "乗った => のった"
+    },
+    {
+      "question_number": 5,
+      "prompt": "よく考えてから 質問 に答えてください。",
+      "choices": [
+        "しつもん",
+        "せつめい",
+        "せんもん",
+        "しょうめい"
+      ],
+      "correct_answer": "しつもん",
+      "explanation": "質問 => しつもん"
+    },
+    {
+      "question_number": 6,
+      "prompt": "たなかさんはあした 会社 をやすみます。",
+      "choices": [
+        "かいじや",
+        "かいしや",
+        "かいじゃ",
+        "かいしゃ"
+      ],
+      "correct_answer": "かいしゃ",
+      "explanation": "会社 => かいしゃ"
+    },
+    {
+      "question_number": 7,
+      "prompt": "このまちの にし にはおおきなかわがあります。",
+      "choices": [
+        "酉",
+        "西",
+        "東",
+        "束"
+      ],
+      "correct_answer": "西",
+      "explanation": "にし => 西"
+    },
+    {
+      "question_number": 8,
+      "prompt": "きのう たくしー でかいしゃへいきました。",
+      "choices": [
+        "タクシー",
+        "タウシー",
+        "タケシー",
+        "タワシー"
+      ],
+      "correct_answer": "タクシー",
+      "explanation": "たくしー => タクシー"
+    },
+    {
+      "question_number": 9,
+      "prompt": "らいねん はながいやすみがほしいです。",
+      "choices": [
+        "未年",
+        "未牛",
+        "来年",
+        "来牛"
+      ],
+      "correct_answer": "来年",
+      "explanation": "来年 => らいねん"
+    },
+    {
+      "question_number": 10,
+      "prompt": "うちのちかくに 新しい としょかんがあります。",
+      "choices": [
+        "いそがしい",
+        "あたらしい",
+        "なつかしい",
+        "うつくしい"
+      ],
+      "correct_answer": "あたらしい",
+      "explanation": "新しい => あたらしい"
+    }
+  ]
+}

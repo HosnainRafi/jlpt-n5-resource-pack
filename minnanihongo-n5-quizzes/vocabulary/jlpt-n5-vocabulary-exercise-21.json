@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-b533bf8e1421",
+    "slug": "jlpt-n5-vocabulary-exercise-21",
+    "title": "JLPT N5 – Vocabulary Exercise 21",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-21",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "いい _______ をとりましたね。",
+      "choices": [
+        "さいふ",
+        "りんご",
+        "かみ",
+        "しゃしん"
+      ],
+      "correct_answer": "しゃしん",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "わたしはテレビを _______ もっています。",
+      "choices": [
+        "ふたつ",
+        "にひき",
+        "にだい",
+        "にほん"
+      ],
+      "correct_answer": "にだい",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "へやにはひとが _______ いてあついです。",
+      "choices": [
+        "とても",
+        "おおきく",
+        "おおぜい",
+        "たいへん"
+      ],
+      "correct_answer": "おおぜい",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "あの、この _______ を少しもらってもいいですか？",
+      "choices": [
+        "くるま",
+        "へや",
+        "はな",
+        "あめ"
+      ],
+      "correct_answer": "はな",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "このいすは _______ ではありません。",
+      "choices": [
+        "りっぱ",
+        "べんり",
+        "ゆうめい",
+        "じょうぶ"
+      ],
+      "correct_answer": "じょうぶ",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "「ごはんをもういっぱいいかがですか。」「_______ 。」",
+      "choices": [
+        "けっこうです",
+        "たいせつです",
+        "たいへんです",
+        "ちょうどです"
+      ],
+      "correct_answer": "けっこうです",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "ここからがっこうまで２ _______ です。",
+      "choices": [
+        "はい",
+        "ひき",
+        "キロ",
+        "カップ"
+      ],
+      "correct_answer": "キロ",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "この _______ をまっすぐいってください。",
+      "choices": [
+        "えき",
+        "した",
+        "みち",
+        "うち"
+      ],
+      "correct_answer": "みち",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "よる _______ をみがいてからねます。",
+      "choices": [
+        "は",
+        "て",
+        "あし",
+        "あたま"
+      ],
+      "correct_answer": "は",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "たいていはあるいていきますが、_______ バスでいきます。",
+      "choices": [
+        "いつも",
+        "いろいろ",
+        "ときどき",
+        "だんだん"
+      ],
+      "correct_answer": "ときどき",
+      "explanation": null
+    }
+  ]
+}

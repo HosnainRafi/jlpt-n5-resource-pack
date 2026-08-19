@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-0a76e0c721ea",
+    "slug": "jlpt-n5-grammar-exercise-15",
+    "title": "JLPT N5 – Grammar Exercise 15",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-15",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "きょねんのふゆはゆきが１かい _______ ふりませんでした。",
+      "choices": [
+        "は",
+        "に",
+        "しか",
+        "だけ"
+      ],
+      "correct_answer": "しか",
+      "explanation": "きょねんのふゆはゆきが１かい しか ふりませんでした。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "ぎんこう _______ デパ－ト _______ 行きませんでした。",
+      "choices": [
+        "へも/へも",
+        "もへ/もへ",
+        "へは/へは",
+        "はへ/はへ"
+      ],
+      "correct_answer": "へも/へも",
+      "explanation": "ぎんこう へも デパ－ト へも 行きませんでした。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "まいあさ会社に _______ まえにスポーツをします。",
+      "choices": [
+        "行く",
+        "行きます",
+        "行った",
+        "行って"
+      ],
+      "correct_answer": "行く",
+      "explanation": "まいあさ会社に 行く まえにスポーツをします。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "りょうりはじぶん _______ つくりますか。",
+      "choices": [
+        "へ",
+        "か",
+        "で",
+        "を"
+      ],
+      "correct_answer": "で",
+      "explanation": "りょうりはじぶん で つくりますか。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "すみません、ちょっと _______ ください。",
+      "choices": [
+        "まち",
+        "まって",
+        "まった",
+        "またない"
+      ],
+      "correct_answer": "まって",
+      "explanation": "すみません、ちょっと まって ください。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "びょうきに _______ 時は、びょういんへ行きます。",
+      "choices": [
+        "ならない",
+        "なるの",
+        "なって",
+        "なった"
+      ],
+      "correct_answer": "なった",
+      "explanation": "びょうきに なった 時は、びょういんへ行きます。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "へやにはだれ _______ いません。",
+      "choices": [
+        "が",
+        "か",
+        "も",
+        "は"
+      ],
+      "correct_answer": "も",
+      "explanation": "へやにはだれ も いません。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "わたしはなつにうみで _______ たいです。",
+      "choices": [
+        "およぐ",
+        "およい",
+        "およが",
+        "およぎ"
+      ],
+      "correct_answer": "およぎ",
+      "explanation": "わたしはなつにうみで およぎ たいです。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "山田さんはテニスはしますが、ゴルフ _______ しません。",
+      "choices": [
+        "は",
+        "と",
+        "が",
+        "も"
+      ],
+      "correct_answer": "は",
+      "explanation": "山田さんはテニスはしますが、ゴルフ は しません。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "あしたのパーディーはたぶん _______ でしょう。",
+      "choices": [
+        "にぎやかに",
+        "にぎやかだ",
+        "にぎやかな",
+        "にぎやか"
+      ],
+      "correct_answer": "にぎやか",
+      "explanation": "あしたのパーディーはたぶん にぎやか でしょう。"
+    }
+  ]
+}

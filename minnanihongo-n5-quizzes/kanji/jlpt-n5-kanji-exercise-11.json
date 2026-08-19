@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-3a60b3f24952",
+    "slug": "jlpt-n5-kanji-exercise-11",
+    "title": "JLPT N5 – Kanji Exercise 11",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-11",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "このほんを よんで ください。",
+      "choices": [
+        "諸んで",
+        "続んで",
+        "読んで",
+        "緒んで"
+      ],
+      "correct_answer": "読んで",
+      "explanation": "よんで => 読んで"
+    },
+    {
+      "question_number": 2,
+      "prompt": "日本語の 授業 をうけます。",
+      "choices": [
+        "しゅきょう",
+        "しゅうきょう",
+        "じゅぎょう",
+        "じゅうぎょう"
+      ],
+      "correct_answer": "じゅぎょう",
+      "explanation": "授業 => じゅぎょう"
+    },
+    {
+      "question_number": 3,
+      "prompt": "あの古いいえには 電話 がありません。",
+      "choices": [
+        "でんき",
+        "でんわ",
+        "てんわ",
+        "てんき"
+      ],
+      "correct_answer": "でんわ",
+      "explanation": "電話 => でんわ"
+    },
+    {
+      "question_number": 4,
+      "prompt": "かようび にとしょかんへいきました。",
+      "choices": [
+        "土ようび",
+        "火ようび",
+        "水ようび",
+        "木ようび"
+      ],
+      "correct_answer": "火ようび",
+      "explanation": "かようび => 火ようび"
+    },
+    {
+      "question_number": 5,
+      "prompt": "かわいい女の子が 生まれました 。",
+      "choices": [
+        "ほまれました",
+        "ふまれました",
+        "おまれました",
+        "うまれました"
+      ],
+      "correct_answer": "うまれました",
+      "explanation": "生まれました => うまれました"
+    },
+    {
+      "question_number": 6,
+      "prompt": "みなさん、みぎのドアから でて ください。",
+      "choices": [
+        "缶て",
+        "申て",
+        "出て",
+        "由て"
+      ],
+      "correct_answer": "出て",
+      "explanation": "でて => 出て"
+    },
+    {
+      "question_number": 7,
+      "prompt": "きのうはじめて 魚 をたべました。",
+      "choices": [
+        "さくら",
+        "さらく",
+        "さなか",
+        "さかな"
+      ],
+      "correct_answer": "さかな",
+      "explanation": "魚 => さかな"
+    },
+    {
+      "question_number": 8,
+      "prompt": "この白い魚は 高い です。",
+      "choices": [
+        "ほそい",
+        "ひくい",
+        "ふとい",
+        "たかい"
+      ],
+      "correct_answer": "たかい",
+      "explanation": "高い => たかい"
+    },
+    {
+      "question_number": 9,
+      "prompt": "せんせいの はなし をよくきいてください。",
+      "choices": [
+        "話",
+        "語",
+        "詰",
+        "読"
+      ],
+      "correct_answer": "話",
+      "explanation": "はなし => 話"
+    },
+    {
+      "question_number": 10,
+      "prompt": "さとうさんはきょう がっこう をやすんだ。",
+      "choices": [
+        "学校",
+        "字校",
+        "字枚",
+        "学枚"
+      ],
+      "correct_answer": "学校",
+      "explanation": "がっこう => 学校"
+    }
+  ]
+}

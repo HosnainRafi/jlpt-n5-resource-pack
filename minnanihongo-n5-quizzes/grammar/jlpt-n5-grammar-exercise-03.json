@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "quiz_id": "crawl-a915a5cb3b17",
+    "slug": "jlpt-n5-grammar-exercise-03",
+    "title": "JLPT N5 – Grammar Exercise 03",
+    "level": "N5",
+    "categories": [
+      "grammar",
+      "reading"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-03",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 10,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "まっすぐベッドに行きなさい。明日は _______ なりますよ。",
+      "choices": [
+        "いそがしいに",
+        "いそがしく",
+        "いそがしい",
+        "いそがしくて"
+      ],
+      "correct_answer": "いそがしく",
+      "explanation": "まっすぐベッドに行きなさい。明日は いそがしく なりますよ。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "とうきょうにかえる _______ 、もういちどあなたに会いたいです。",
+      "choices": [
+        "まえ",
+        "まえで",
+        "まえに",
+        "まえには"
+      ],
+      "correct_answer": "まえに",
+      "explanation": "とうきょうにかえる まえに 、もういちどあなたに会いたいです。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "もうすこし _______ してくださいませんか。",
+      "choices": [
+        "しずかに",
+        "しずかだ",
+        "しずか",
+        "しずかで"
+      ],
+      "correct_answer": "しずかに",
+      "explanation": "もうすこし しずかに してくださいませんか。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "わたしは、あなたに _______ にここに来ました。",
+      "choices": [
+        "会う",
+        "会って",
+        "会い",
+        "会います"
+      ],
+      "correct_answer": "会い",
+      "explanation": "わたしは、あなたに 会い にここに来ました。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "そんなにしんぱい _______ な。彼はぜったい大丈夫だ。",
+      "choices": [
+        "し",
+        "する",
+        "した",
+        "している"
+      ],
+      "correct_answer": "する",
+      "explanation": "そんなにしんぱい する な。彼はぜったい大丈夫だ。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "わたしたちはもうあの家にすんで _______ 。",
+      "choices": [
+        "あります",
+        "いました",
+        "います",
+        "いません"
+      ],
+      "correct_answer": "いません",
+      "explanation": "わたしたちはもうあの家にすんで いません 。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "それ、母には _______ ほうがいいですよ。",
+      "choices": [
+        "言うな",
+        "言わないで",
+        "言わない",
+        "言わなくて"
+      ],
+      "correct_answer": "言わない",
+      "explanation": "それ、母には 言わない ほうがいいですよ。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "こどもたちが先生のまわりに _______ います。",
+      "choices": [
+        "すわり",
+        "すわって",
+        "すわる",
+        "すわった"
+      ],
+      "correct_answer": "すわって",
+      "explanation": "こどもたちが先生のまわりに すわって います。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "兄はたにんにものを教える _______ 上手なんです。",
+      "choices": [
+        "のは",
+        "のが",
+        "ので",
+        "のに"
+      ],
+      "correct_answer": "のが",
+      "explanation": "兄はたにんにものを教える のが 上手なんです。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "かのじょのへやはあまりきれい _______ 。",
+      "choices": [
+        "いません",
+        "じゃいません",
+        "ありません",
+        "じゃありません"
+      ],
+      "correct_answer": "じゃありません",
+      "explanation": "かのじょのへやはあまりきれい じゃありません 。"
+    }
+  ]
+}

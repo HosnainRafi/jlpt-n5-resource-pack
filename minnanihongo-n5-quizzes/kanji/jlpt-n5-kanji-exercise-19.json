@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-1f7ed374236e",
+    "slug": "jlpt-n5-kanji-exercise-19",
+    "title": "JLPT N5 – Kanji Exercise 19",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-19",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "おがわさんは四月から毎朝ぎゅうにゅうを 飲んで います。",
+      "choices": [
+        "たのんで",
+        "すんで",
+        "のんで",
+        "やんで"
+      ],
+      "correct_answer": "のんで",
+      "explanation": "飲んで => のんで"
+    },
+    {
+      "question_number": 2,
+      "prompt": "あそこには ながい かわがあります。",
+      "choices": [
+        "安い",
+        "広い",
+        "多い",
+        "長い"
+      ],
+      "correct_answer": "長い",
+      "explanation": "ながい => 長い"
+    },
+    {
+      "question_number": 3,
+      "prompt": "この 門 は子どもの力では開けられません。",
+      "choices": [
+        "と",
+        "はこ",
+        "まど",
+        "もん"
+      ],
+      "correct_answer": "もん",
+      "explanation": "門 => もん"
+    },
+    {
+      "question_number": 4,
+      "prompt": "はやく しゃしん をおくってください。",
+      "choices": [
+        "曷真",
+        "曷頁",
+        "写真",
+        "写頁"
+      ],
+      "correct_answer": "写真",
+      "explanation": "しゃしん => 写真"
+    },
+    {
+      "question_number": 5,
+      "prompt": "中田さんはくろい 背広 をきています。",
+      "choices": [
+        "せびろ",
+        "せひろ",
+        "せいこう",
+        "せこう"
+      ],
+      "correct_answer": "せびろ",
+      "explanation": "背広 => せびろ"
+    },
+    {
+      "question_number": 6,
+      "prompt": "この国はふゆでも ２０ど いじょうになることがある。",
+      "choices": [
+        "２０広",
+        "２０度",
+        "２０庄",
+        "２０席"
+      ],
+      "correct_answer": "２０度",
+      "explanation": "２０ど => ２０度"
+    },
+    {
+      "question_number": 7,
+      "prompt": "このことばの 意味 はなんですか。",
+      "choices": [
+        "いみ",
+        "いい",
+        "いり",
+        "いし"
+      ],
+      "correct_answer": "いみ",
+      "explanation": "意味 => いみ"
+    },
+    {
+      "question_number": 8,
+      "prompt": "かわいい 女の子 が生まれました。",
+      "choices": [
+        "おんなのこ",
+        "おなのこ",
+        "あんなのこ",
+        "あなのこ"
+      ],
+      "correct_answer": "おんなのこ",
+      "explanation": "女の子 => おんなのこ"
+    },
+    {
+      "question_number": 9,
+      "prompt": "えきの 後ろ にこうえんがあります。",
+      "choices": [
+        "あとろ",
+        "ごろ",
+        "うしろ",
+        "こうろ"
+      ],
+      "correct_answer": "うしろ",
+      "explanation": "後ろ => うしろ"
+    },
+    {
+      "question_number": 10,
+      "prompt": "このまちのにしには おおきな かわがあります。",
+      "choices": [
+        "犬きな",
+        "夫きな",
+        "大きな",
+        "夭きな"
+      ],
+      "correct_answer": "大きな",
+      "explanation": "おおきな => 大きな"
+    }
+  ]
+}

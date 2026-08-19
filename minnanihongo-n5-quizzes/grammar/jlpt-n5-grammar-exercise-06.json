@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "quiz_id": "crawl-9fd665f36003",
+    "slug": "jlpt-n5-grammar-exercise-06",
+    "title": "JLPT N5 – Grammar Exercise 06",
+    "level": "N5",
+    "categories": [
+      "grammar",
+      "reading"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-06",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 40,
+    "correct_count": 4
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "どれ _______ あなたのかぎですか？",
+      "choices": [
+        "は",
+        "や",
+        "を",
+        "が"
+      ],
+      "correct_answer": "が",
+      "explanation": "どれ が あなたのかぎですか？"
+    },
+    {
+      "question_number": 2,
+      "prompt": "なつやすみはなんにち _______ はじまりますか？",
+      "choices": [
+        "だけ",
+        "では",
+        "から",
+        "まで"
+      ],
+      "correct_answer": "から",
+      "explanation": "なつやすみはなんにち から はじまりますか？"
+    },
+    {
+      "question_number": 3,
+      "prompt": "しんぶんをさがしましたが、どこ _______ ありません。",
+      "choices": [
+        "にも",
+        "でも",
+        "までも",
+        "へも"
+      ],
+      "correct_answer": "にも",
+      "explanation": "しんぶんをさがしましたが、どこ にも ありません。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "パーティーはなんじにはじまる _______ しっていますか？",
+      "choices": [
+        "か",
+        "で",
+        "を",
+        "が"
+      ],
+      "correct_answer": "か",
+      "explanation": "パーティーはなんじにはじまる か しっていますか？"
+    },
+    {
+      "question_number": 5,
+      "prompt": "おかねは1000円 _______ あります。",
+      "choices": [
+        "ぐらい",
+        "ごろ",
+        "しか",
+        "にも"
+      ],
+      "correct_answer": "ぐらい",
+      "explanation": "おかねは1000円 ぐらい あります。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "かさはそこ _______ おいてください。",
+      "choices": [
+        "と",
+        "が",
+        "を",
+        "に"
+      ],
+      "correct_answer": "に",
+      "explanation": "かさはそこ に おいてください。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "わたしはあまり _______ ありませんでした。",
+      "choices": [
+        "げんきでは",
+        "げんきには",
+        "げんきな",
+        "げんきだ"
+      ],
+      "correct_answer": "げんきでは",
+      "explanation": "わたしはあまり げんきでは ありませんでした。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "わたしのへやは _______ ないです。",
+      "choices": [
+        "ひろいく",
+        "ひろいでは",
+        "ひろく",
+        "ひろい"
+      ],
+      "correct_answer": "ひろく",
+      "explanation": "わたしのへやは ひろく ないです。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "あの子はうたを _______ うたいます。",
+      "choices": [
+        "じょうず",
+        "じょううな",
+        "じょうずに",
+        "じょうずで"
+      ],
+      "correct_answer": "じょうずに",
+      "explanation": "あの子はうたを じょうずに うたいます。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "字をもうすこし _______ かきましょう。",
+      "choices": [
+        "大きい",
+        "大きく",
+        "大きいに",
+        "大きくに"
+      ],
+      "correct_answer": "大きく",
+      "explanation": "字をもうすこし 大きく かきましょう。"
+    }
+  ]
+}

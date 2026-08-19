@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "quiz_id": "crawl-efdd0a890c1f",
+    "slug": "jlpt-n5-kanji-exercise-8",
+    "title": "JLPT N5 – Kanji Exercise 8",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 7,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-8",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 7,
+    "score": 29,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "駅",
+      "choices": [
+        "えき",
+        "あき",
+        "うま",
+        "ゆき"
+      ],
+      "correct_answer": "えき",
+      "explanation": "駅: えき"
+    },
+    {
+      "question_number": 2,
+      "prompt": "南",
+      "choices": [
+        "ひがし",
+        "きた",
+        "にし",
+        "みなみ"
+      ],
+      "correct_answer": "みなみ",
+      "explanation": "南: みなみ"
+    },
+    {
+      "question_number": 3,
+      "prompt": "なつ",
+      "choices": [
+        "夏",
+        "冬",
+        "春",
+        "秋"
+      ],
+      "correct_answer": "夏",
+      "explanation": "なつ: 夏"
+    },
+    {
+      "question_number": 4,
+      "prompt": "がいこく",
+      "choices": [
+        "外玉",
+        "例国",
+        "例玉",
+        "外国"
+      ],
+      "correct_answer": "外国",
+      "explanation": "がいこく: 外国"
+    },
+    {
+      "question_number": 5,
+      "prompt": "天気",
+      "choices": [
+        "てんけ",
+        "ていき",
+        "てんき",
+        "ていけ"
+      ],
+      "correct_answer": "てんき",
+      "explanation": "天気: てんき"
+    },
+    {
+      "question_number": 6,
+      "prompt": "後で",
+      "choices": [
+        "うしろで",
+        "ごで",
+        "あとで",
+        "こうで"
+      ],
+      "correct_answer": "あとで",
+      "explanation": "後で: あとで"
+    },
+    {
+      "question_number": 7,
+      "prompt": "外",
+      "choices": [
+        "がい",
+        "そこ",
+        "かい",
+        "そと"
+      ],
+      "correct_answer": "そと",
+      "explanation": "外: そと"
+    }
+  ]
+}

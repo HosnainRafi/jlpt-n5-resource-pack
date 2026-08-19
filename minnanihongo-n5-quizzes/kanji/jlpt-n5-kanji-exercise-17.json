@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-da6de9a6db3a",
+    "slug": "jlpt-n5-kanji-exercise-17",
+    "title": "JLPT N5 – Kanji Exercise 17",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-17",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "スポーツをして頭も 体 もすっきりしました。",
+      "choices": [
+        "からた",
+        "かだら",
+        "がらた",
+        "からだ"
+      ],
+      "correct_answer": "からだ",
+      "explanation": "体 => からだ"
+    },
+    {
+      "question_number": 2,
+      "prompt": "ここはこうつうが 不便 です。",
+      "choices": [
+        "ぶべん",
+        "ぶへん",
+        "ふべん",
+        "ふへん"
+      ],
+      "correct_answer": "ふべん",
+      "explanation": "不便 => ふべん"
+    },
+    {
+      "question_number": 3,
+      "prompt": "このぶんを えいご にしてください。",
+      "choices": [
+        "芙語",
+        "荼語",
+        "竺語",
+        "英語"
+      ],
+      "correct_answer": "英語",
+      "explanation": "えいご => 英語"
+    },
+    {
+      "question_number": 4,
+      "prompt": "あに はまいにちだいがくへいきます。",
+      "choices": [
+        "姉",
+        "兄",
+        "母",
+        "父"
+      ],
+      "correct_answer": "兄",
+      "explanation": "あに => 兄"
+    },
+    {
+      "question_number": 5,
+      "prompt": "世界 の歴史をあまり知らないのでもっと勉強したい。",
+      "choices": [
+        "せか",
+        "せいか",
+        "せかい",
+        "せいかい"
+      ],
+      "correct_answer": "せかい",
+      "explanation": "世界 => せかい"
+    },
+    {
+      "question_number": 6,
+      "prompt": "シャワーを 浴びます 。",
+      "choices": [
+        "いびます",
+        "あびます",
+        "うびます",
+        "おびます"
+      ],
+      "correct_answer": "あびます",
+      "explanation": "浴びます => あびます"
+    },
+    {
+      "question_number": 7,
+      "prompt": "はやく しゃしんをおくってください。",
+      "choices": [
+        "早く",
+        "卓く",
+        "旱く",
+        "阜く"
+      ],
+      "correct_answer": "早く",
+      "explanation": "はやく => 早く"
+    },
+    {
+      "question_number": 8,
+      "prompt": "たばこを 吸って もいいですか。",
+      "choices": [
+        "あって",
+        "かって",
+        "いって",
+        "すって"
+      ],
+      "correct_answer": "すって",
+      "explanation": "吸って => すって"
+    },
+    {
+      "question_number": 9,
+      "prompt": "この道を 百 メートいってください。左にこうばんがあります。",
+      "choices": [
+        "ひゃく",
+        "びゃく",
+        "はく",
+        "ばく"
+      ],
+      "correct_answer": "ひゃく",
+      "explanation": "百 => ひゃく"
+    },
+    {
+      "question_number": 10,
+      "prompt": "しがつ はさくらがさきます。",
+      "choices": [
+        "四月",
+        "七月",
+        "一月",
+        "八月"
+      ],
+      "correct_answer": "四月",
+      "explanation": "しがつ => 四月"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-66920d5426e9",
+    "slug": "jlpt-n5-grammar-exercise-23",
+    "title": "JLPT N5 – Grammar Exercise 23",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-23",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "わたしの旅行中、 _______ _______ …★… _______ を忘れないです。",
+      "choices": [
+        "の",
+        "花に",
+        "やる",
+        "水を"
+      ],
+      "correct_answer": "やる",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "いまは _______ _______ …★… _______ です。",
+      "choices": [
+        "おなかが",
+        "いたいですから",
+        "たべたくない",
+        "何も"
+      ],
+      "correct_answer": "何も",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "_______ _______ …★… _______ かかります。",
+      "choices": [
+        "かいしゃまで",
+        "バスで",
+        "うちから",
+        "３０分ぐらい"
+      ],
+      "correct_answer": "バスで",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "ここは _______ _______ …★… _______ できます。",
+      "choices": [
+        "入る",
+        "でも",
+        "だれ",
+        "ことが"
+      ],
+      "correct_answer": "入る",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "男１ 「これ、使ってもいいですか。」 \n男２ 「どうぞ。でもあまりきれいじゃないですか、 _______ _______ …★… _______ 。」 使って 洗って ください から",
+      "choices": [
+        "使って",
+        "洗って",
+        "ください",
+        "から"
+      ],
+      "correct_answer": "使って",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "「１」に何を入れますか。",
+      "choices": [
+        "ふっています",
+        "ふります",
+        "ふっていました",
+        "ふりました"
+      ],
+      "correct_answer": "ふっています",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "「２」に何を入れますか。",
+      "choices": [
+        "だから",
+        "しかし",
+        "そして",
+        "けれど"
+      ],
+      "correct_answer": "そして",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "「３」に何を入れますか。",
+      "choices": [
+        "８時からテレビを見ます",
+        "７時からテレビを見ます",
+        "８時からテレビを見ています",
+        "７時からテレビを見ました"
+      ],
+      "correct_answer": "７時からテレビを見ます",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "「４」に何を入れますか。",
+      "choices": [
+        "に",
+        "へ",
+        "で",
+        "の"
+      ],
+      "correct_answer": "で",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "「５」に何を入れますか。",
+      "choices": [
+        "いつもべんきょうしません",
+        "いつもよくべんきょうします",
+        "ときどきべんきょうしません",
+        "ときどきよくべんきょうします"
+      ],
+      "correct_answer": "いつもよくべんきょうします",
+      "explanation": null
+    }
+  ]
+}

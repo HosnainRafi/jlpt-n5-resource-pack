@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-755afc99cf01",
+    "slug": "jlpt-n5-grammar-exercise-22",
+    "title": "JLPT N5 – Grammar Exercise 22",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-22",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "明日としょかんへ本を _______ に行きます。",
+      "choices": [
+        "かりる",
+        "かりて",
+        "かり",
+        "かりた"
+      ],
+      "correct_answer": "かり",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "子どもはかみ _______ ふねをつくっています。",
+      "choices": [
+        "で",
+        "か",
+        "に",
+        "は"
+      ],
+      "correct_answer": "で",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "あなたは今じしょを _______ か。",
+      "choices": [
+        "もってあります",
+        "もっています",
+        "もってです",
+        "もってします"
+      ],
+      "correct_answer": "もっています",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "きのうはあまり _______ です。",
+      "choices": [
+        "さむかった",
+        "さむい",
+        "さむくなかった",
+        "さむくない"
+      ],
+      "correct_answer": "さむくなかった",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "長江はちゅうごく _______ ながれています。",
+      "choices": [
+        "を",
+        "で",
+        "に",
+        "へ"
+      ],
+      "correct_answer": "を",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "まいあさ８時ごろいえを _______ かいしゃへ行きます。",
+      "choices": [
+        "でた",
+        "でる",
+        "でたり",
+        "でて"
+      ],
+      "correct_answer": "でて",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "日本りょうりはあまりすき _______ 。",
+      "choices": [
+        "です",
+        "でした",
+        "ではありません",
+        "くありません"
+      ],
+      "correct_answer": "ではありません",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "きのう母 _______ マフラーをあげました。",
+      "choices": [
+        "から",
+        "を",
+        "は",
+        "に"
+      ],
+      "correct_answer": "に",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "日本語のべんきょうは何時 _______ ですか。",
+      "choices": [
+        "だけ",
+        "から",
+        "には",
+        "では"
+      ],
+      "correct_answer": "から",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "そのちいさいとけい _______ ください。",
+      "choices": [
+        "が",
+        "を",
+        "に",
+        "へ"
+      ],
+      "correct_answer": "を",
+      "explanation": null
+    }
+  ]
+}

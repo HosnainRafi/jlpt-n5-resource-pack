@@ -1,0 +1,1572 @@
+{
+  "repo": "jlpt-n5-resource-pack",
+  "generated": "2026-08-20",
+  "collections": [
+    {
+      "name": "jlpt-n5-tests",
+      "source": "nihonez.com",
+      "item_count": 9,
+      "items": [
+        {
+          "slug": "jlpt-n5-korean-practice-test-1-2026",
+          "id": 13325,
+          "title": "JLPT N5 Korean Practice Test 1 – 2026",
+          "source": "https://nihonez.com/jlpt-test/jlpt-n5-korean-practice-test-1-2026/",
+          "section_count": 3,
+          "question_count": 67,
+          "has_listening_audio": true
+        },
+        {
+          "slug": "jlpt-n5-mock-test-2010-2011",
+          "id": 8692,
+          "title": "JLPT N5 Mock Test – 2010-2011",
+          "source": "https://nihonez.com/jlpt-test/jlpt-n5-mock-test-2010-2011/",
+          "section_count": 3,
+          "question_count": 89,
+          "has_listening_audio": true
+        },
+        {
+          "slug": "jlpt-n5-mock-test-december-2012",
+          "id": 8583,
+          "title": "JLPT N5 Mock Test – December 2012",
+          "source": "https://nihonez.com/jlpt-test/jlpt-n5-mock-test-december-2012/",
+          "section_count": 3,
+          "question_count": 91,
+          "has_listening_audio": true
+        },
+        {
+          "slug": "jlpt-n5-mock-test-december-2021",
+          "id": 4311,
+          "title": "JLPT N5 Mock Test – December 2021",
+          "source": "https://nihonez.com/jlpt-test/jlpt-n5-mock-test-december-2021/",
+          "section_count": 3,
+          "question_count": 67,
+          "has_listening_audio": true
+        },
+        {
+          "slug": "jlpt-n5-mock-test-july-2013",
+          "id": 7763,
+          "title": "JLPT N5 Mock Test – July 2013",
+          "source": "https://nihonez.com/jlpt-test/jlpt-n5-mock-test-july-2013/",
+          "section_count": 3,
+          "question_count": 91,
+          "has_listening_audio": true
+        },
+        {
+          "slug": "jlpt-n5-mock-test-july-2017",
+          "id": 7656,
+          "title": "JLPT N5 Mock Test – July 2017",
+          "source": "https://nihonez.com/jlpt-test/jlpt-n5-mock-test-july-2017/",
+          "section_count": 3,
+          "question_count": 89,
+          "has_listening_audio": true
+        },
+        {
+          "slug": "jlpt-n5-mock-test-july-2024",
+          "id": 3342,
+          "title": "JLPT N5 Mock Test – July 2024",
+          "source": "https://nihonez.com/jlpt-test/jlpt-n5-mock-test-july-2024/",
+          "section_count": 3,
+          "question_count": 67,
+          "has_listening_audio": false
+        },
+        {
+          "slug": "jlpt-n5-mock-test-july-2025",
+          "id": 10961,
+          "title": "JLPT N5 Mock Test – July 2025",
+          "source": "https://nihonez.com/jlpt-test/jlpt-n5-mock-test-july-2025/",
+          "section_count": 3,
+          "question_count": 67,
+          "has_listening_audio": true
+        },
+        {
+          "slug": "jlpt-n5-practice-workbook-vol2-2018",
+          "id": 1146,
+          "title": "JLPT Practice Workbook Vol. 2 (published 2018) – N5",
+          "source": "https://nihonez.com/jlpt-test/jlpt-practice-workbook-vol-2-published-2018-n5/",
+          "section_count": 3,
+          "question_count": 91,
+          "has_listening_audio": true
+        }
+      ]
+    },
+    {
+      "name": "minnanihongo-n5-mocks",
+      "source": "minnanihongo.com",
+      "item_count": 5,
+      "items": [
+        {
+          "slug": "n5-mock-1",
+          "title": "JLPT N5 Mock Test 1",
+          "source": "https://www.minnanihongo.com/jlpt-mock-tests/n5-mock-1",
+          "sections": [
+            {
+              "id": "n5-mock-1-vocab-1",
+              "category": "vocab",
+              "sectionOrder": 1,
+              "durationMinutes": 20,
+              "questionCount": 21
+            },
+            {
+              "id": "n5-mock-1-grammar_reading-2",
+              "category": "grammar_reading",
+              "sectionOrder": 2,
+              "durationMinutes": 40,
+              "questionCount": 22
+            },
+            {
+              "id": "n5-mock-1-listening-3",
+              "category": "listening",
+              "sectionOrder": 3,
+              "durationMinutes": 30,
+              "questionCount": 24
+            }
+          ],
+          "question_count": 67
+        },
+        {
+          "slug": "n5-mock-2",
+          "title": "JLPT N5 Mock Test 2",
+          "source": "https://www.minnanihongo.com/jlpt-mock-tests/n5-mock-2",
+          "sections": [
+            {
+              "id": "n5-mock-2-vocab-1",
+              "category": "vocab",
+              "sectionOrder": 1,
+              "durationMinutes": 20,
+              "questionCount": 21
+            },
+            {
+              "id": "n5-mock-2-grammar_reading-2",
+              "category": "grammar_reading",
+              "sectionOrder": 2,
+              "durationMinutes": 40,
+              "questionCount": 22
+            },
+            {
+              "id": "n5-mock-2-listening-3",
+              "category": "listening",
+              "sectionOrder": 3,
+              "durationMinutes": 30,
+              "questionCount": 24
+            }
+          ],
+          "question_count": 67
+        },
+        {
+          "slug": "n5-mock-3",
+          "title": "JLPT N5 Mock Test 3",
+          "source": "https://www.minnanihongo.com/jlpt-mock-tests/n5-mock-3",
+          "sections": [
+            {
+              "id": "n5-mock-3-vocab-1",
+              "category": "vocab",
+              "sectionOrder": 1,
+              "durationMinutes": 20,
+              "questionCount": 21
+            },
+            {
+              "id": "n5-mock-3-grammar_reading-2",
+              "category": "grammar_reading",
+              "sectionOrder": 2,
+              "durationMinutes": 40,
+              "questionCount": 22
+            },
+            {
+              "id": "n5-mock-3-listening-3",
+              "category": "listening",
+              "sectionOrder": 3,
+              "durationMinutes": 30,
+              "questionCount": 24
+            }
+          ],
+          "question_count": 67
+        },
+        {
+          "slug": "n5-mock-4",
+          "title": "JLPT N5 Mock Test 4",
+          "source": "https://www.minnanihongo.com/jlpt-mock-tests/n5-mock-4",
+          "sections": [
+            {
+              "id": "n5-mock-4-vocab-1",
+              "category": "vocab",
+              "sectionOrder": 1,
+              "durationMinutes": 20,
+              "questionCount": 21
+            },
+            {
+              "id": "n5-mock-4-grammar_reading-2",
+              "category": "grammar_reading",
+              "sectionOrder": 2,
+              "durationMinutes": 40,
+              "questionCount": 22
+            },
+            {
+              "id": "n5-mock-4-listening-3",
+              "category": "listening",
+              "sectionOrder": 3,
+              "durationMinutes": 30,
+              "questionCount": 24
+            }
+          ],
+          "question_count": 67
+        },
+        {
+          "slug": "n5-mock-5",
+          "title": "JLPT N5 Mock Test 5",
+          "source": "https://www.minnanihongo.com/jlpt-mock-tests/n5-mock-5",
+          "sections": [
+            {
+              "id": "n5-mock-5-vocab-1",
+              "category": "vocab",
+              "sectionOrder": 1,
+              "durationMinutes": 20,
+              "questionCount": 21
+            },
+            {
+              "id": "n5-mock-5-grammar_reading-2",
+              "category": "grammar_reading",
+              "sectionOrder": 2,
+              "durationMinutes": 40,
+              "questionCount": 22
+            },
+            {
+              "id": "n5-mock-5-listening-3",
+              "category": "listening",
+              "sectionOrder": 3,
+              "durationMinutes": 30,
+              "questionCount": 24
+            }
+          ],
+          "question_count": 67
+        }
+      ]
+    },
+    {
+      "name": "minnanihongo-n5-quizzes",
+      "source": "minnanihongo.com",
+      "item_count": 112,
+      "items": [
+        {
+          "category": "grammar",
+          "item_count": 26,
+          "items": [
+            {
+              "slug": "jlpt-n5-grammar-exercise-01",
+              "title": "JLPT N5 – Grammar Exercise 01",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-02",
+              "title": "JLPT N5 – Grammar Exercise 02",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-03",
+              "title": "JLPT N5 – Grammar Exercise 03",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-04",
+              "title": "JLPT N5 – Grammar Exercise 04",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-05",
+              "title": "JLPT N5 – Grammar Exercise 05",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-06",
+              "title": "JLPT N5 – Grammar Exercise 06",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-10",
+              "title": "JLPT N5 – Grammar Exercise 10",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-11",
+              "title": "JLPT N5 – Grammar Exercise 11",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-12",
+              "title": "JLPT N5 – Grammar Exercise 12",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-13",
+              "title": "JLPT N5 – Grammar Exercise 13",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-14",
+              "title": "JLPT N5 – Grammar Exercise 14",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-15",
+              "title": "JLPT N5 – Grammar Exercise 15",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-16",
+              "title": "JLPT N5 – Grammar Exercise 16",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-17",
+              "title": "JLPT N5 – Grammar Exercise 17",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-18",
+              "title": "JLPT N5 – Grammar Exercise 18",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-19",
+              "title": "JLPT N5 – Grammar Exercise 19",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-20",
+              "title": "JLPT N5 – Grammar Exercise 20",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-21",
+              "title": "JLPT N5 – Grammar Exercise 21",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-22",
+              "title": "JLPT N5 – Grammar Exercise 22",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-23",
+              "title": "JLPT N5 – Grammar Exercise 23",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-24",
+              "title": "JLPT N5 – Grammar Exercise 24",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-25",
+              "title": "JLPT N5 – Grammar Exercise 25",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-26",
+              "title": "JLPT N5 – Grammar Exercise 26",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-7",
+              "title": "JLPT N5 – Grammar Exercise 7",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-8",
+              "title": "JLPT N5 – Grammar Exercise 8",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-grammar-exercise-9",
+              "title": "JLPT N5 – Grammar Exercise 9",
+              "question_count": 10,
+              "has_answer_keys": true
+            }
+          ]
+        },
+        {
+          "category": "kanji",
+          "item_count": 19,
+          "items": [
+            {
+              "slug": "jlpt-n5-kanji-exercise-01",
+              "title": "JLPT N5 – Kanji Exercise 01",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-02",
+              "title": "JLPT N5 – Kanji Exercise 02",
+              "question_count": 7,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-03",
+              "title": "JLPT N5 – Kanji Exercise 03",
+              "question_count": 8,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-04",
+              "title": "JLPT N5 – Kanji Exercise 04",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-05",
+              "title": "JLPT N5 – Kanji Exercise 05",
+              "question_count": 7,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-06",
+              "title": "JLPT N5 – Kanji Exercise 06",
+              "question_count": 8,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-10",
+              "title": "JLPT N5 – Kanji Exercise 10",
+              "question_count": 7,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-11",
+              "title": "JLPT N5 – Kanji Exercise 11",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-12",
+              "title": "JLPT N5 – Kanji Exercise 12",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-13",
+              "title": "JLPT N5 – Kanji Exercise 13",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-14",
+              "title": "JLPT N5 – Kanji Exercise 14",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-15",
+              "title": "JLPT N5 – Kanji Exercise 15",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-16",
+              "title": "JLPT N5 – Kanji Exercise 16",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-17",
+              "title": "JLPT N5 – Kanji Exercise 17",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-18",
+              "title": "JLPT N5 – Kanji Exercise 18",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-19",
+              "title": "JLPT N5 – Kanji Exercise 19",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-7",
+              "title": "JLPT N5 – Kanji Exercise 7",
+              "question_count": 8,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-8",
+              "title": "JLPT N5 – Kanji Exercise 8",
+              "question_count": 7,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-kanji-exercise-9",
+              "title": "JLPT N5 – Kanji Exercise 9",
+              "question_count": 7,
+              "has_answer_keys": true
+            }
+          ]
+        },
+        {
+          "category": "listening",
+          "item_count": 43,
+          "items": [
+            {
+              "slug": "jlpt-n5-listening-exercise-01",
+              "title": "JLPT N5 – Listening Exercise 01",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-02",
+              "title": "JLPT N5 – Listening Exercise 02",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-03",
+              "title": "JLPT N5 – Listening Exercise 03",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-04",
+              "title": "JLPT N5 – Listening Exercise 04",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-05",
+              "title": "JLPT N5 – Listening Exercise 05",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-06",
+              "title": "JLPT N5 – Listening Exercise 06",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-07",
+              "title": "JLPT N5 – Listening Exercise 07",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-08",
+              "title": "JLPT N5 – Listening Exercise 08",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-09",
+              "title": "JLPT N5 – Listening Exercise 09",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-10",
+              "title": "JLPT N5 – Listening Exercise 10",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-11",
+              "title": "JLPT N5 – Listening Exercise 11",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-12",
+              "title": "JLPT N5 – Listening Exercise 12",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-13",
+              "title": "JLPT N5 – Listening Exercise 13",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-14",
+              "title": "JLPT N5 – Listening Exercise 14",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-15",
+              "title": "JLPT N5 – Listening Exercise 15",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-16",
+              "title": "JLPT N5 – Listening Exercise 16",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-17",
+              "title": "JLPT N5 – Listening Exercise 17",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-18",
+              "title": "JLPT N5 – Listening Exercise 18",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-19",
+              "title": "JLPT N5 – Listening Exercise 19",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-20",
+              "title": "JLPT N5 – Listening Exercise 20",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-21",
+              "title": "JLPT N5 – Listening Exercise 21",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-22",
+              "title": "JLPT N5 – Listening Exercise 22",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-23",
+              "title": "JLPT N5 – Listening Exercise 23",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-24",
+              "title": "JLPT N5 – Listening Exercise 24",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-25",
+              "title": "JLPT N5 – Listening Exercise 25",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-26",
+              "title": "JLPT N5 – Listening Exercise 26",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-27",
+              "title": "JLPT N5 – Listening Exercise 27",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-28",
+              "title": "JLPT N5 – Listening Exercise 28",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-29",
+              "title": "JLPT N5 – Listening Exercise 29",
+              "question_count": 7,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-30",
+              "title": "JLPT N5 – Listening Exercise 30",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-31",
+              "title": "JLPT N5 – Listening Exercise 31",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-32",
+              "title": "JLPT N5 – Listening Exercise 32",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-33",
+              "title": "JLPT N5 – Listening Exercise 33",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-34",
+              "title": "JLPT N5 – Listening Exercise 34",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-35",
+              "title": "JLPT N5 – Listening Exercise 35",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-36",
+              "title": "JLPT N5 – Listening Exercise 36",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-37",
+              "title": "JLPT N5 – Listening Exercise 37",
+              "question_count": 7,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-38",
+              "title": "JLPT N5 – Listening Exercise 38",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-39",
+              "title": "JLPT N5 – Listening Exercise 39",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-40",
+              "title": "JLPT N5 – Listening Exercise 40",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-41",
+              "title": "JLPT N5 – Listening Exercise 41",
+              "question_count": 6,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-42",
+              "title": "JLPT N5 – Listening Exercise 42",
+              "question_count": 5,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-listening-exercise-43",
+              "title": "JLPT N5 – Listening Exercise 43",
+              "question_count": 5,
+              "has_answer_keys": true
+            }
+          ]
+        },
+        {
+          "category": "reading",
+          "item_count": 1,
+          "items": [
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-01",
+              "title": "JLPT N5 – Vocabulary Exercise 01",
+              "question_count": 10,
+              "has_answer_keys": true
+            }
+          ]
+        },
+        {
+          "category": "vocabulary",
+          "item_count": 23,
+          "items": [
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-02",
+              "title": "JLPT N5 – Vocabulary Exercise 02",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-03",
+              "title": "JLPT N5 – Vocabulary Exercise 03",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-04",
+              "title": "JLPT N5 – Vocabulary Exercise 04",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-05",
+              "title": "JLPT N5 – Vocabulary Exercise 05",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-06",
+              "title": "JLPT N5 – Vocabulary Exercise 06",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-10",
+              "title": "JLPT N5 – Vocabulary Exercise 10",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-11",
+              "title": "JLPT N5 – Vocabulary Exercise 11",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-12",
+              "title": "JLPT N5 – Vocabulary Exercise 12",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-13",
+              "title": "JLPT N5 – Vocabulary Exercise 13",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-14",
+              "title": "JLPT N5 – Vocabulary Exercise 14",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-15",
+              "title": "JLPT N5 – Vocabulary Exercise 15",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-16",
+              "title": "JLPT N5 – Vocabulary Exercise 16",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-17",
+              "title": "JLPT N5 – Vocabulary Exercise 17",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-18",
+              "title": "JLPT N5 – Vocabulary Exercise 18",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-19",
+              "title": "JLPT N5 – Vocabulary Exercise 19",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-20",
+              "title": "JLPT N5 – Vocabulary Exercise 20",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-21",
+              "title": "JLPT N5 – Vocabulary Exercise 21",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-22",
+              "title": "JLPT N5 – Vocabulary Exercise 22",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-23",
+              "title": "JLPT N5 – Vocabulary Exercise 23",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-24",
+              "title": "JLPT N5 – Vocabulary Exercise 24",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-7",
+              "title": "JLPT N5 – Vocabulary Exercise 7",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-8",
+              "title": "JLPT N5 – Vocabulary Exercise 8",
+              "question_count": 10,
+              "has_answer_keys": true
+            },
+            {
+              "slug": "jlpt-n5-vocabulary-exercise-9",
+              "title": "JLPT N5 – Vocabulary Exercise 9",
+              "question_count": 10,
+              "has_answer_keys": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "minna-no-nihongo-listening",
+      "source": "3A Corporation official audio",
+      "lesson_count": 25,
+      "lessons": [
+        {
+          "lesson": 1,
+          "track_range": "1-4",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 1,
+              "filename": "minna_shokyu_1_001.mp3",
+              "duration_seconds": 24
+            },
+            {
+              "track_number": 2,
+              "filename": "minna_shokyu_1_002.mp3",
+              "duration_seconds": 31
+            },
+            {
+              "track_number": 3,
+              "filename": "minna_shokyu_1_003.mp3",
+              "duration_seconds": 30
+            },
+            {
+              "track_number": 4,
+              "filename": "minna_shokyu_1_004.mp3",
+              "duration_seconds": 77
+            }
+          ]
+        },
+        {
+          "lesson": 2,
+          "track_range": "5-8",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 5,
+              "filename": "minna_shokyu_1_005.mp3",
+              "duration_seconds": 37
+            },
+            {
+              "track_number": 6,
+              "filename": "minna_shokyu_1_006.mp3",
+              "duration_seconds": 29
+            },
+            {
+              "track_number": 7,
+              "filename": "minna_shokyu_1_007.mp3",
+              "duration_seconds": 36
+            },
+            {
+              "track_number": 8,
+              "filename": "minna_shokyu_1_008.mp3",
+              "duration_seconds": 46
+            }
+          ]
+        },
+        {
+          "lesson": 3,
+          "track_range": "9-11",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 9,
+              "filename": "minna_shokyu_1_009.mp3",
+              "duration_seconds": 38
+            },
+            {
+              "track_number": 10,
+              "filename": "minna_shokyu_1_010.mp3",
+              "duration_seconds": 30
+            },
+            {
+              "track_number": 11,
+              "filename": "minna_shokyu_1_011.mp3",
+              "duration_seconds": 81
+            }
+          ]
+        },
+        {
+          "lesson": 4,
+          "track_range": "12-16",
+          "track_count": 5,
+          "files": [
+            {
+              "track_number": 12,
+              "filename": "minna_shokyu_1_012.mp3",
+              "duration_seconds": 40
+            },
+            {
+              "track_number": 13,
+              "filename": "minna_shokyu_1_013.mp3",
+              "duration_seconds": 31
+            },
+            {
+              "track_number": 14,
+              "filename": "minna_shokyu_1_014.mp3",
+              "duration_seconds": 26
+            },
+            {
+              "track_number": 15,
+              "filename": "minna_shokyu_1_015.mp3",
+              "duration_seconds": 61
+            },
+            {
+              "track_number": 16,
+              "filename": "minna_shokyu_1_016.mp3",
+              "duration_seconds": 57
+            }
+          ]
+        },
+        {
+          "lesson": 5,
+          "track_range": "17-20",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 17,
+              "filename": "minna_shokyu_1_017.mp3",
+              "duration_seconds": 50
+            },
+            {
+              "track_number": 18,
+              "filename": "minna_shokyu_1_018.mp3",
+              "duration_seconds": 30
+            },
+            {
+              "track_number": 19,
+              "filename": "minna_shokyu_1_019.mp3",
+              "duration_seconds": 24
+            },
+            {
+              "track_number": 20,
+              "filename": "minna_shokyu_1_020.mp3",
+              "duration_seconds": 55
+            }
+          ]
+        },
+        {
+          "lesson": 6,
+          "track_range": "21-23",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 21,
+              "filename": "minna_shokyu_1_021.mp3",
+              "duration_seconds": 28
+            },
+            {
+              "track_number": 22,
+              "filename": "minna_shokyu_1_022.mp3",
+              "duration_seconds": 30
+            },
+            {
+              "track_number": 23,
+              "filename": "minna_shokyu_1_023.mp3",
+              "duration_seconds": 93
+            }
+          ]
+        },
+        {
+          "lesson": 7,
+          "track_range": "24-27",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 24,
+              "filename": "minna_shokyu_1_024.mp3",
+              "duration_seconds": 46
+            },
+            {
+              "track_number": 25,
+              "filename": "minna_shokyu_1_025.mp3",
+              "duration_seconds": 33
+            },
+            {
+              "track_number": 26,
+              "filename": "minna_shokyu_1_026.mp3",
+              "duration_seconds": 23
+            },
+            {
+              "track_number": 27,
+              "filename": "minna_shokyu_1_027.mp3",
+              "duration_seconds": 57
+            }
+          ]
+        },
+        {
+          "lesson": 8,
+          "track_range": "28-31",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 28,
+              "filename": "minna_shokyu_1_028.mp3",
+              "duration_seconds": 42
+            },
+            {
+              "track_number": 29,
+              "filename": "minna_shokyu_1_029.mp3",
+              "duration_seconds": 29
+            },
+            {
+              "track_number": 30,
+              "filename": "minna_shokyu_1_030.mp3",
+              "duration_seconds": 23
+            },
+            {
+              "track_number": 31,
+              "filename": "minna_shokyu_1_031.mp3",
+              "duration_seconds": 60
+            }
+          ]
+        },
+        {
+          "lesson": 9,
+          "track_range": "32-34",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 32,
+              "filename": "minna_shokyu_1_032.mp3",
+              "duration_seconds": 48
+            },
+            {
+              "track_number": 33,
+              "filename": "minna_shokyu_1_033.mp3",
+              "duration_seconds": 30
+            },
+            {
+              "track_number": 34,
+              "filename": "minna_shokyu_1_034.mp3",
+              "duration_seconds": 96
+            }
+          ]
+        },
+        {
+          "lesson": 10,
+          "track_range": "35-38",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 35,
+              "filename": "minna_shokyu_1_035.mp3",
+              "duration_seconds": 39
+            },
+            {
+              "track_number": 36,
+              "filename": "minna_shokyu_1_036.mp3",
+              "duration_seconds": 31
+            },
+            {
+              "track_number": 37,
+              "filename": "minna_shokyu_1_037.mp3",
+              "duration_seconds": 52
+            },
+            {
+              "track_number": 38,
+              "filename": "minna_shokyu_1_038.mp3",
+              "duration_seconds": 43
+            }
+          ]
+        },
+        {
+          "lesson": 11,
+          "track_range": "39-42",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 39,
+              "filename": "minna_shokyu_1_039.mp3",
+              "duration_seconds": 46
+            },
+            {
+              "track_number": 40,
+              "filename": "minna_shokyu_1_040.mp3",
+              "duration_seconds": 33
+            },
+            {
+              "track_number": 41,
+              "filename": "minna_shokyu_1_041.mp3",
+              "duration_seconds": 21
+            },
+            {
+              "track_number": 42,
+              "filename": "minna_shokyu_1_042.mp3",
+              "duration_seconds": 61
+            }
+          ]
+        },
+        {
+          "lesson": 12,
+          "track_range": "43-45",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 43,
+              "filename": "minna_shokyu_1_043.mp3",
+              "duration_seconds": 36
+            },
+            {
+              "track_number": 44,
+              "filename": "minna_shokyu_1_044.mp3",
+              "duration_seconds": 32
+            },
+            {
+              "track_number": 45,
+              "filename": "minna_shokyu_1_045.mp3",
+              "duration_seconds": 101
+            }
+          ]
+        },
+        {
+          "lesson": 13,
+          "track_range": "46-48",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 46,
+              "filename": "minna_shokyu_1_046.mp3",
+              "duration_seconds": 58
+            },
+            {
+              "track_number": 47,
+              "filename": "minna_shokyu_1_047.mp3",
+              "duration_seconds": 34
+            },
+            {
+              "track_number": 48,
+              "filename": "minna_shokyu_1_048.mp3",
+              "duration_seconds": 101
+            }
+          ]
+        },
+        {
+          "lesson": 14,
+          "track_range": "49-52",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 49,
+              "filename": "minna_shokyu_1_049.mp3",
+              "duration_seconds": 53
+            },
+            {
+              "track_number": 50,
+              "filename": "minna_shokyu_1_050.mp3",
+              "duration_seconds": 30
+            },
+            {
+              "track_number": 51,
+              "filename": "minna_shokyu_1_051.mp3",
+              "duration_seconds": 27
+            },
+            {
+              "track_number": 52,
+              "filename": "minna_shokyu_1_052.mp3",
+              "duration_seconds": 61
+            }
+          ]
+        },
+        {
+          "lesson": 15,
+          "track_range": "53-55",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 53,
+              "filename": "minna_shokyu_1_053.mp3",
+              "duration_seconds": 36
+            },
+            {
+              "track_number": 54,
+              "filename": "minna_shokyu_1_054.mp3",
+              "duration_seconds": 32
+            },
+            {
+              "track_number": 55,
+              "filename": "minna_shokyu_1_055.mp3",
+              "duration_seconds": 93
+            }
+          ]
+        },
+        {
+          "lesson": 16,
+          "track_range": "56-59",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 56,
+              "filename": "minna_shokyu_1_056.mp3",
+              "duration_seconds": 42
+            },
+            {
+              "track_number": 57,
+              "filename": "minna_shokyu_1_057.mp3",
+              "duration_seconds": 32
+            },
+            {
+              "track_number": 58,
+              "filename": "minna_shokyu_1_058.mp3",
+              "duration_seconds": 31
+            },
+            {
+              "track_number": 59,
+              "filename": "minna_shokyu_1_059.mp3",
+              "duration_seconds": 64
+            }
+          ]
+        },
+        {
+          "lesson": 17,
+          "track_range": "60-62",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 60,
+              "filename": "minna_shokyu_1_060.mp3",
+              "duration_seconds": 41
+            },
+            {
+              "track_number": 61,
+              "filename": "minna_shokyu_1_061.mp3",
+              "duration_seconds": 35
+            },
+            {
+              "track_number": 62,
+              "filename": "minna_shokyu_1_062.mp3",
+              "duration_seconds": 108
+            }
+          ]
+        },
+        {
+          "lesson": 18,
+          "track_range": "63-65",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 63,
+              "filename": "minna_shokyu_1_063.mp3",
+              "duration_seconds": 36
+            },
+            {
+              "track_number": 64,
+              "filename": "minna_shokyu_1_064.mp3",
+              "duration_seconds": 32
+            },
+            {
+              "track_number": 65,
+              "filename": "minna_shokyu_1_065.mp3",
+              "duration_seconds": 117
+            }
+          ]
+        },
+        {
+          "lesson": 19,
+          "track_range": "66-68",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 66,
+              "filename": "minna_shokyu_1_066.mp3",
+              "duration_seconds": 47
+            },
+            {
+              "track_number": 67,
+              "filename": "minna_shokyu_1_067.mp3",
+              "duration_seconds": 26
+            },
+            {
+              "track_number": 68,
+              "filename": "minna_shokyu_1_068.mp3",
+              "duration_seconds": 103
+            }
+          ]
+        },
+        {
+          "lesson": 20,
+          "track_range": "69-71",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 69,
+              "filename": "minna_shokyu_1_069.mp3",
+              "duration_seconds": 32
+            },
+            {
+              "track_number": 70,
+              "filename": "minna_shokyu_1_070.mp3",
+              "duration_seconds": 30
+            },
+            {
+              "track_number": 71,
+              "filename": "minna_shokyu_1_071.mp3",
+              "duration_seconds": 102
+            }
+          ]
+        },
+        {
+          "lesson": 21,
+          "track_range": "72-74",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 72,
+              "filename": "minna_shokyu_1_072.mp3",
+              "duration_seconds": 50
+            },
+            {
+              "track_number": 73,
+              "filename": "minna_shokyu_1_073.mp3",
+              "duration_seconds": 33
+            },
+            {
+              "track_number": 74,
+              "filename": "minna_shokyu_1_074.mp3",
+              "duration_seconds": 110
+            }
+          ]
+        },
+        {
+          "lesson": 22,
+          "track_range": "75-77",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 75,
+              "filename": "minna_shokyu_1_075.mp3",
+              "duration_seconds": 43
+            },
+            {
+              "track_number": 76,
+              "filename": "minna_shokyu_1_076.mp3",
+              "duration_seconds": 34
+            },
+            {
+              "track_number": 77,
+              "filename": "minna_shokyu_1_077.mp3",
+              "duration_seconds": 96
+            }
+          ]
+        },
+        {
+          "lesson": 23,
+          "track_range": "78-81",
+          "track_count": 4,
+          "files": [
+            {
+              "track_number": 78,
+              "filename": "minna_shokyu_1_078.mp3",
+              "duration_seconds": 48
+            },
+            {
+              "track_number": 79,
+              "filename": "minna_shokyu_1_079.mp3",
+              "duration_seconds": 33
+            },
+            {
+              "track_number": 80,
+              "filename": "minna_shokyu_1_080.mp3",
+              "duration_seconds": 38
+            },
+            {
+              "track_number": 81,
+              "filename": "minna_shokyu_1_081.mp3",
+              "duration_seconds": 69
+            }
+          ]
+        },
+        {
+          "lesson": 24,
+          "track_range": "82-84",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 82,
+              "filename": "minna_shokyu_1_082.mp3",
+              "duration_seconds": 38
+            },
+            {
+              "track_number": 83,
+              "filename": "minna_shokyu_1_083.mp3",
+              "duration_seconds": 39
+            },
+            {
+              "track_number": 84,
+              "filename": "minna_shokyu_1_084.mp3",
+              "duration_seconds": 108
+            }
+          ]
+        },
+        {
+          "lesson": 25,
+          "track_range": "85-87",
+          "track_count": 3,
+          "files": [
+            {
+              "track_number": 85,
+              "filename": "minna_shokyu_1_085.mp3",
+              "duration_seconds": 43
+            },
+            {
+              "track_number": 86,
+              "filename": "minna_shokyu_1_086.mp3",
+              "duration_seconds": 35
+            },
+            {
+              "track_number": 87,
+              "filename": "minna_shokyu_1_087.mp3",
+              "duration_seconds": 112
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

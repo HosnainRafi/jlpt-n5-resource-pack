@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "quiz_id": "crawl-0ce61ab4f164",
+    "slug": "jlpt-n5-grammar-exercise-02",
+    "title": "JLPT N5 – Grammar Exercise 02",
+    "level": "N5",
+    "categories": [
+      "grammar",
+      "reading"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-02",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "この本は _______ 読みました。",
+      "choices": [
+        "どう",
+        "もう",
+        "も",
+        "まだ"
+      ],
+      "correct_answer": "もう",
+      "explanation": "この本は もう 読みました。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "山田さんはたいへんいい人ですよ。なにもわるいことはきいたことが _______ わ。",
+      "choices": [
+        "しません",
+        "いません",
+        "なりません",
+        "ありません"
+      ],
+      "correct_answer": "ありません",
+      "explanation": "山田さんはたいへんいい人ですよ。なにもわるいことはきいたことが ありません わ。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "ここにじゅうしょを書いて _______ か？",
+      "choices": [
+        "ください",
+        "くださいます",
+        "くださいません",
+        "くださいましょうか"
+      ],
+      "correct_answer": "くださいません",
+      "explanation": "ここにじゅうしょを書いて くださいません か？"
+    },
+    {
+      "question_number": 4,
+      "prompt": "あなたはあそこへ行って _______ いけませんよ。",
+      "choices": [
+        "が",
+        "は",
+        "と",
+        "に"
+      ],
+      "correct_answer": "は",
+      "explanation": "あなたはあそこへ行って は いけませんよ。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "どれ _______ ここではたらいていましたか？",
+      "choices": [
+        "まで",
+        "もう",
+        "より",
+        "くらい"
+      ],
+      "correct_answer": "くらい",
+      "explanation": "どれ くらい ここではたらいていましたか？"
+    },
+    {
+      "question_number": 6,
+      "prompt": "わたしはおんがくをきく_______ 好きです。",
+      "choices": [
+        "のが",
+        "ので",
+        "のに",
+        "のは"
+      ],
+      "correct_answer": "のが",
+      "explanation": "わたしはおんがくをきく のが 好きです。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "わたしは一人でクリスマスをすごす _______ です。",
+      "choices": [
+        "たい",
+        "つもり",
+        "だろう",
+        "ほう"
+      ],
+      "correct_answer": "つもり",
+      "explanation": "わたしは一人でクリスマスをすごす つもり です。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "_______ ながら水を飲まないでください。",
+      "choices": [
+        "あるく",
+        "あるいて",
+        "あるき",
+        "あるかな"
+      ],
+      "correct_answer": "あるき",
+      "explanation": "あるき ながら水を飲まないでください。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "れいぞうこにビールが入っている _______ 、そこにすわって飲みましょう。",
+      "choices": [
+        "から",
+        "と",
+        "なら",
+        "たら"
+      ],
+      "correct_answer": "から",
+      "explanation": "れいぞうこにビールが入っている から 、そこにすわって飲みましょう。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "わたしのことをいつまでも _______ ください。",
+      "choices": [
+        "わすれない",
+        "わすれないて",
+        "わすれなくて",
+        "わすれないで"
+      ],
+      "correct_answer": "わすれないで",
+      "explanation": "わたしのことをいつまでも わすれないで ください。"
+    }
+  ]
+}

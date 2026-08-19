@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-e39be352aaa7",
+    "slug": "jlpt-n5-grammar-exercise-13",
+    "title": "JLPT N5 – Grammar Exercise 13",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-13",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "きのうはあたたかかったですが、きょうは _______ 。",
+      "choices": [
+        "あたたかかったです",
+        "あたたかいでした",
+        "あたたかくないです",
+        "あたたかくではありません"
+      ],
+      "correct_answer": "あたたかくないです",
+      "explanation": "きのうはあたたかかったですが、きょうは あたたかくない です。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "田中さん _______ 来る日は火よう日です。",
+      "choices": [
+        "を",
+        "へ",
+        "で",
+        "の"
+      ],
+      "correct_answer": "の",
+      "explanation": "田中さん の 来る日は火よう日です。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "あした雨がふるかふらない _______ わかりません。",
+      "choices": [
+        "か",
+        "が",
+        "も",
+        "は"
+      ],
+      "correct_answer": "か",
+      "explanation": "あした雨がふるかふらない か わかりません。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "どこ _______ 来ましたか。",
+      "choices": [
+        "から",
+        "だけ",
+        "など",
+        "しか"
+      ],
+      "correct_answer": "から",
+      "explanation": "どこ から 来ましたか。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "テニスをしました。それから、ピンポン _______ しました。",
+      "choices": [
+        "は",
+        "が",
+        "も",
+        "と"
+      ],
+      "correct_answer": "も",
+      "explanation": "テニスをしました。それから、ピンポン も しました。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "わたしのケーキを _______ ください。",
+      "choices": [
+        "食べなくて",
+        "食べないで",
+        "食べません",
+        "食べない"
+      ],
+      "correct_answer": "食べないで",
+      "explanation": "わたしのケーキを 食べないで ください。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "外国にりょこう _______ 行きます。",
+      "choices": [
+        "が",
+        "を",
+        "の",
+        "に"
+      ],
+      "correct_answer": "に",
+      "explanation": "外国にりょこう に 行きます。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "テストが _______ あとでパ－ティ－をします。",
+      "choices": [
+        "おわった",
+        "おわって",
+        "おわる",
+        "おわります"
+      ],
+      "correct_answer": "おわった",
+      "explanation": "テストが おわった あとでパ－ティ－をします。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "その大きいにもつはわたし _______ です。",
+      "choices": [
+        "が",
+        "の",
+        "や",
+        "を"
+      ],
+      "correct_answer": "の",
+      "explanation": "その大きいにもつはわたし の です。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "コーヒーを _______ いかがですか。",
+      "choices": [
+        "いっぱいが",
+        "いっぱい",
+        "いっぱいか",
+        "いっぱいを"
+      ],
+      "correct_answer": "いっぱい",
+      "explanation": "コーヒーを いっぱい いかがですか。"
+    }
+  ]
+}

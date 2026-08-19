@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-7d95b0e13461",
+    "slug": "jlpt-n5-vocabulary-exercise-02",
+    "title": "JLPT N5 – Vocabulary Exercise 02",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-02",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "なのかのつぎは _______ です。",
+      "choices": [
+        "とおか",
+        "ようか",
+        "むいか",
+        "よっか"
+      ],
+      "correct_answer": "ようか",
+      "explanation": "なのかのつぎは ようか です。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "わたしはゆうべともだちに _______ をかきました。",
+      "choices": [
+        "ふうとう",
+        "きって",
+        "でんわ",
+        "てがみ"
+      ],
+      "correct_answer": "てがみ",
+      "explanation": "わたしはゆうべともだちに てがみ をかきました。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "わたしのすきなスポーツは _______ です。",
+      "choices": [
+        "ピアノ",
+        "レコード",
+        "スキー",
+        "テーブル"
+      ],
+      "correct_answer": "スキー",
+      "explanation": "わたしのすきなスポーツは スキー です。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "わたしのうちにねこが _______ います。",
+      "choices": [
+        "ふたつ",
+        "ふたり",
+        "にだい",
+        "にひき"
+      ],
+      "correct_answer": "にひき",
+      "explanation": "わたしのうちにねこが にひき います。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "このみちは _______ です。",
+      "choices": [
+        "わかい",
+        "うすい",
+        "せまい",
+        "おもい"
+      ],
+      "correct_answer": "せまい",
+      "explanation": "このみちは せまい です。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "さかながかわを _______ います。",
+      "choices": [
+        "およいで",
+        "はしって",
+        "あるいて",
+        "とんで"
+      ],
+      "correct_answer": "およいで",
+      "explanation": "さかながかわを およいで います。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "きのうのパーテイーでやまださんに _______ あいました。",
+      "choices": [
+        "はじめ",
+        "はじめて",
+        "はじめの",
+        "はじめから"
+      ],
+      "correct_answer": "はじめて",
+      "explanation": "きのうのパーテイーでやまださんに はじめて あいました。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "たなかさんはきょうはあおいズボンを _______ います。",
+      "choices": [
+        "かぶって",
+        "はいて",
+        "きて",
+        "かけて"
+      ],
+      "correct_answer": "はいて",
+      "explanation": "たなかさんはきょうはあおいズボンを はいて います。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "えきででんしゃに _______ ます。",
+      "choices": [
+        "のり",
+        "とり",
+        "すわり",
+        "のぼり"
+      ],
+      "correct_answer": "のり",
+      "explanation": "えきででんしゃに のり ます。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "まちださんはせが _______ です。",
+      "choices": [
+        "とおい",
+        "ながい",
+        "おもい",
+        "たかい"
+      ],
+      "correct_answer": "たかい",
+      "explanation": "まちださんはせが たかい です。"
+    }
+  ]
+}

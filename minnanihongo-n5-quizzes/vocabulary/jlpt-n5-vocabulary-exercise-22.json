@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-81f56c18fd02",
+    "slug": "jlpt-n5-vocabulary-exercise-22",
+    "title": "JLPT N5 – Vocabulary Exercise 22",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-22",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "なつやすみにやまに _______ 。",
+      "choices": [
+        "あけました",
+        "あげました",
+        "のりました",
+        "のぼりました"
+      ],
+      "correct_answer": "のぼりました",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "かぞくが _______ だいじだとおもいます。",
+      "choices": [
+        "また",
+        "いちばん",
+        "ひとり",
+        "さいしょに"
+      ],
+      "correct_answer": "いちばん",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "さようなら。 _______ あした。",
+      "choices": [
+        "また",
+        "もう",
+        "いかが",
+        "しかし"
+      ],
+      "correct_answer": "また",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "ここでたばこを _______ ぐださい。",
+      "choices": [
+        "かけないで",
+        "きえないで",
+        "すわないで",
+        "つかないで"
+      ],
+      "correct_answer": "すわないで",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "おんがくが _______ か。",
+      "choices": [
+        "みえます",
+        "みせます",
+        "ききます",
+        "きこえます"
+      ],
+      "correct_answer": "きこえます",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "あのゆうびんきょくの _______ で止めてください。",
+      "choices": [
+        "あと",
+        "まえ",
+        "した",
+        "うえ"
+      ],
+      "correct_answer": "まえ",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "あの _______ をかぶっているひとがたなかさんです。",
+      "choices": [
+        "くつした",
+        "とけい",
+        "ぼうし",
+        "めがね"
+      ],
+      "correct_answer": "ぼうし",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "この _______ ではたらきたいです。",
+      "choices": [
+        "せき",
+        "かいしゃ",
+        "げんかん",
+        "みち"
+      ],
+      "correct_answer": "かいしゃ",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "さむいですね。まどを _______ ください。",
+      "choices": [
+        "おして",
+        "きって",
+        "けして",
+        "しめて"
+      ],
+      "correct_answer": "しめて",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "たまごは _______ いりますか。",
+      "choices": [
+        "なんこ",
+        "なんさつ",
+        "なんだい",
+        "なんまい"
+      ],
+      "correct_answer": "なんこ",
+      "explanation": null
+    }
+  ]
+}

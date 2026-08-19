@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-a222f6cf58f4",
+    "slug": "jlpt-n5-kanji-exercise-18",
+    "title": "JLPT N5 – Kanji Exercise 18",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-18",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "ははと やま にのぼりました。",
+      "choices": [
+        "上",
+        "山",
+        "止",
+        "凸"
+      ],
+      "correct_answer": "山",
+      "explanation": "やま => 山"
+    },
+    {
+      "question_number": 2,
+      "prompt": "きのうじゅぎょうに 遅れました 。",
+      "choices": [
+        "おかれました",
+        "おくれました",
+        "おそれました",
+        "およれました"
+      ],
+      "correct_answer": "おくれました",
+      "explanation": "遅れました => おくれました"
+    },
+    {
+      "question_number": 3,
+      "prompt": "きのうは ゆうはん にぎゅうにくをたべた。",
+      "choices": [
+        "夕飲",
+        "夕飯",
+        "夜飲",
+        "夜飯"
+      ],
+      "correct_answer": "夕飯",
+      "explanation": "ゆうはん => 夕飯"
+    },
+    {
+      "question_number": 4,
+      "prompt": "また 病気 になりました。",
+      "choices": [
+        "びょうき",
+        "ぴょうき",
+        "ひょうき",
+        "ひょうぎ"
+      ],
+      "correct_answer": "びょうき",
+      "explanation": "病気 => びょうき"
+    },
+    {
+      "question_number": 5,
+      "prompt": "きかいは ただしく つかってください。",
+      "choices": [
+        "止しく",
+        "丘して",
+        "正しく",
+        "疋しく"
+      ],
+      "correct_answer": "正しく",
+      "explanation": "ただしく => 正しく"
+    },
+    {
+      "question_number": 6,
+      "prompt": "きょうしつに 何人 いますか。",
+      "choices": [
+        "なにじん",
+        "なににん",
+        "なんじん",
+        "なんにん"
+      ],
+      "correct_answer": "なんにん",
+      "explanation": "何人 => なんにん"
+    },
+    {
+      "question_number": 7,
+      "prompt": "こんしゅうは てんき がよかった。",
+      "choices": [
+        "天気",
+        "天汽",
+        "矢気",
+        "矢汽"
+      ],
+      "correct_answer": "天気",
+      "explanation": "てんき => 天気"
+    },
+    {
+      "question_number": 8,
+      "prompt": "人によって考え方も 違います 。",
+      "choices": [
+        "ちがいます",
+        "ちかいます",
+        "かたいます",
+        "おもいます"
+      ],
+      "correct_answer": "ちがいます",
+      "explanation": "違います => ちがいます"
+    },
+    {
+      "question_number": 9,
+      "prompt": "それはいい かめら ですね。",
+      "choices": [
+        "刀メラ",
+        "カメヲ",
+        "刀メヲ",
+        "カメラ"
+      ],
+      "correct_answer": "カメラ",
+      "explanation": "かめら => カメラ"
+    },
+    {
+      "question_number": 10,
+      "prompt": "ことし のふゆやすみにくにへかえります。",
+      "choices": [
+        "令年",
+        "来年",
+        "今年",
+        "金年"
+      ],
+      "correct_answer": "今年",
+      "explanation": "ことし => 今年"
+    }
+  ]
+}

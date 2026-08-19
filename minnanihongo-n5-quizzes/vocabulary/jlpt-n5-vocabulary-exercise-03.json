@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-2c169d3cb455",
+    "slug": "jlpt-n5-vocabulary-exercise-03",
+    "title": "JLPT N5 – Vocabulary Exercise 03",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-03",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 50,
+    "correct_count": 5
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "わたしはよるねるまえにはを _______ 。",
+      "choices": [
+        "あらいます",
+        "つかいます",
+        "あびます",
+        "みがきます"
+      ],
+      "correct_answer": "みがきます",
+      "explanation": "わたしはよるねるまえにはを みがきます 。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "つぎのかどをみぎに _______ 。",
+      "choices": [
+        "まがります",
+        "わたります",
+        "のぼります",
+        "とまります"
+      ],
+      "correct_answer": "まがります",
+      "explanation": "つぎのかどをみぎに まがります 。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "わたしの いえは えきの ちかくです。とても _______ です。",
+      "choices": [
+        "べんり",
+        "ひま",
+        "じょうず",
+        "いろいろ"
+      ],
+      "correct_answer": "べんり",
+      "explanation": "わたしのいえはえきのちかくです。とても べんり です。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "かぜを _______ 、かいしゃをやすみました。",
+      "choices": [
+        "やって",
+        "なって",
+        "ふいて",
+        "ひいて"
+      ],
+      "correct_answer": "ひいて",
+      "explanation": "かぜを ひいて 、かいしゃをやすみました。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "まいつきほんを _______ よみます。",
+      "choices": [
+        "さんさつ",
+        "さんだい",
+        "さんぼん",
+        "さんまい"
+      ],
+      "correct_answer": "さんさつ",
+      "explanation": "まいつきほんを さんさつ よみます。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "きのう _______ にほんのえいがをみました。",
+      "choices": [
+        "どきどき",
+        "もちろん",
+        "はじめに",
+        "はじめて"
+      ],
+      "correct_answer": "はじめて",
+      "explanation": "きのう はじめて にほんのえいがをみました。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "きのうかぞくのしゃしんを _______ 。",
+      "choices": [
+        "とりました",
+        "つくりました",
+        "かきました",
+        "しました"
+      ],
+      "correct_answer": "とりました",
+      "explanation": "きのうかぞくのしゃしんを とりました 。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "_______ をしめてかいしゃへいきます。",
+      "choices": [
+        "セーター",
+        "シャツ",
+        "ズボン",
+        "ネクタイ"
+      ],
+      "correct_answer": "ネクタイ",
+      "explanation": "ネクタイ をしめてかいしゃへいきます。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "それはとても _______ もんだいです。",
+      "choices": [
+        "じゅうような",
+        "いろいろな",
+        "じょうぶな",
+        "にぎやかな"
+      ],
+      "correct_answer": "じゅうような",
+      "explanation": "それはとても じゅうよう なもんだいです。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "なつはまいにち _______ へおよぎにいきます。",
+      "choices": [
+        "えき",
+        "みせ",
+        "プール",
+        "テーブル"
+      ],
+      "correct_answer": "プール",
+      "explanation": "なつはまいにち プール へおよぎにいきます。"
+    }
+  ]
+}

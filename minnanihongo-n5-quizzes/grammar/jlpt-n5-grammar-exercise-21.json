@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-f44b5ea7ef14",
+    "slug": "jlpt-n5-grammar-exercise-21",
+    "title": "JLPT N5 – Grammar Exercise 21",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-21",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 40,
+    "correct_count": 4
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "ヤンさんはこのつくえを _______ _______ …★… _______ よ。",
+      "choices": [
+        "買った",
+        "１０００円",
+        "で",
+        "んです"
+      ],
+      "correct_answer": "買った",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "ここに _______ _______ …★… _______ ください。",
+      "choices": [
+        "書いて",
+        "ボールペンで",
+        "あかい",
+        "名前を"
+      ],
+      "correct_answer": "名前を",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "わたしは _______ _______ …★… _______ 。",
+      "choices": [
+        "魚が",
+        "魚を",
+        "たべません",
+        "きらいですから"
+      ],
+      "correct_answer": "魚を",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "日本の _______ _______ …★… _______ です。",
+      "choices": [
+        "ちょっと",
+        "高い",
+        "おいしいですが",
+        "たべものは"
+      ],
+      "correct_answer": "ちょっと",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "女１ 「すみません、えき _______ _______ …★… _______ 。みちをおしえてくださいませんか。」 女２ 「えきですか。えきは…」 が んです 行きたい へ 「１」から「５」に何を入れますか。１・２・３・４からいちばんいいものを一つえらんでください。 三人の人に「どんな仕事をしていますか」というしつもんをしました。 Aさん： タクシーのうんてんしゅです。一日中車を「１」。たいていひるに仕事をしていますが、「２」よるもします。",
+      "choices": [
+        "Bさん：",
+        "パン屋です。「３」パンをつくってうっています。じぶん「４」あたらしいパンをかんがえてつくります。",
+        "Cさん：",
+        "コンピューターの会社ではたらいています。ずっとパソコンをつかっています「５」、目がつかれます。"
+      ],
+      "correct_answer": "パン屋です。「３」パンをつくってうっています。じぶん「４」あたらしいパンをかんがえてつくります。",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "「１」に何を入れますか。",
+      "choices": [
+        "そうさしています",
+        "つくっています",
+        "はこんでいます",
+        "うんてんしています"
+      ],
+      "correct_answer": "うんてんしています",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "「２」に何を入れますか。",
+      "choices": [
+        "ときどき",
+        "いつも",
+        "だいたい",
+        "はじめて"
+      ],
+      "correct_answer": "ときどき",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "「３」に何を入れますか。",
+      "choices": [
+        "いろいろに",
+        "いろいろな",
+        "いろいろで",
+        "いろいろく"
+      ],
+      "correct_answer": "いろいろな",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "「４」に何を入れますか。",
+      "choices": [
+        "で",
+        "は",
+        "も",
+        "でも"
+      ],
+      "correct_answer": "で",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "「５」に何を入れますか。",
+      "choices": [
+        "が",
+        "けど",
+        "から",
+        "し"
+      ],
+      "correct_answer": "から",
+      "explanation": null
+    }
+  ]
+}

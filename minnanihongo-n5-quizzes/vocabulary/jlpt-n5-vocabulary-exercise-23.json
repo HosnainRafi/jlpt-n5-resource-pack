@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-44d124860a5c",
+    "slug": "jlpt-n5-vocabulary-exercise-23",
+    "title": "JLPT N5 – Vocabulary Exercise 23",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-23",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "わたしはじがへたです。",
+      "choices": [
+        "わたしはじがまるくありません。",
+        "わたしはじがおおきくありません。",
+        "わたしはじがすきではありません。",
+        "わたしはじがじょうずではありません。"
+      ],
+      "correct_answer": "わたしはじがじょうずではありません。",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "ちちはこうじょうではたらいています。",
+      "choices": [
+        "ちちはこうじょうでしごとをしています。",
+        "ちちはこうじょうでべんきょうをしています。",
+        "ちちはこうじょうでれんしゅうをしています。",
+        "ちちはこうじょうであそんでいます。"
+      ],
+      "correct_answer": "ちちはこうじょうでしごとをしています。",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "りょうしんはでかけています。",
+      "choices": [
+        "あねもいもうともいえにいません。",
+        "あにもおとうともいえにいません。",
+        "ちちもははもいえにいません。",
+        "おばもおじもいえにいません。"
+      ],
+      "correct_answer": "ちちもははもいえにいません。",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "マイケルさんはわたしにえいごをおしえます。",
+      "choices": [
+        "マイケルさんはわたしにえいごをならいます。",
+        "わたしはマイケルさんにえいごをならいます。",
+        "マイケルさんはわたしにえいごをはなします。",
+        "わたしはマイケルさんにえいごをはなします。"
+      ],
+      "correct_answer": "わたしはマイケルさんにえいごをならいます。",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "このまちはみどりがおおいです。",
+      "choices": [
+        "このまちはきがおおいです。",
+        "このまちはひとがおおいです。",
+        "このまちはあめがおおいです。",
+        "このまちはみせがおおいです。"
+      ],
+      "correct_answer": "このまちはきがおおいです。",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "_______ なときほんをよみます。",
+      "choices": [
+        "ひま",
+        "いや",
+        "へた",
+        "すき"
+      ],
+      "correct_answer": "ひま",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "えきでさとうさんを２じかんも _______ 。",
+      "choices": [
+        "もちました",
+        "まちました",
+        "たちました",
+        "かちました"
+      ],
+      "correct_answer": "まちました",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "大きいにもつは一つですが、とても _______ です。",
+      "choices": [
+        "あまい",
+        "あかい",
+        "おもい",
+        "しろい"
+      ],
+      "correct_answer": "おもい",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "_______ はなをかってください。",
+      "choices": [
+        "おいしい",
+        "ひろい",
+        "あつい",
+        "きれいな"
+      ],
+      "correct_answer": "きれいな",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "とりがちいさなこえで _______ います。",
+      "choices": [
+        "かいて",
+        "ないて",
+        "おいて",
+        "ひいて"
+      ],
+      "correct_answer": "ないて",
+      "explanation": null
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-7c9bb8f82065",
+    "slug": "jlpt-n5-vocabulary-exercise-24",
+    "title": "JLPT N5 – Vocabulary Exercise 24",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-24",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "よっつ、_______ 、むっつ。ぜんぶでむっつあります。",
+      "choices": [
+        "いつつ",
+        "ふたつ",
+        "みっつ",
+        "やっつ"
+      ],
+      "correct_answer": "いつつ",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "もう _______ をおくりましたよ。",
+      "choices": [
+        "あさ",
+        "かべ",
+        "にもつ",
+        "てんき"
+      ],
+      "correct_answer": "にもつ",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "テーブルのしたに _______ がいます。",
+      "choices": [
+        "ねこ",
+        "かみ",
+        "ほん",
+        "おもちゃ"
+      ],
+      "correct_answer": "ねこ",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "けさとしょかんでほんを _______ 。",
+      "choices": [
+        "かけました",
+        "かちました",
+        "かえりました",
+        "かえしました"
+      ],
+      "correct_answer": "かえしました",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "がっこうはえきの _______ です。",
+      "choices": [
+        "むすめ",
+        "むすこ",
+        "むかし",
+        "むこう"
+      ],
+      "correct_answer": "むこう",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "_______ をつけましょうか？",
+      "choices": [
+        "でんわ",
+        "でんき",
+        "でんし",
+        "でんしゃ"
+      ],
+      "correct_answer": "でんき",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "どんな _______ がすきですか？",
+      "choices": [
+        "みず",
+        "おとこ",
+        "おかし",
+        "くもり"
+      ],
+      "correct_answer": "おとこ",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "_______ がのみたいです。",
+      "choices": [
+        "こうちゃ",
+        "ちゃわん",
+        "テーブル",
+        "おべんとう"
+      ],
+      "correct_answer": "こうちゃ",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "２０００ねんに _______ 。いまこどもは３にんです。",
+      "choices": [
+        "けんかしました",
+        "さんぽしました",
+        "けっこんしました",
+        "しつもんしました"
+      ],
+      "correct_answer": "けっこんしました",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "ここは _______ がふべんです。",
+      "choices": [
+        "だいがく",
+        "りょこう",
+        "こうつう",
+        "こうえん"
+      ],
+      "correct_answer": "こうつう",
+      "explanation": null
+    }
+  ]
+}

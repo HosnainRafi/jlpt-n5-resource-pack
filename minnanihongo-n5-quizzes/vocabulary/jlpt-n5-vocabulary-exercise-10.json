@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-5f7f0b788d71",
+    "slug": "jlpt-n5-vocabulary-exercise-10",
+    "title": "JLPT N5 – Vocabulary Exercise 10",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-10",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 40,
+    "correct_count": 4
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "_______ ぼうしをかいました。",
+      "choices": [
+        "ひろい",
+        "せまい",
+        "おもい",
+        "あおい"
+      ],
+      "correct_answer": "あおい",
+      "explanation": "あおい ぼうしをかいました。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "_______ に入ろうとおもっています。",
+      "choices": [
+        "だいがく",
+        "かばん",
+        "まど",
+        "おととし"
+      ],
+      "correct_answer": "だいがく",
+      "explanation": "だいがく に入ろうとおもっています。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "あなたがここにきてから、わたしのしごとが _______ いくようになったんですよ。",
+      "choices": [
+        "うまく",
+        "あまく",
+        "おもく",
+        "やすく"
+      ],
+      "correct_answer": "うまく",
+      "explanation": "あなたがここにきてから、わたしのしごとが うまく いくようになったんですよ。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "「ゆうびんきょくはどこですか。」「このみちを _______ いってください。すぐそこですよ。」",
+      "choices": [
+        "まえに",
+        "ちょうど",
+        "はじめに",
+        "まっすぐ"
+      ],
+      "correct_answer": "まっすぐ",
+      "explanation": "「ゆうびんきょくはどこですか。」「このみちを まっすぐ いってください。すぐそこですよ。」"
+    },
+    {
+      "question_number": 5,
+      "prompt": "わたしはコーヒーにさとうを _______ のみます。",
+      "choices": [
+        "いれて",
+        "いって",
+        "はいて",
+        "はいって"
+      ],
+      "correct_answer": "いれて",
+      "explanation": "わたしはコーヒーにさとうを いれて のみます。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "きょうはつよいかぜが _______ います。",
+      "choices": [
+        "はいて",
+        "ふいて",
+        "ふって",
+        "ひいて"
+      ],
+      "correct_answer": "ふいて",
+      "explanation": "きょうはつよいかぜが ふいて います。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "しけんはおわりました。きょうしつを _______ ください。",
+      "choices": [
+        "すわって",
+        "でて",
+        "かえって",
+        "べんきょうして"
+      ],
+      "correct_answer": "でて",
+      "explanation": "しけんはおわりました。きょうしつを でて ください。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "うちからかいしゃまであるいて１５ふん _______ 。",
+      "choices": [
+        "いります",
+        "あります",
+        "かけます",
+        "かかります"
+      ],
+      "correct_answer": "かかります",
+      "explanation": "うちからかいしゃまであるいて１５ふん かかります 。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "いえにはいぬが _______ います。",
+      "choices": [
+        "にだい",
+        "にひき",
+        "にほん",
+        "にこ"
+      ],
+      "correct_answer": "にひき",
+      "explanation": "いえにはいぬが にひき います。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "もう５じですね。_______ 失礼します。",
+      "choices": [
+        "そろそろ",
+        "もう",
+        "ちょっと",
+        "すぐ"
+      ],
+      "correct_answer": "そろそろ",
+      "explanation": "もう５じですね。 そろそろ 失礼します。"
+    }
+  ]
+}

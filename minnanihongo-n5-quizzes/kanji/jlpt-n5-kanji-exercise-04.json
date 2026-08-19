@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-87e5f81d46c4",
+    "slug": "jlpt-n5-kanji-exercise-04",
+    "title": "JLPT N5 – Kanji Exercise 04",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-04",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 10,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "水を 買って いきます。",
+      "choices": [
+        "かって",
+        "つくって",
+        "とって",
+        "あらって"
+      ],
+      "correct_answer": "かって",
+      "explanation": "買って: かって"
+    },
+    {
+      "question_number": 2,
+      "prompt": "お 先 にしつれいします。",
+      "choices": [
+        "せん",
+        "ぜん",
+        "ざき",
+        "さき"
+      ],
+      "correct_answer": "さき",
+      "explanation": "先: さき"
+    },
+    {
+      "question_number": 3,
+      "prompt": "きのうはゆうはんに ぎゅうにく をたべた。",
+      "choices": [
+        "牛内",
+        "午内",
+        "牛肉",
+        "午肉"
+      ],
+      "correct_answer": "牛肉",
+      "explanation": "ぎゅうにく: 牛肉"
+    },
+    {
+      "question_number": 4,
+      "prompt": "毎朝 、なんじにおきますか。",
+      "choices": [
+        "まいにち",
+        "まいとし",
+        "まいげつ",
+        "まいあさ"
+      ],
+      "correct_answer": "まいあさ",
+      "explanation": "毎朝: まいあさ"
+    },
+    {
+      "question_number": 5,
+      "prompt": "わたしの こども ははながすきです。",
+      "choices": [
+        "了ども",
+        "子ども",
+        "于ども",
+        "予ども"
+      ],
+      "correct_answer": "子ども",
+      "explanation": "こども: 子ども"
+    },
+    {
+      "question_number": 6,
+      "prompt": "この部屋は 明るく てひろいです。",
+      "choices": [
+        "かおるくて",
+        "あかるくて",
+        "あつるくて",
+        "あさるくて"
+      ],
+      "correct_answer": "あかるくて",
+      "explanation": "明るくて: あかるくて"
+    },
+    {
+      "question_number": 7,
+      "prompt": "むいかの ごご にあいましょう。",
+      "choices": [
+        "午役",
+        "牛役",
+        "午後",
+        "牛後"
+      ],
+      "correct_answer": "午後",
+      "explanation": "ごご: 午後"
+    },
+    {
+      "question_number": 8,
+      "prompt": "えきの 北口 をでて、まっすぐいってください。",
+      "choices": [
+        "にしくち",
+        "にしぐち",
+        "きたくち",
+        "きたぐち"
+      ],
+      "correct_answer": "きたぐち",
+      "explanation": "北口: きたぐち"
+    },
+    {
+      "question_number": 9,
+      "prompt": "これはなんの ぱーていー ですか。",
+      "choices": [
+        "ベーティー",
+        "バーティー",
+        "パーディー",
+        "パーティー"
+      ],
+      "correct_answer": "パーティー",
+      "explanation": "ぱーていー: パーティー"
+    },
+    {
+      "question_number": 10,
+      "prompt": "せんせいは 黒い めがねをかけています。",
+      "choices": [
+        "しろい",
+        "くらい",
+        "くろい",
+        "からい"
+      ],
+      "correct_answer": "くろい",
+      "explanation": "黒い: くろい"
+    }
+  ]
+}

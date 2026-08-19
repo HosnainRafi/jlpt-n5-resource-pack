@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "quiz_id": "crawl-d9df4b31fea9",
+    "slug": "jlpt-n5-kanji-exercise-03",
+    "title": "JLPT N5 – Kanji Exercise 03",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 8,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-03",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 8,
+    "score": 38,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "ちいさい",
+      "choices": [
+        "中さい",
+        "少さい",
+        "小さい",
+        "大さい"
+      ],
+      "correct_answer": "小さい",
+      "explanation": "ちいさい: 小さい"
+    },
+    {
+      "question_number": 2,
+      "prompt": "らじお",
+      "choices": [
+        "ラゾオ",
+        "ラジオ",
+        "ウゾオ",
+        "ウジオ"
+      ],
+      "correct_answer": "ラジオ",
+      "explanation": "らじお: ラジオ"
+    },
+    {
+      "question_number": 3,
+      "prompt": "でんしゃ",
+      "choices": [
+        "電車",
+        "雷車",
+        "電東",
+        "雷東"
+      ],
+      "correct_answer": "電車",
+      "explanation": "でんしゃ: 電車"
+    },
+    {
+      "question_number": 4,
+      "prompt": "きき",
+      "choices": [
+        "聞き",
+        "開き",
+        "閉き",
+        "間き"
+      ],
+      "correct_answer": "聞き",
+      "explanation": "きき: 聞き"
+    },
+    {
+      "question_number": 5,
+      "prompt": "かいしゃ",
+      "choices": [
+        "社員",
+        "社会",
+        "会計",
+        "会社"
+      ],
+      "correct_answer": "会社",
+      "explanation": "かいしゃ: 会社"
+    },
+    {
+      "question_number": 6,
+      "prompt": "先",
+      "choices": [
+        "せん",
+        "つぎ",
+        "すぐ",
+        "さき"
+      ],
+      "correct_answer": "さき",
+      "explanation": "先: さき"
+    },
+    {
+      "question_number": 7,
+      "prompt": "食べて",
+      "choices": [
+        "とべて",
+        "のべて",
+        "たべて",
+        "くべて"
+      ],
+      "correct_answer": "たべて",
+      "explanation": "食べて: たべて"
+    },
+    {
+      "question_number": 8,
+      "prompt": "後で",
+      "choices": [
+        "あとで",
+        "のちで",
+        "ごで",
+        "こうで"
+      ],
+      "correct_answer": "あとで",
+      "explanation": "後で: あとで"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-df79d5822cef",
+    "slug": "jlpt-n5-kanji-exercise-13",
+    "title": "JLPT N5 – Kanji Exercise 13",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-13",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 10,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "昨日はとなりの村から 歩いて 帰ってきた。",
+      "choices": [
+        "ないて",
+        "はいて",
+        "あるいて",
+        "つづいて"
+      ],
+      "correct_answer": "あるいて",
+      "explanation": "歩いて => あるいて"
+    },
+    {
+      "question_number": 2,
+      "prompt": "わたしはりょうしんと 一緒 にすんでいます。",
+      "choices": [
+        "いっしゅう",
+        "いっしゅ",
+        "いっしょう",
+        "いっしょ"
+      ],
+      "correct_answer": "いっしょ",
+      "explanation": "一緒 => いっしょ"
+    },
+    {
+      "question_number": 3,
+      "prompt": "ふくがよごれたから、 あらった 。",
+      "choices": [
+        "沈った",
+        "洗った",
+        "浴った",
+        "流った"
+      ],
+      "correct_answer": "洗った",
+      "explanation": "あらった => 洗った"
+    },
+    {
+      "question_number": 4,
+      "prompt": "テーブルのうえにおさらが 並んで います。",
+      "choices": [
+        "ならんで",
+        "あそんで",
+        "はこんで",
+        "ころんで"
+      ],
+      "correct_answer": "ならんで",
+      "explanation": "並んで => ならんで"
+    },
+    {
+      "question_number": 5,
+      "prompt": "わたしのかいしゃはあのビルの なか です。",
+      "choices": [
+        "史",
+        "中",
+        "央",
+        "内"
+      ],
+      "correct_answer": "中",
+      "explanation": "なか => 中"
+    },
+    {
+      "question_number": 6,
+      "prompt": "あの 男 のひとはだれですか。",
+      "choices": [
+        "おどこ",
+        "おとこ",
+        "おどご",
+        "おとご"
+      ],
+      "correct_answer": "おとこ",
+      "explanation": "男 => おとこ"
+    },
+    {
+      "question_number": 7,
+      "prompt": "ひがしの そら がきれいです。",
+      "choices": [
+        "川",
+        "池",
+        "空",
+        "風"
+      ],
+      "correct_answer": "空",
+      "explanation": "そら => 空"
+    },
+    {
+      "question_number": 8,
+      "prompt": "きのう、 雨 がふりました。",
+      "choices": [
+        "ゆき",
+        "きり",
+        "あめ",
+        "つゆ"
+      ],
+      "correct_answer": "あめ",
+      "explanation": "雨 => あめ"
+    },
+    {
+      "question_number": 9,
+      "prompt": "店の 入り口 はどこですか。",
+      "choices": [
+        "のりぐち",
+        "かえりぐち",
+        "おりぐち",
+        "いりぐち"
+      ],
+      "correct_answer": "いりぐち",
+      "explanation": "入り口 => いりぐち"
+    },
+    {
+      "question_number": 10,
+      "prompt": "おかあさんはお げんき ですか。",
+      "choices": [
+        "元气",
+        "元気",
+        "无气",
+        "无気"
+      ],
+      "correct_answer": "元気",
+      "explanation": "げんき => 元気"
+    }
+  ]
+}

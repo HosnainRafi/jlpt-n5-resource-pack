@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "quiz_id": "crawl-b4563ef5d89b",
+    "slug": "jlpt-n5-listening-exercise-41",
+    "title": "JLPT N5 – Listening Exercise 41",
+    "level": "N5",
+    "categories": [
+      "listening"
+    ],
+    "total_questions": 6,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-listening-exercise-41",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 6,
+    "score": 17,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "1. Question 1",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "3",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "2. Question 2",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "1",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "3. Question 3",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "3",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "4. Question 4",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "5. Question 5",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "3",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "6. Question 6",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "explanation": null
+    }
+  ]
+}

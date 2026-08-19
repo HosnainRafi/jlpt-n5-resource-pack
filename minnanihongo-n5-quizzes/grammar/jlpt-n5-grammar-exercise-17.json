@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-a23b1f0e95e7",
+    "slug": "jlpt-n5-grammar-exercise-17",
+    "title": "JLPT N5 – Grammar Exercise 17",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-17",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "きのうは、6時間 _______ ねました。",
+      "choices": [
+        "まで",
+        "ごろ",
+        "じゅう",
+        "ぐらい"
+      ],
+      "correct_answer": "ぐらい",
+      "explanation": "きのうは、6時間 ぐらい ねました。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "お金が _______ 、こまっています。",
+      "choices": [
+        "なくて",
+        "ないで",
+        "ないて",
+        "なって"
+      ],
+      "correct_answer": "なくて",
+      "explanation": "お金が なくて 、こまっています。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "日よう日にそうじ _______ せんたくをします。",
+      "choices": [
+        "を",
+        "や",
+        "も",
+        "で"
+      ],
+      "correct_answer": "や",
+      "explanation": "日よう日にそうじ や せんたくをします。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "あにの新しいカメラは _______ かるい。",
+      "choices": [
+        "小さいくて",
+        "小さいで",
+        "小さいと",
+        "小さくて"
+      ],
+      "correct_answer": "小さくて",
+      "explanation": "あにの新しいカメラは 小さくて かるい。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "来週 _______ 人は だれですか。",
+      "choices": [
+        "休み",
+        "休む",
+        "休んで",
+        "休んだ"
+      ],
+      "correct_answer": "休む",
+      "explanation": "来週 休む 人はだれですか。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "わたしはかぞく _______ てがみをもらいました。",
+      "choices": [
+        "を",
+        "が",
+        "や",
+        "から"
+      ],
+      "correct_answer": "から",
+      "explanation": "わたしはかぞく から てがみをもらいました。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "おかしはあまりすき _______ 。",
+      "choices": [
+        "ではありません",
+        "です",
+        "でした",
+        "くありません"
+      ],
+      "correct_answer": "ではありません",
+      "explanation": "おかしはあまりすき ではありません 。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "じしょを _______ からかんじを書きます。",
+      "choices": [
+        "見る",
+        "見て",
+        "見に",
+        "見ない"
+      ],
+      "correct_answer": "見て",
+      "explanation": "じしょを 見て からかんじを書きます。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "まだゆうびんきょくは _______ 。早く行きましょう。",
+      "choices": [
+        "あきません",
+        "あきました",
+        "あいています",
+        "あきます"
+      ],
+      "correct_answer": "あいています",
+      "explanation": "まだゆうびんきょくは あいています 。早く行きましょう。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "このりょうりはあまり _______ よ。",
+      "choices": [
+        "からくないです",
+        "からいです",
+        "からかったです",
+        "からいではあまりませんでした"
+      ],
+      "correct_answer": "からくないです",
+      "explanation": "このりょうりはあまり からくないです よ。"
+    }
+  ]
+}

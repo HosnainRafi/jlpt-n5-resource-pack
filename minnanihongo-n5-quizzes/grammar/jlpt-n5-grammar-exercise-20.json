@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-83435630b00b",
+    "slug": "jlpt-n5-grammar-exercise-20",
+    "title": "JLPT N5 – Grammar Exercise 20",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-20",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "りんご _______ みかんを買いました。",
+      "choices": [
+        "が",
+        "や",
+        "は",
+        "へ"
+      ],
+      "correct_answer": "や",
+      "explanation": "りんご や みかんを買いました。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "あなたはいま、お金を _______ か。",
+      "choices": [
+        "もってです",
+        "もってあります",
+        "もっています",
+        "もってください"
+      ],
+      "correct_answer": "もっています",
+      "explanation": "あなたはいま、お金を もっています か。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "はる休みは _______ ありますか。",
+      "choices": [
+        "どれ",
+        "いくら",
+        "どちら",
+        "どのぐらい"
+      ],
+      "correct_answer": "どのぐらい",
+      "explanation": "はる休みは どのぐらい ありますか。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "ここにかばんを _______ ないでください。",
+      "choices": [
+        "おか",
+        "おき",
+        "おく",
+        "おけ"
+      ],
+      "correct_answer": "おか",
+      "explanation": "ここにかばんを おか ないでください。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "ゆきが、たくさんふったから、一人しか _______ 。",
+      "choices": [
+        "来ませんでした",
+        "来ました",
+        "来てください",
+        "来るでしょう"
+      ],
+      "correct_answer": "来ませんでした",
+      "explanation": "ゆきがたくさんふったから、一人しか 来ませんでした 。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "きのうは _______ 早くかえりましたか。",
+      "choices": [
+        "いかが",
+        "いくつ",
+        "どうして",
+        "どちら"
+      ],
+      "correct_answer": "どうして",
+      "explanation": "きのうは どうして 早くかえりましたか。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "きのうのよるは６時に _______ 、ごはんをつくりました。",
+      "choices": [
+        "かえる",
+        "かえった",
+        "かえって",
+        "かえったり"
+      ],
+      "correct_answer": "かえって",
+      "explanation": "きのうのよるは６時に かえって 、ごはんをつくりました。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "A ［マリーさんのかさはどれですか。」 B ［あれです。 _______ 。」",
+      "choices": [
+        "あれはかさです",
+        "あのあおいのです",
+        "あれはマリーさんです",
+        "あのかさはあおいです"
+      ],
+      "correct_answer": "あのあおいのです",
+      "explanation": "A ［マリーさんのかさはどれですか。」 B ［あれです。 あのあおいのです 。」"
+    },
+    {
+      "question_number": 9,
+      "prompt": "もしもし、山本です _______ 、木下さんはいますか。",
+      "choices": [
+        "が",
+        "と",
+        "て",
+        "で"
+      ],
+      "correct_answer": "が",
+      "explanation": "もしもし、山本です が 、木下さんはいますか。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "_______ うんどうをしていますか。",
+      "choices": [
+        "どれ",
+        "だれ",
+        "いかが",
+        "何か"
+      ],
+      "correct_answer": "何か",
+      "explanation": "何か うんどうをしていますか。"
+    }
+  ]
+}

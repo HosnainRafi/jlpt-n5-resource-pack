@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-e72e9361335f",
+    "slug": "jlpt-n5-kanji-exercise-14",
+    "title": "JLPT N5 – Kanji Exercise 14",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-14",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "この門は子どもの力では 開けられません 。",
+      "choices": [
+        "あけられません",
+        "うけられません",
+        "かけられません",
+        "つけられません"
+      ],
+      "correct_answer": "あけられません",
+      "explanation": "開けられません => あけられません"
+    },
+    {
+      "question_number": 2,
+      "prompt": "パンを はんぶん たべました。",
+      "choices": [
+        "半部",
+        "半分",
+        "平部",
+        "平分"
+      ],
+      "correct_answer": "半分",
+      "explanation": "はんぶん => 半分"
+    },
+    {
+      "question_number": 3,
+      "prompt": "きょうは お金 がたくさんあります。",
+      "choices": [
+        "おぎん",
+        "おかね",
+        "おがね",
+        "おきん"
+      ],
+      "correct_answer": "おかね",
+      "explanation": "お金 => おかね"
+    },
+    {
+      "question_number": 4,
+      "prompt": "このレストランの りょうり はおいしいです。",
+      "choices": [
+        "科理",
+        "料理",
+        "科里",
+        "料里"
+      ],
+      "correct_answer": "料理",
+      "explanation": "りょうり => 料理"
+    },
+    {
+      "question_number": 5,
+      "prompt": "これは一つ 千円 です。",
+      "choices": [
+        "せいえん",
+        "せいねん",
+        "せんねん",
+        "せんえん"
+      ],
+      "correct_answer": "せんえん",
+      "explanation": "千円 => せんえん"
+    },
+    {
+      "question_number": 6,
+      "prompt": "こどもたちはかわで およいで います。",
+      "choices": [
+        "凍いで",
+        "水いで",
+        "氷いで",
+        "泳いで"
+      ],
+      "correct_answer": "泳いで",
+      "explanation": "およいで => 泳いで"
+    },
+    {
+      "question_number": 7,
+      "prompt": "これは なん ですか。",
+      "choices": [
+        "同",
+        "何",
+        "向",
+        "伺"
+      ],
+      "correct_answer": "何",
+      "explanation": "なん => 何"
+    },
+    {
+      "question_number": 8,
+      "prompt": "今日はじゅうがつ 十日 です。",
+      "choices": [
+        "とおか",
+        "とうか",
+        "じゅうか",
+        "じゅっか"
+      ],
+      "correct_answer": "とおか",
+      "explanation": "十日 => とおか"
+    },
+    {
+      "question_number": 9,
+      "prompt": "この 道 を百メートいってください。左にこうばんがあります。",
+      "choices": [
+        "かど",
+        "はし",
+        "へん",
+        "みち"
+      ],
+      "correct_answer": "みち",
+      "explanation": "道 => みち"
+    },
+    {
+      "question_number": 10,
+      "prompt": "このへやは せまい です。",
+      "choices": [
+        "広い",
+        "小い",
+        "高い",
+        "狭い"
+      ],
+      "correct_answer": "狭い",
+      "explanation": "せまい => 狭い"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-42c2a9e6a86e",
+    "slug": "jlpt-n5-vocabulary-exercise-18",
+    "title": "JLPT N5 – Vocabulary Exercise 18",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-18",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "わからないひとはわたしに _______ ください。",
+      "choices": [
+        "かえって",
+        "こたえて",
+        "しつもんして",
+        "れんしゅうして"
+      ],
+      "correct_answer": "しつもんして",
+      "explanation": "わからないひとはわたしに しつもんして ください。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "きょうはざっしを _______ よみました。",
+      "choices": [
+        "10キロ",
+        "10メートル",
+        "10グラム",
+        "10ページ"
+      ],
+      "correct_answer": "10ページ",
+      "explanation": "きょうはざっしを 10ページ よみました。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "「わたしがそうじをしましょうか。」「ええ、______。」",
+      "choices": [
+        "おねがいします",
+        "いただきます",
+        "しつれいします",
+        "どうしたしまして"
+      ],
+      "correct_answer": "おねがいします",
+      "explanation": "「わたしがそうじをしましょうか。」「ええ、 おねがいします 。」"
+    },
+    {
+      "question_number": 4,
+      "prompt": "_______ があるから、そんなにいそがなくてもいいよ。",
+      "choices": [
+        "とき",
+        "じかん",
+        "じゆう",
+        "とら"
+      ],
+      "correct_answer": "じかん",
+      "explanation": "じかんがあるから、そんなにいそがなくてもいいよ。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "もうはるですね。これから、_______ あたたかくなりますね。",
+      "choices": [
+        "いちいち",
+        "いろいろ",
+        "だんだん",
+        "もしもし"
+      ],
+      "correct_answer": "だんだん",
+      "explanation": "もうはるですね。これから、 だんだん あたたかくなりますね。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "_______ でいったほうがはやいですよ。",
+      "choices": [
+        "プール",
+        "バス",
+        "シャワー",
+        "チケット"
+      ],
+      "correct_answer": "バス",
+      "explanation": "バス でいったほうがはやいですよ。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "わたしはよるシャワーを _______ 。",
+      "choices": [
+        "あびます",
+        "とります",
+        "なきます",
+        "ぬぎます"
+      ],
+      "correct_answer": "あびます",
+      "explanation": "わたしはよるシャワーを あびます 。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "ギターを _______ ことができますか。",
+      "choices": [
+        "つく",
+        "おく",
+        "いく",
+        "ひく"
+      ],
+      "correct_answer": "ひく",
+      "explanation": "ギターを ひく ことができますか。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "がくせい _______ でひるごはんをたべます。",
+      "choices": [
+        "としょかん",
+        "しょくどう",
+        "えいがかん",
+        "きょうしつ"
+      ],
+      "correct_answer": "しょくどう",
+      "explanation": "がくせい しょくどう でひるごはんをたべます。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "_______ は午後4時にともだちにあいます。",
+      "choices": [
+        "きのう",
+        "おととい",
+        "せんしゅう",
+        "きょう"
+      ],
+      "correct_answer": "きょう",
+      "explanation": "きょう は午後4時にともだちにあいます。"
+    }
+  ]
+}

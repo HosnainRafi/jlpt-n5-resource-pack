@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-e18166c5dc80",
+    "slug": "jlpt-n5-vocabulary-exercise-12",
+    "title": "JLPT N5 – Vocabulary Exercise 12",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-12",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "ちゅうごくごのべんきょうは _______ ですか？",
+      "choices": [
+        "やさしい",
+        "むずかしい",
+        "さびしい",
+        "たのしい"
+      ],
+      "correct_answer": "むずかしい",
+      "explanation": "ちゅうごくごのべんきょうは むずかしい ですか？"
+    },
+    {
+      "question_number": 2,
+      "prompt": "このクリニックはかんたんな _______ ならなおせるよ。",
+      "choices": [
+        "びょうき",
+        "げんき",
+        "びょういん",
+        "もの"
+      ],
+      "correct_answer": "びょうき",
+      "explanation": "このクリニックはかんたんな びょうき ならなおせるよ。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "その _______ はきゃくがいっぱいいるね。",
+      "choices": [
+        "とり",
+        "て",
+        "みせ",
+        "あね"
+      ],
+      "correct_answer": "みせ",
+      "explanation": "その みせ はきゃくがいっぱいいるね。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "これは _______ なもんだいです。",
+      "choices": [
+        "あんぜん",
+        "ゆうめい",
+        "じょうぶ",
+        "かんたん"
+      ],
+      "correct_answer": "かんたん",
+      "explanation": "これは かんたん なもんだいです。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "Ａ「なにか _______ はありませんか」 Ｂ「おちゃでいいですか」 Ａ「はい、けっこうです」",
+      "choices": [
+        "くだもの",
+        "たべもの",
+        "のりもの",
+        "のみもの"
+      ],
+      "correct_answer": "のみもの",
+      "explanation": "Ａ「なにか のみもの はありませんか」Ｂ「おちゃでいいですか」Ａ「はい、けっこうです」"
+    },
+    {
+      "question_number": 6,
+      "prompt": "なんじにごはんを _______ か？",
+      "choices": [
+        "たべます",
+        "のみます",
+        "いきます",
+        "すみます"
+      ],
+      "correct_answer": "たべます",
+      "explanation": "なんじにごはんを たべます か？"
+    },
+    {
+      "question_number": 7,
+      "prompt": "この _______ はあまりおいしくないですよ。",
+      "choices": [
+        "ラーメン",
+        "テーブル",
+        "テープ",
+        "ソックス"
+      ],
+      "correct_answer": "ラーメン",
+      "explanation": "この ラーメン はあまりおいしくないですよ。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "きょうはゴミのひだから、あるなら _______ ね。",
+      "choices": [
+        "かえして",
+        "おして",
+        "はなして",
+        "だして"
+      ],
+      "correct_answer": "だして",
+      "explanation": "きょうはゴミのひだから、あるなら だして ね。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "このかばんはふるいですが、とても _______ 。",
+      "choices": [
+        "げんきです",
+        "しずかです",
+        "じょうぶです",
+        "にぎやかです"
+      ],
+      "correct_answer": "じょうぶです",
+      "explanation": "このかばんはふるいですが、とても じょうぶです 。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "かさはそこに _______ ください。",
+      "choices": [
+        "かいて",
+        "ひいて",
+        "おいて",
+        "あいて"
+      ],
+      "correct_answer": "おいて",
+      "explanation": "かさはそこに おいて ください。"
+    }
+  ]
+}

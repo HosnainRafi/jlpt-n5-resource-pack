@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "quiz_id": "crawl-822d7135237a",
+    "slug": "jlpt-n5-grammar-exercise-05",
+    "title": "JLPT N5 – Grammar Exercise 05",
+    "level": "N5",
+    "categories": [
+      "grammar",
+      "reading"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-05",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 10,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "これ _______ ちずです。",
+      "choices": [
+        "に",
+        "を",
+        "は",
+        "や"
+      ],
+      "correct_answer": "は",
+      "explanation": "これ は ちずです。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "スーパー _______ かいものをしました。",
+      "choices": [
+        "か",
+        "に",
+        "で",
+        "へ"
+      ],
+      "correct_answer": "で",
+      "explanation": "スーパー で かいものをしました。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "犬が２ひきいます。ねこ _______ ２ひきいます。",
+      "choices": [
+        "や",
+        "も",
+        "で",
+        "に"
+      ],
+      "correct_answer": "も",
+      "explanation": "犬が２ひきいます。ねこ も ２ひきいます。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "らいげつおきなわへりょこう _______ 行きます。",
+      "choices": [
+        "と",
+        "が",
+        "を",
+        "に"
+      ],
+      "correct_answer": "に",
+      "explanation": "らいげつおきなわへりょこう に 行きます。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "ぼくはまいにち中国語 _______ べんきょうします。",
+      "choices": [
+        "と",
+        "の",
+        "や",
+        "を"
+      ],
+      "correct_answer": "を",
+      "explanation": "ぼくはまいにち中国語 を べんきょうします。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "– らいしゅうもひとりで来ますか？- いいえ、らいしゅうはともだち _______ 来ます。",
+      "choices": [
+        "と",
+        "は",
+        "へ",
+        "が"
+      ],
+      "correct_answer": "と",
+      "explanation": "「らいしゅうもひとりで来ますか？」「いいえ、らいしゅうはともだち と 来ます。」"
+    },
+    {
+      "question_number": 7,
+      "prompt": "“どういたしまして”はえいご _______ なんといいますか？",
+      "choices": [
+        "が",
+        "を",
+        "で",
+        "に"
+      ],
+      "correct_answer": "で",
+      "explanation": "「どういたしまして」はえいご で なんといいますか？"
+    },
+    {
+      "question_number": 8,
+      "prompt": "ここにじゅうしょ _______ せいねんがっぴをかいてください。",
+      "choices": [
+        "で",
+        "を",
+        "と",
+        "も"
+      ],
+      "correct_answer": "と",
+      "explanation": "ここにじゅうしょ と せいねんがっぴをかいてください。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "わたしはいつもうちからがっこう _______ くるまで行きます。",
+      "choices": [
+        "しか",
+        "まで",
+        "ごろ",
+        "で"
+      ],
+      "correct_answer": "まで",
+      "explanation": "わたしはいつもうちからがっこう まで くるまで行きます。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "このバスはゆうびんきょくのまえ _______ とおります。",
+      "choices": [
+        "で",
+        "に",
+        "へ",
+        "を"
+      ],
+      "correct_answer": "を",
+      "explanation": "このバスはゆうびんきょくのまえ を とおります。"
+    }
+  ]
+}

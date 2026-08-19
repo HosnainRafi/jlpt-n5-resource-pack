@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "quiz_id": "crawl-1e970b5669fa",
+    "slug": "jlpt-n5-grammar-exercise-01",
+    "title": "JLPT N5 – Grammar Exercise 01",
+    "level": "N5",
+    "categories": [
+      "grammar",
+      "reading"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-01",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "まいにちしんぶん _______ 読みます。",
+      "choices": [
+        "へ",
+        "を",
+        "に",
+        "が"
+      ],
+      "correct_answer": "を",
+      "explanation": "まいにちしんぶん を 読みます。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "田中さんは _______ 来ていませんよ。",
+      "choices": [
+        "もう",
+        "だけ",
+        "まだ",
+        "まで"
+      ],
+      "correct_answer": "まだ",
+      "explanation": "田中さんは まだ 来ていませんよ。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "ナイフ _______ パンをきりました。",
+      "choices": [
+        "で",
+        "を",
+        "に",
+        "が"
+      ],
+      "correct_answer": "で",
+      "explanation": "ナイフ で パンをきりました。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "家にかえってねたほう _______ いいですよ。",
+      "choices": [
+        "と",
+        "に",
+        "が",
+        "は"
+      ],
+      "correct_answer": "が",
+      "explanation": "家にかえってねたほう が いいですよ。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "お母さん、もうあそびに _______ もいいですか？",
+      "choices": [
+        "行く",
+        "行って",
+        "行った",
+        "行っている"
+      ],
+      "correct_answer": "行って",
+      "explanation": "お母さん、もうあそびに 行って もいいですか？"
+    },
+    {
+      "question_number": 6,
+      "prompt": "すいようびには日本語のテスト _______ 。",
+      "choices": [
+        "はいます",
+        "はあります",
+        "がいます",
+        "があります"
+      ],
+      "correct_answer": "があります",
+      "explanation": "すいようびには日本語のテスト があります 。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "あなたのかみは _______ よ。",
+      "choices": [
+        "長ってすぎます",
+        "長くすぎます",
+        "長いすぎます",
+        "長すぎます"
+      ],
+      "correct_answer": "長すぎます",
+      "explanation": "あなたのかみは 長すぎます よ。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "わたしはけいかんに _______ です。",
+      "choices": [
+        "なりたい",
+        "したい",
+        "いきたい",
+        "いたい"
+      ],
+      "correct_answer": "なりたい",
+      "explanation": "わたしはけいかんに なりたい です。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "わたしは、これから _______ に行きます。",
+      "choices": [
+        "およぐ",
+        "およいで",
+        "およぎ",
+        "およいだ"
+      ],
+      "correct_answer": "およぎ",
+      "explanation": "わたしは、これから およぎ に行きます。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "あの人たちはどこに行っているん _______ 。",
+      "choices": [
+        "だろう",
+        "つもりだ",
+        "から",
+        "けれども"
+      ],
+      "correct_answer": "だろう",
+      "explanation": "あの人たちはどこに行っているん だろう 。"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-9a5230d5fbd5",
+    "slug": "jlpt-n5-grammar-exercise-10",
+    "title": "JLPT N5 – Grammar Exercise 10",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-10",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "パンを _______ きります。",
+      "choices": [
+        "うす",
+        "うすい",
+        "うすいで",
+        "うすく"
+      ],
+      "correct_answer": "うすく",
+      "explanation": "パンを うすく きります。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "A「もうこの本を読みましたか。」B「いいえ、 _______ 。」",
+      "choices": [
+        "まだです",
+        "まだ読みました",
+        "もうです",
+        "もう読みませんでした"
+      ],
+      "correct_answer": "まだです",
+      "explanation": "A「もうこの本を読みましたか。」B「いいえ、 まだです 。」"
+    },
+    {
+      "question_number": 3,
+      "prompt": "ひるごはんの時間をもっと _______ しませんか。",
+      "choices": [
+        "おそく",
+        "おそい",
+        "おそいに",
+        "おそくて"
+      ],
+      "correct_answer": "おそく",
+      "explanation": "ひるごはんの時間をもっと おそく しませんか。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "そのこうさてん _______ 左にまがってください。",
+      "choices": [
+        "が",
+        "を",
+        "に",
+        "と"
+      ],
+      "correct_answer": "を",
+      "explanation": "そのこうさてん を 左にまがってください。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "パーティーで、だれ _______ ギターをひきましたか。",
+      "choices": [
+        "を",
+        "も",
+        "は",
+        "が"
+      ],
+      "correct_answer": "が",
+      "explanation": "パーティーで、だれ が ギターをひきましたか。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "わたしがきのう _______ カメラはどこにありますか。",
+      "choices": [
+        "買って",
+        "買う",
+        "買った",
+        "買わない"
+      ],
+      "correct_answer": "買った",
+      "explanation": "わたしがきのう 買った カメラはどこにありますか。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "あたらしいようふく _______ ほしいです。",
+      "choices": [
+        "に",
+        "が",
+        "と",
+        "の"
+      ],
+      "correct_answer": "が",
+      "explanation": "あたらしいようふく が ほしいです。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "時間がありません。 _______ ください。",
+      "choices": [
+        "はやくして",
+        "はやくなって",
+        "はやいにして",
+        "はやいになって"
+      ],
+      "correct_answer": "はやくして",
+      "explanation": "時間がありません。 はやくして ください。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "駅までいっしょに _______ ましょう。",
+      "choices": [
+        "かえ",
+        "かえり",
+        "かえる",
+        "かえって"
+      ],
+      "correct_answer": "かえり",
+      "explanation": "駅までいっしょに かえり ましょう。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "このテストは、じしょを _______ ください。",
+      "choices": [
+        "つかうないで",
+        "つかわないで",
+        "つかいないで",
+        "つかないで"
+      ],
+      "correct_answer": "つかわないで",
+      "explanation": "このテストは、じしょを つかわないで ください。"
+    }
+  ]
+}

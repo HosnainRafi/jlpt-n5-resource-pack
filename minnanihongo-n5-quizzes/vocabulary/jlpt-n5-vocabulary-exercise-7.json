@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-189e72a36c69",
+    "slug": "jlpt-n5-vocabulary-exercise-7",
+    "title": "JLPT N5 – Vocabulary Exercise 7",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-7",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 10,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "_______ はどうぶつです。",
+      "choices": [
+        "さくら",
+        "てんぶら",
+        "ひこうき",
+        "いぬ"
+      ],
+      "correct_answer": "いぬ",
+      "explanation": "いぬ はどうぶつです。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "ここはとしょかんです。 _______ べんきょうしてください。",
+      "choices": [
+        "べんりに",
+        "しずかに",
+        "にぎやかに",
+        "かんたんに"
+      ],
+      "correct_answer": "しずかに",
+      "explanation": "ここはとしょかんです。 しずかに べんきょうしてください。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "やまだ「はじめまして。どうぞよろしく。」 たなか「 _______ 。どうぞよろしく。」",
+      "choices": [
+        "ごめんください",
+        "さようなら",
+        "こちらこそ",
+        "おやすみなさい"
+      ],
+      "correct_answer": "こちらこそ",
+      "explanation": "やまだ「はじめまして。どうぞよろしく。」たなか「 こちらこそ 。どうぞよろしく。」"
+    },
+    {
+      "question_number": 4,
+      "prompt": "さとうさんは _______ こないでしょう。",
+      "choices": [
+        "ちょうど",
+        "すこし",
+        "たぶん",
+        "だんだん"
+      ],
+      "correct_answer": "たぶん",
+      "explanation": "さとうさんは たぶん こないでしょう。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "さむくなったから、_______ をつけてください。",
+      "choices": [
+        "スリッパ",
+        "コート",
+        "テレビ",
+        "ストーブ"
+      ],
+      "correct_answer": "ストーブ",
+      "explanation": "さむくなったから、 ストーブ をつけてください。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "ふうとうにきってを _______ 。",
+      "choices": [
+        "とります",
+        "かります",
+        "うります",
+        "はります"
+      ],
+      "correct_answer": "はります",
+      "explanation": "ふうとうにきってを はります 。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "おふろに _______ からだをあらいました。",
+      "choices": [
+        "あびて",
+        "とって",
+        "とおって",
+        "はいって"
+      ],
+      "correct_answer": "はいって",
+      "explanation": "おふろに はいって からだをあらいました。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "_______ てでごはんをたべないでください。",
+      "choices": [
+        "まずい",
+        "わるい",
+        "きたない",
+        "あぶない"
+      ],
+      "correct_answer": "きたない",
+      "explanation": "きたない てでごはんをたべないでください。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "いそがしくてほんをよむ _______ がありません。",
+      "choices": [
+        "ひま",
+        "しごと",
+        "つくえ",
+        "やすみ"
+      ],
+      "correct_answer": "ひま",
+      "explanation": "いそがしくてほんをよむ ひま がありません。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "すみません。あのおさらを _______ ください。",
+      "choices": [
+        "まって",
+        "すんで",
+        "とって",
+        "しめて"
+      ],
+      "correct_answer": "とって",
+      "explanation": "すみません。あのおさらを とって ください。"
+    }
+  ]
+}

@@ -1,0 +1,3747 @@
+{
+  "meta": {
+    "testId": 7763,
+    "title": "JLPT N5 Mock Test – July 2013",
+    "url": "https://nihonez.com/jlpt-test/jlpt-n5-mock-test-july-2013/",
+    "extracted": "2026-08-19T19:25:52.823Z"
+  },
+  "sections": [
+    {
+      "title": "言語知識 （文字 ・語彙 ）",
+      "title_en": "Vocabulary",
+      "duration": 25,
+      "subsections": [
+        {
+          "title": "もんだい１",
+          "description": "もんだい１ ＿＿＿の ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "category": "vocabulary",
+          "question_type": "kanji-reading",
+          "question_from": 1,
+          "question_to": 12
+        },
+        {
+          "title": "もんだい２",
+          "description": "もんだい２　＿＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを ひとつ　えらんで　ください。",
+          "category": "vocabulary",
+          "question_type": "orthography",
+          "question_from": 13,
+          "question_to": 20
+        },
+        {
+          "title": "もんだい３",
+          "description": "もんだい３　（　　　）に　なにが　はいりますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "category": "vocabulary",
+          "question_type": "contextually-defined-expressions",
+          "question_from": 21,
+          "question_to": 30
+        },
+        {
+          "title": "もんだい４",
+          "description": "もんだい４　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを ひとつ　えらんで　ください。",
+          "category": "vocabulary",
+          "question_type": "paraphrases",
+          "question_from": 31,
+          "question_to": 35
+        }
+      ]
+    },
+    {
+      "title": "言語知識（文 法 ）・読 解",
+      "title_en": "Grammar & Reading",
+      "duration": 50,
+      "subsections": [
+        {
+          "title": "もんだい１",
+          "description": "もんだい１（　　　　）に　[何|なに]を　[入|い]れますか。１・２・３・４から いちば　いい　ものを　[一|ひと]つ　えらんで　ください。",
+          "category": "grammar",
+          "question_type": "sentential-grammar-1",
+          "question_from": 1,
+          "question_to": 16
+        },
+        {
+          "title": "もんだい２",
+          "description": "もんだい２　★ に　入る　ものは どれですか。１・２・３・４からひといちばん いい ものを 一つ えらんで ください。",
+          "category": "grammar",
+          "question_type": "sentential-grammar-2",
+          "question_from": 17,
+          "question_to": 21
+        },
+        {
+          "title": "もんだい３",
+          "description": "もんだい3　[14]から[17]に　[何|なに]を　[入|い]れますか。ぶんしょうのいみを かんがえて、1・2・3・4から　いちばん　いい　ものを　[一|ひと]つ　えらんで　ください。",
+          "category": "grammar",
+          "question_type": "text-grammar",
+          "question_from": 22,
+          "question_to": 26
+        },
+        {
+          "title": "もんだい4",
+          "description": "もんだい4　つぎの　(1)から　(3)の　[文章|ぶんしょう]を　[読|よ]んで、[質問|しつもん]に　こたえて　ください。こたえは、1・2・3・4から　いちばん　いい　ものを　[一|ひと]つ　[選|えら]んで　ください。",
+          "category": "reading",
+          "question_type": "comprehension-short",
+          "question_from": 27,
+          "question_to": 29
+        },
+        {
+          "title": "もんだい5",
+          "description": "もんだい5　つぎの　[文章|ぶんしょう]を　[読|よ]んで、[質問|しつもん]に　こたえて　ください。こたえは、1・2・3・4から　いちばん　いい　ものを　[一|ひと]つ　[選|えら]んで　ください。",
+          "category": "reading",
+          "question_type": "comprehension-medium",
+          "question_from": 30,
+          "question_to": 31
+        },
+        {
+          "title": "もんだい6",
+          "description": "もんだい6　[右|みぎ]の　ページを　[見|み]て、[下|した]の　[質問|しつもん]に　こたえて　ください。こたえは、1・2・3・4から　いちばん　いい　ものを　[一|ひと]つ　[選|えら]んで　ください。",
+          "category": "reading",
+          "question_type": "information-retrieval",
+          "question_from": 32,
+          "question_to": 32
+        }
+      ]
+    },
+    {
+      "title": "ちょうかい",
+      "title_en": "Listening",
+      "duration": 32,
+      "subsections": [
+        {
+          "title": "もんだい1",
+          "description": "もんだい1では、はじめに　[質問|しつもん]を　[書|か]いて　ください。それから　はなしを　[書|か]いて、もんだいようしの　1から4の　なかから、いちばん　いい　ものを　ひとつ　[選|えら]んで　ください。",
+          "category": "listening",
+          "question_type": "task-based-comprehension",
+          "question_from": 1,
+          "question_to": 7
+        },
+        {
+          "title": "もんだい2",
+          "description": "もんだい2では、はじめに　[質問|しつもん]を　[書|か]いて　ください。それから　はなしを　[書|か]いて、もんだいようしの　1から4の　なかから、いちばん　いい　ものを　ひとつ　[選|えら]んで　ください。",
+          "category": "listening",
+          "question_type": "comprehension-of-key-points",
+          "question_from": 1,
+          "question_to": 6
+        },
+        {
+          "title": "もんだい3",
+          "description": "もんだい3では、えを　みながら　[質問|しつもん]を　[書|か]いて　ください。rn→　(やじるし)　の　ひとは　なんと　いいますか。1から3の　なかから、いちばん　いい　ものを　ひとつ　[選|えら]んで　ください。",
+          "category": "listening",
+          "question_type": "verbal-expressions",
+          "question_from": 1,
+          "question_to": 5
+        },
+        {
+          "title": "もんだい4",
+          "description": "もんだい4は、えなどが　ありません。[文|ぶん]を　[書|か]いて、1から3の　なかから、いちばん　いい　ものを　ひとつ　[選|えら]んで　ください。",
+          "category": "listening",
+          "question_type": "quick-response",
+          "question_from": 1,
+          "question_to": 6
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "7764",
+      "order": 1,
+      "html": "いすの　<span style=\"text-decoration: underline;\">上</span>に　ねこが　います。",
+      "text": "いすの　上に　ねこが　います。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "した",
+          "furigana": "した",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "うえ",
+          "furigana": "うえ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "まえ",
+          "furigana": "まえ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "よこ",
+          "furigana": "よこ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 2: うえ is correct.\n\n**Question Translation**  \n\"いすの 上に ねこが います。\"  \n→ \"There is a cat on the chair.\"\n\n**Explanation**  \nThe kanji \"上\" is read as うえ when it means \"on\" or \"above.\" In this sentence, 上に indicates the cat is on top of the chair, so うえ fits.\n\n**Other Options**  \n1. した – Means \"below/under\" (kanji: 下), does not match 上.  \n3. まえ – Means \"in front\" (kanji: 前), not appropriate here.  \n4. よこ – Means \"beside/side\" (kanji: 横), does not match 上.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7765",
+      "order": 2,
+      "html": "きのうから　<span style=\"text-decoration: underline;\">目</span>が　いたいです。",
+      "text": "きのうから　目が　いたいです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "め",
+          "furigana": "め",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "みみ",
+          "furigana": "みみ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あたま",
+          "furigana": "あたま",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "おなか",
+          "furigana": "おなか",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 1: め is correct.\n\n**Question Translation**  \n\"きのうから　目が　いたいです。\"  \n→ \"My eyes have been hurting since yesterday.\"\n\n**Explanation**  \nThe kanji \"目\" is read as め and means \"eye.\" In this sentence, it correctly pairs with いたいです (hurts/is painful).\n\n**Other Options**  \n2. みみ – ear (耳); does not match 目.  \n3. あたま – head (頭); not 目.  \n4. おなか – stomach/belly (お腹/腹); not 目.\n\nOnly め matches the kanji 目 in this context.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7766",
+      "order": 3,
+      "html": "<span style=\"text-decoration: underline;\">父</span>の　しゅみは　テニスです。",
+      "text": "父の　しゅみは　テニスです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "あに",
+          "furigana": "あに",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "はは",
+          "furigana": "はは",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ちち",
+          "furigana": "ちち",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あね",
+          "furigana": "あね",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 3: ちち is correct.\n\n**Question Translation**  \n\"父の しゅみは テニスです。\"  \n→ \"My father's hobby is tennis.\"\n\n**Explanation**  \nThe kanji \"父\" is read as ちち when referring to one’s own father in a neutral way. With の indicating possession, it means “my father,” so ちち fits.\n\n**Other Options**  \n1. あに – older brother (兄); does not match 父.  \n2. はは – mother (母); does not match 父.  \n4. あね – older sister (姉); does not match 父.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7767",
+      "order": 4,
+      "html": "きょうは　いい　<span style=\"text-decoration: underline;\">天気</span>ですね。",
+      "text": "きょうは　いい　天気ですね。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "てんき",
+          "furigana": "てんき",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "でんき",
+          "furigana": "でんき",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "でんぎ",
+          "furigana": "でんぎ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "てんぎ",
+          "furigana": "てんぎ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 1: てんき is correct.\n\n**Question Translation**  \n\"きょうは いい 天気ですね。\"  \n→ \"The weather is nice today, isn't it?\"\n\n**Explanation**  \nThe kanji \"天気\" is read as てんき, meaning \"weather.\" It uses the on’yomi readings: 天 (てん, sky/heaven) + 気 (き, air/spirit).\n\n**Other Options**  \n2. でんき – Means \"electricity\" (電気), not weather; does not match 天気.  \n3. でんぎ – Not a standard reading; does not correspond to 天気.  \n4. てんぎ – Not a standard reading; does not correspond to 天気.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7768",
+      "order": 5,
+      "html": "きのう　たなかさんに　<span style=\"text-decoration: underline;\">話</span>しました。",
+      "text": "きのう　たなかさんに　話しました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "はなしました",
+          "furigana": "はなしました",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "かしました",
+          "furigana": "かしました",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "かえしました",
+          "furigana": "かえしました",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "わたしました",
+          "furigana": "わたしました",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 1: はなしました is correct.\n\n**Question Translation**  \n\"きのう たなかさんに 話しました。\"  \n→ \"I talked to Mr./Ms. Tanaka yesterday.\"\n\n**Explanation**  \nThe kanji \"話\" in the verb 話す (to talk/speak) is read as はな. So 話しました is the polite past form, read はなしました. The particle に marks the person you spoke to.\n\n**Other Options**  \n2. かしました – 貸しました: lent.  \n3. かえしました – 返しました: returned (something).  \n4. わたしました – 渡しました: handed over.  \n\nOnly 話しました (はなしました) matches the kanji 話 and the meaning “talked.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7769",
+      "order": 6,
+      "html": "アパートの　<span style=\"text-decoration: underline;\">南がわ</span>に　こうえんが　あります。",
+      "text": "アパートの　南がわに　こうえんが　あります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ひがしがわ",
+          "furigana": "ひがしがわ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "みなみがわ",
+          "furigana": "みなみがわ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "きたがわ",
+          "furigana": "きたがわ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "にしがわ",
+          "furigana": "にしがわ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "Correct Answer  \nAnswer 2: みなみがわ is correct.\n\nQuestion Translation  \n\"アパートの 南がわに こうえんが あります。\"  \n→ \"There is a park on the south side of the apartment.\"\n\nExplanation  \nThe kanji \"南がわ/南側\" is read as みなみがわ, meaning \"south side.\" It matches the kanji 南 (south) + 側 (がわ, side) and fits the location described.\n\nOther Options  \n1. ひがしがわ – \"east side\" (東がわ/東側).  \n3. きたがわ – \"north side\" (北がわ/北側).  \n4. にしがわ – \"west side\" (西がわ/西側).  \n\nOnly みなみがわ matches the kanji 南 in the sentence.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7770",
+      "order": 7,
+      "html": "そこに　<span style=\"text-decoration: underline;\">出て</span>　ください。",
+      "text": "そこに　出て　ください。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "だて",
+          "furigana": "だて",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "でて",
+          "furigana": "でて",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "でして",
+          "furigana": "でして",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "だして",
+          "furigana": "だして",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "Correct Answer  \nAnswer 2: でて is correct.\n\nQuestion Translation  \n\"そこに 出て ください。\"  \n→ \"Please go out there.\" / \"Please step out over there.\"\n\nExplanation  \nThe kanji \"出て\" is read as でて, the te-form of 出る (to go/come out). In this request, it naturally means “please go/step out.”\n\nOther Options  \n1. だて – Not a reading of 出て. Often seen as 伊達 (だて: showy) or ～建て (だて: -story building).  \n3. でして – Te-form of です, written in kana; not related to 出.  \n4. だして – Reading of 出して, the te-form of 出す (to take/put out; transitive), which does not match 出て here.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7771",
+      "order": 8,
+      "html": "あの　<span style=\"text-decoration: underline;\">女の子</span>は　５さいです。",
+      "text": "あの　女の子は　５さいです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "おんなのこう",
+          "furigana": "おんなのこう",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "おんなのこ",
+          "furigana": "おんなのこ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "おなのこ",
+          "furigana": "おなのこ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "おなのこう",
+          "furigana": "おなのこう",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 2: おんなのこ is correct.\n\n**Question Translation**  \n\"あの 女の子は ５さいです。\"  \n→ \"That girl is five years old.\"\n\n**Explanation**  \nThe kanji \"女の子\" is read as おんなのこ: 女 (おんな, female) + の (connector) + 子 (こ, child). Together it means \"girl,\" which fits the sentence.\n\n**Other Options**  \n1. おんなのこう – Not a word; 子 is read こ, not こう.  \n3. おなのこ – Missing ん; 女 is read おんな, not おな.  \n4. おなのこう – Missing ん and reads 子 as こう; both are incorrect.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7772",
+      "order": 9,
+      "html": "にほんごの　せんせいは　<span style=\"text-decoration: underline;\">何人</span>　いますか。",
+      "text": "にほんごの　せんせいは　何人　いますか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "なんひと",
+          "furigana": "なんひと",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "なににん",
+          "furigana": "なににん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "なんにん",
+          "furigana": "なんにん",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "なにひと",
+          "furigana": "なにひと",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 3: なんにん is correct.\n\n**Question Translation**  \n\"にほんごの せんせいは 何人 いますか。\"  \n→ \"How many Japanese language teachers are there?\"\n\n**Explanation**  \nThe kanji \"何人\" is read as なんにん when asking “how many people.” 何 becomes なん before counters, and 人 is にん as the counter for people. With いますか, it clearly asks the number of people.\n\n**Other Options**  \n1. なんひと – 人 read as ひと (person) is not used with the counter; incorrect for 何人.  \n2. なににん – 何 can be なに, but before counters it changes to なん; unnatural here.  \n4. なにひと – Not a standard reading of 何人; incorrect.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7773",
+      "order": 10,
+      "html": "この　とけいは　<span style=\"text-decoration: underline;\">八百円</span>です。",
+      "text": "この　とけいは　八百円です。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "はちぴゃくえん",
+          "furigana": "はちぴゃくえん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "はっひゃくえん",
+          "furigana": "はっひゃくえん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "はっぴゃくえん",
+          "furigana": "はっぴゃくえん",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "はちひゃくえん",
+          "furigana": "はちひゃくえん",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \r\nAnswer 3: はっぴゃくえん is correct.\r\n\r\n**Question Translation**  \r\n\"この とけいは 八百円です。\"  \r\n→ \"This watch costs 800 yen.\"\r\n\r\n**Explanation**  \r\n\"八百円\" is read as はっぴゃくえん. In Japanese, 八百 (800) becomes はっぴゃく with a small っ and ひゃく changing to ぴゃく.\r\n\r\n**Other Options**  \r\n1. はちぴゃくえん – Nonstandard; missing the small っ and not the usual reading for 八百.  \r\n2. はっぴゃくえん – Wrong answer. not ひ it should be ぴ.\r\n4. はちひゃくえん – Literal-sounding, but 800 is pronounced はっぴゃく, not はちひゃく.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7774",
+      "order": 11,
+      "html": "<span style=\"text-decoration: underline;\">土よう日</span>に　テストが　あります。",
+      "text": "土よう日に　テストが　あります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "かようび",
+          "furigana": "かようび",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "きんようび",
+          "furigana": "きんようび",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "もくようび",
+          "furigana": "もくようび",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "どようび",
+          "furigana": "どようび",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 4: どようび is correct.\n\n**Question Translation**  \n\"土よう日に　テストが　あります。\"  \n→ \"There will be a test on Saturday.\"\n\n**Explanation**  \n\"土よう日\" is read as どようび, meaning Saturday. 土 is the kanji for Saturday, and 曜日 is read ようび, so together it’s どようび.\n\n**Other Options**  \n1. かようび – Tuesday (kanji: 火曜日), not 土.  \n2. きんようび – Friday (kanji: 金曜日), not 土.  \n3. もくようび – Thursday (kanji: 木曜日), not 土.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7775",
+      "order": 12,
+      "html": "けさは　<span style=\"text-decoration: underline;\">四時</span>に　おきました。",
+      "text": "けさは　四時に　おきました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "よんじ",
+          "furigana": "よんじ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "よじ",
+          "furigana": "よじ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "くじ",
+          "furigana": "くじ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "きゅうじ",
+          "furigana": "きゅうじ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 2: よじ is correct.\n\n**Question Translation**  \n\"けさは 四時に おきました。\"  \n→ \"I woke up at four o'clock this morning.\"\n\n**Explanation**  \n四時 is read as よじ when telling time. 四 can be よん/し/よ, but with 時 it becomes よじ (irregular time reading), meaning 4 o'clock.\n\n**Other Options**  \n1. よんじ – Not the standard reading for 四時; time uses よじ.  \n3. くじ – Reading of 九時 (9 o'clock), not 四時.  \n4. きゅうじ – Not used for time; could be 九時 (normally read くじ) or the word 給仕 (きゅうじ, “waiter/serving”), so it doesn’t match 四時.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7776",
+      "order": 13,
+      "html": "<span style=\"text-decoration: underline;\">たくしー</span>で　どのくらい　かかりますか。",
+      "text": "たくしーで　どのくらい　かかりますか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "タクシー",
+          "furigana": "タクシー",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "クタシー",
+          "furigana": "クタシー",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "タクツー",
+          "furigana": "タクツー",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "クタツー",
+          "furigana": "クタツー",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "Correct Answer  \r\nAnswer 1: タクシー is correct. It means “taxi” (cab).\r\n\r\nQuestion Translation  \r\nAbout how long does it take by taxi?\r\n\r\nExplanation  \r\nThe underlined たくしー represents the loanword “taxi,” which should be written in katakana as タクシー. Loanwords are normally written in katakana, and the long vowel is shown with ー after シ: タクシー (reading: たくしー / takushii).\r\n\r\nWhy Other Options Are Incorrect  \r\n- Answer 2: クタシー — Not a standard Japanese word; letters are in the wrong order.  \r\n- Answer 3: タクシー — Not a real word. It swaps シー (shii) for ツー (tsuu), which changes the sound incorrectly. “Taxi” in Japanese is タクシー, not タクツー.\r\n- Answer 4: クタシー — Also not a real word. Both the consonants are scrambled (クタ– instead of タク–) and the ending ツー is incorrect for “taxi.”\r\n\r\nGrammar/Vocabulary Note  \r\n- で after a vehicle (タクシーで) marks the means of transportation: “by taxi.”  \r\n- どのくらい かかりますか means “How long does it take?” (かかる = to take [time/cost]).  \r\n- Katakana is used for gairaigo (loanwords), and ー marks a long vowel in katakana.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7777",
+      "order": 14,
+      "html": "ぎんこうは　あの　<span style=\"text-decoration: underline;\">おおきい</span>　ビルの　１かいです。",
+      "text": "ぎんこうは　あの　おおきい　ビルの　１かいです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "太い",
+          "furigana": "太い",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "大い",
+          "furigana": "大い",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "太きい",
+          "furigana": "太きい",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "大きい",
+          "furigana": "大きい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.25",
+      "explanation": "Correct Answer  \nAnswer 4: 大きい is correct. It means \"big\" or \"large.\"\n\nQuestion Translation  \nThe bank is on the first floor of that big building.\n\nExplanation  \nおおきい is the i-adjective meaning \"big/large.\" The correct orthography is 大きい (おおきい), with the kanji 大 and the okurigana きい. It naturally modifies ビル (building): 大きいビル.\n\nWhy Other Options Are Incorrect  \n- Answer 1: 太い (ふとい) means \"thick\" or \"fat\" (e.g., a thick rope, thick line, deep voice). It’s not used to describe the size of a building.  \n- Answer 2: 大い is not a standard adjective in modern Japanese. The correct adjective for \"big\" is 大きい. Note: 大いに (おおいに) exists as an adverb meaning \"greatly,\" but 大い alone is not used.  \n- Answer 3: 太きい is not a standard Japanese word; incorrect kanji and okurigana.\n\nGrammar/Vocabulary Note  \n- 大きい is an i-adjective; when used before a noun, it directly modifies it: 大きいビル.  \n- Reading: 大きい（おおきい）.  \n- 太い（ふとい） is for thickness, not overall size.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7778",
+      "order": 15,
+      "html": "きのう　<span style=\"text-decoration: underline;\">ともだち</span>と　うみへ　いきました。",
+      "text": "きのう　ともだちと　うみへ　いきました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "支だち",
+          "furigana": "支だち",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "反だち",
+          "furigana": "反だち",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "友だち",
+          "furigana": "友だち",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "皮だち",
+          "furigana": "皮だち",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 3: 友だち is correct. It means \"friend\" or \"friends.\"\n\n**Question Translation**  \nYesterday, I went to the beach (sea) with my friend(s).\n\n**Explanation**  \nともだち is correctly written as 友だち（ともだち） or 友達. The kanji 友 means \"friend,\" and だち corresponds to 達, a suffix indicating a group/collective (here forming the common word for “friend”).  \nReading: 友だち（ともだち）  \nMeaning: friend/friends\n\n**Why Other Options Are Incorrect**  \n- Answer 1: 支だち — 支 (し; support/branch) does not read as とも and is unrelated in meaning.  \n- Answer 2: 反だち — 反 (はん/そる; anti/opposite) does not read as とも and the meaning is wrong.  \n- Answer 4: 皮だち — 皮 (かわ; skin) does not read as とも and is unrelated.\n\n**Grammar/Vocabulary Note**  \n- 達 (たち/だち) is a suffix often used with people to indicate a group/collective. In 友だち, the word is lexicalized and can mean either singular or plural depending on context.  \n- The particle と after 友だち means “with.”  \n- へ marks direction (“to” the sea/beach).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7779",
+      "order": 16,
+      "html": "わたしは　まいにち　パンを　<span style=\"text-decoration: underline;\">たべます</span>。",
+      "text": "わたしは　まいにち　パンを　たべます。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "飲べます",
+          "furigana": "飲べます",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "倉べます",
+          "furigana": "倉べます",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "食べます",
+          "furigana": "食べます",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "飽べます",
+          "furigana": "飽べます",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 3: 食べます is correct. It means “to eat” (polite non-past form: I eat).\n\n**Question Translation**  \nI eat bread every day.\n\n**Explanation**  \nThis is an orthography question asking for the correct kanji for たべます.  \n食べます (reading: たべます; dictionary form: 食べる) means “to eat,” which fits the object パン (bread) and the habitual context まいにち (every day).\n\n**Why Other Options Are Incorrect**  \n- Answer 1: 飲べます — Not a correct form. The verb “to drink” is 飲む, and its polite form is 飲みます, not “飲べます.” Also, bread is eaten, not drunk.  \n- Answer 2: 倉べます — 倉 (くら) means “warehouse.” This is not a verb; 倉べる/倉べます does not exist.  \n- Answer 4: 飽べます — The verb is 飽きる (to get tired of; to be satiated). “飽べます” is not a standard conjugation.\n\n**Grammar/Vocabulary Note**  \n- 食べる is an ichidan (る-verb): 食べる → 食べます (polite), marking the direct object with を.  \n- Non-past ます-form with まいにち expresses a habitual action.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7780",
+      "order": 17,
+      "html": "りんごが　<span style=\"text-decoration: underline;\">みっつ</span>　あります。",
+      "text": "りんごが　みっつ　あります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "五つ",
+          "furigana": "五つ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "七つ",
+          "furigana": "七つ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "三つ",
+          "furigana": "三つ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "六つ",
+          "furigana": "六つ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 3: 三つ is correct. It means “three (items)” and is read みっつ.\n\n**Question Translation**  \nThere are three apples.\n\n**Explanation**  \nThis is an orthography question asking for the correct kanji for みっつ, the native Japanese counter for general items. The correct kanji is 三つ (みっつ), meaning “three.”\n\n- Reading: 三つ（みっつ）\n- Meaning: three (general counter with つ)\n\n**Why Other Options Are Incorrect**  \n- Answer 1: 五つ（いつつ）means “five,” not “three.”  \n- Answer 2: 七つ（ななつ）means “seven,” not “three.”  \n- Answer 4: 六つ（むっつ）means “six,” not “three.”\n\n**Grammar/Vocabulary Note**  \n- Native counters with つ: ひとつ, ふたつ, みっつ, よっつ, いつつ, むっつ, ななつ, やっつ, ここのつ, とお.  \n- あります is used for inanimate existence.  \n- Apples can be counted with the general counter つ or with 個 (e.g., 3つ or 3個); here つ is used.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7781",
+      "order": 18,
+      "html": "<span style=\"text-decoration: underline;\">らいねん</span>、にほんへ　いきます。",
+      "text": "らいねん、にほんへ　いきます。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "来年",
+          "furigana": "来年",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "今年",
+          "furigana": "今年",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "来月",
+          "furigana": "来月",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "今月",
+          "furigana": "今月",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 1: 来年 is correct. It means \"next year.\" (Reading: らいねん)\n\n**Question Translation**  \nNext year, I will go to Japan.\n\n**Explanation**  \nThis is an orthography question: the kana らいねん should be written as 来年, meaning \"next year.\" It fits the time expression at the start of the sentence indicating when the action いきます (will go) happens. にほんへ uses へ (pronounced え) to mark direction/destination.\n\n**Why Other Options Are Incorrect**  \n- Answer 2: 今年 (ことし) means \"this year,\" not らいねん.  \n- Answer 3: 来月 (らいげつ) means \"next month,\" not \"next year.\"  \n- Answer 4: 今月 (こんげつ) means \"this month,\" not らいねん.\n\n**Grammar/Vocabulary Note**  \n- Time words like 来年 can appear without に (来年、にほんへいきます). Adding に (来年に) is optional for broad time frames.  \n- The particle へ marks direction (\"to\"); に (にほんにいきます) is also acceptable and more destination-focused.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7782",
+      "order": 19,
+      "html": "この　<span style=\"text-decoration: underline;\">みせ</span>は　10じに　あきます。",
+      "text": "この　みせは　10じに　あきます。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "庄",
+          "furigana": "庄",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "店",
+          "furigana": "店",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "居",
+          "furigana": "居",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "屋",
+          "furigana": "屋",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 2: 店 is correct. It is read みせ and means \"shop\" or \"store.\"\n\n**Question Translation**  \nThis store opens at 10 o'clock.\n\n**Explanation**  \nIn this sentence, みせ refers to a place that opens at a certain time, so it means \"store/shop.\" The correct kanji for みせ in this meaning is 店 (みせ). The verb あきます here means \"opens\" (as in a shop opening).\n\n**Why Other Options Are Incorrect**  \n- Answer 1: 庄 — Means \"manor\" or \"village\" (しょう). Not read みせ and not related to shops.  \n- Answer 3: 居 — Means \"to be; reside\" (いる/い). Not a noun for a store.  \n- Answer 4: 屋 — Read や, often used as a suffix to mean a type of shop (e.g., 本屋). By itself it is not read みせ and doesn’t fit here.\n\n**Grammar/Vocabulary Note**  \n- 店（みせ） = shop/store.  \n- 屋（〜や） is a suffix meaning \"shop\" for a specific trade (e.g., 魚屋), not used alone as みせ.  \n- あく／あける (開く／開ける): Shops \"open\" with 開く (intransitive): 店が10時に開きます.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7783",
+      "order": 20,
+      "html": "おがわさんは　いま　<span style=\"text-decoration: underline;\">しんぶん</span>を　よんで　います。",
+      "text": "おがわさんは　いま　しんぶんを　よんで　います。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "親聞",
+          "furigana": "親聞",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "新間",
+          "furigana": "新間",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "新聞",
+          "furigana": "新聞",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "親間",
+          "furigana": "親間",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "The correct answer is Answer Choice 3: 新聞\r\nThe sentence reads: おかあわさんは いま しんぶんを よんで います。\r\nMeaning: \"Mother is reading a newspaper now.\"\r\n\r\n新聞 (shinbun) is the correct and actual Japanese word for \"newspaper.\"\r\nThe other choices are incorrect because they use the wrong characters:\r\n\r\nChoice 1: 親聞 (親 = parent, not 新 = new)\r\nChoice 2: 新間 (間 = interval/space, not 聞 = news/hear)\r\nChoice 4: 親間 (both characters are wrong)\r\n\r\nOnly Choice 3 has both the correct characters: 新 (new) + 聞 (news/hear) = 新聞 (newspaper)",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7784",
+      "order": 21,
+      "html": "へやが（　　　）ですから、ストーブを　つけましょう。",
+      "text": "へやが（　　　）ですから、ストーブを　つけましょう。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "つめたい",
+          "furigana": "つめたい",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ぬるい",
+          "furigana": "ぬるい",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あつい",
+          "furigana": "あつい",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "さむい",
+          "furigana": "さむい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 4: さむい is correct. It means \"cold\" (referring to ambient air/room temperature). Kanji: 寒い（さむい）.\n\n**Question Translation**  \nSince the room is cold, let’s turn on the heater.\n\n**Explanation**  \nストーブをつけましょう (let’s turn on the heater) implies the room’s air temperature is low. 寒い describes cold weather/air/room temperature, so it fits naturally: 部屋が寒い.\n\n**Why Other Options Are Incorrect**  \n- Answer 1: つめたい（冷たい）means \"cold to the touch\" (objects/liquids/people’s attitude), not ambient air. 部屋がつめたい is unnatural.  \n- Answer 2: ぬるい means \"lukewarm/tepid,\" usually for liquids or baths; it doesn’t describe a room.  \n- Answer 3: あつい（暑い/熱い）means \"hot.\" If it were hot, you wouldn’t turn on a heater.\n\n**Grammar/Vocabulary Note**  \n- ～ですから = \"because/since.\"  \n- 〜ましょう = volitional suggestion \"let’s.\"  \n- ストーブをつける = \"to turn on the heater.\"  \n- 寒い (ambient cold) vs 冷たい (cold to the touch) is a common distinction.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7785",
+      "order": 22,
+      "html": "つぎの（　　　）で　でんしゃを　おります。",
+      "text": "つぎの（　　　）で　でんしゃを　おります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "かいだん",
+          "furigana": "かいだん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "しんごう",
+          "furigana": "しんごう",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "かど",
+          "furigana": "かど",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "えき",
+          "furigana": "えき",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 4: えき is correct. It means “(train) station” (駅, えき).\n\n**Question Translation**  \n“I will get off the train at the next station.”\n\n**Explanation**  \nThe verb おります (降ります) means “to get off” (a vehicle). You get off a train at a station, so つぎのえきで (at the next station) is the natural and correct location. The particle で marks the place where the action (getting off) happens.\n\n**Why Other Options Are Incorrect**  \n- Answer 1: かいだん (stairs) — You don’t “get off a train” at stairs; stairs are inside a station, not the stopping point.  \n- Answer 2: しんごう (traffic light) — Trains don’t stop at traffic lights; unnatural for trains.  \n- Answer 3: かど (corner) — A “corner” is not a place where trains stop or where you get off.\n\n**Grammar/Vocabulary Note**  \n- 降りる（おりる）: to get off (a vehicle).  \n- 〜で: particle marking the place of an action (つぎの駅で).  \n- つぎの: “next,” directly modifies the following noun (つぎの駅).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7786",
+      "order": 23,
+      "html": "なつやすみは　かぞくと　やまに（　　　）。",
+      "text": "なつやすみは　かぞくと　やまに（　　　）。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "のぼります",
+          "furigana": "のぼります",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "あるきます",
+          "furigana": "あるきます",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あがります",
+          "furigana": "あがります",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "のります",
+          "furigana": "のります",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 1: のぼります is correct. It means “to climb (go up),” as in climbing a mountain. Kanji: 登ります（のぼります）.\n\n**Question Translation**  \nDuring summer vacation, I will climb a mountain with my family.\n\n**Explanation**  \n- やまにのぼります (山に登ります) is the natural, common expression for “climb a mountain.”  \n- The particle に marks the goal/destination of the upward movement (climbing the mountain).  \n- Context (“summer vacation,” “with family”) suggests a typical activity like mountain climbing.\n\n**Why Other Options Are Incorrect**  \n- Answer 2: あるきます（歩きます, to walk）  \n  “山に歩きます” is unnatural. For “walk to the mountain,” you’d say 山へ/まで歩きます; for walking on/in a mountain, 山を/で歩きます. It doesn’t express “climb a mountain.”  \n- Answer 3: あがります（上がります, to go up/rise）  \n  Used for prices/temperatures rising or going up stairs (階段を上がる). “山に上がる” is not the natural verb for mountain climbing; use 登る.  \n- Answer 4: のります（乗ります, to ride/get on）  \n  Used with vehicles/animals (電車に乗る). “山に乗る” is incorrect.\n\n**Grammar/Vocabulary Note**  \n- 登る（のぼる） is the standard verb for climbing mountains/trees. Both 山に登る and 山を登る are acceptable: に emphasizes destination; を emphasizes the object traversed.  \n- と after かぞく means “with (together with).”  \n- は after なつやすみ marks the time/topic: “As for summer vacation, …”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7787",
+      "order": 24,
+      "html": "きのうは（　　　）が　たくさん　ふりました。",
+      "text": "きのうは（　　　）が　たくさん　ふりました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "そら",
+          "furigana": "そら",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "くもり",
+          "furigana": "くもり",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "みず",
+          "furigana": "みず",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ゆき",
+          "furigana": "ゆき",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \r\nAnswer 4: ゆき is correct. It means \"snow.\"\r\n\r\n**Question Translation**  \r\nYesterday, a lot of snow fell.\r\n\r\n**Explanation**  \r\nThe verb ふる (降る) means “to fall” for precipitation and similar things that come from the sky, such as 雨 (rain) and 雪 (snow). The natural collocation here is 雪が降る. With たくさん, it means “a lot of snow fell.”\r\n\r\n- ゆき (雪, yuki): snow → 雪が降る = it snows.\r\n\r\n**Why Other Options Are Incorrect**  \r\n- Answer 1: そら (sky) — The sky does not “fall.” そらが降る is nonsensical.  \r\n- Answer 2: くもり (cloudiness/overcast) — Describes a weather state (くもりです), not something that “falls.” くもりが降る is incorrect.  \r\n- Answer 3: みず (water) — We don’t say みずが降る for rain; the standard word is 雨 (あめ). みずが降る is unnatural.\r\n\r\n**Grammar/Vocabulary Note**  \r\n- 降る (ふる): used for precipitation (雨が降る, 雪が降る).  \r\n- が marks the subject of the verb (雪が).  \r\n- たくさん modifies the amount: 雪がたくさん降りました = “It snowed a lot.”  \r\n- きのうは sets the time/topic: “As for yesterday, …”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7788",
+      "order": 25,
+      "html": "えんぴつを　４（　　　）かいました。",
+      "text": "えんぴつを　４（　　　）かいました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ほん",
+          "furigana": "ほん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "まい",
+          "furigana": "まい",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "さつ",
+          "furigana": "さつ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "だい",
+          "furigana": "だい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 1: ほん is correct. It is the counter 本 for long, cylindrical objects. Here it means “four (pencils),” read よんほん.\n\n**Question Translation**  \nI bought four pencils.\n\n**Explanation**  \nPencils are long and cylindrical, so the appropriate counter is 本（ほん）. Therefore, えんぴつを よんほん かいました is natural and correct.\n\n**Why Other Options Are Incorrect**  \n- Answer 2: まい（枚） is for flat, thin objects like paper, tickets, or plates—not pencils.  \n- Answer 3: さつ（冊） is for bound volumes like books or magazines.  \n- Answer 4: だい（台） is for machines and vehicles like cars, TVs, or computers.\n\n**Grammar/Vocabulary Note**  \n- Counter 本 (ほん) has sound changes: 1本 いっぽん, 2本 にほん, 3本 さんぼん, 4本 よんほん, 6本 ろっぽん, 8本 はっぽん, 10本 じゅっぽん.  \n- Object marker を marks えんぴつ as the direct object of かいました (bought).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7789",
+      "order": 26,
+      "html": "さとうさんは　めがねを（　　　）います。",
+      "text": "さとうさんは　めがねを（　　　）います。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "かけて",
+          "furigana": "かけて",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "はいて",
+          "furigana": "はいて",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "きて",
+          "furigana": "きて",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "かぶって",
+          "furigana": "かぶって",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "Correct Answer  \nAnswer 1: かけて is correct. It means “wearing (glasses)”—the verb used for glasses or sunglasses.\n\nQuestion Translation  \nMr./Ms. Sato is wearing glasses.\n\nExplanation  \nめがね (眼鏡, megane) takes the verb かける when talking about wearing them. The pattern 〜ている here expresses a current state (“is wearing”), not an action in progress. So めがねをかけています means “is wearing glasses.” Note: めがねをしている is also possible in everyday Japanese, but among the given options, かけて is the correct collocation.\n\nWhy Other Options Are Incorrect  \n- Answer 2: はいて (履いて) — used for items worn on the lower body (shoes, socks, pants, skirts). Not used with glasses.  \n- Answer 3: きて (着て) — used for upper-body clothing (shirts, jackets, dresses). Not used with glasses.  \n- Answer 4: かぶって (被って) — used for things worn on the head (hats, caps). Not used with glasses.\n\nGrammar/Vocabulary Note  \n- めがね（眼鏡）: glasses.  \n- 〜ている often indicates a resulting state: wearing (着ている/履いている/かぶっている/かけている) rather than the moment of putting on.  \n- Wear-verb collocations:  \n  - 眼鏡をかける (glasses)  \n  - 帽子をかぶる (hat)  \n  - 服を着る (clothes, tops/dresses)  \n  - 靴・靴下・ズボンを履く (shoes, socks, pants)",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7790",
+      "order": 27,
+      "html": "かぜが（　　　）ですから、まどを　しめましょう。",
+      "text": "かぜが（　　　）ですから、まどを　しめましょう。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "たかい",
+          "furigana": "たかい",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "つよい",
+          "furigana": "つよい",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ながい",
+          "furigana": "ながい",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ひろい",
+          "furigana": "ひろい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "Correct Answer  \r\nAnswer 2: つよい is correct. It means “strong.”\r\n\r\nQuestion Translation  \r\nBecause the wind is strong, let’s close the window.\r\n\r\nExplanation  \r\nThis is a collocation/context question. The natural expression is 風が強い (かぜがつよい, “the wind is strong”). Given the reason clause 〜ですから leading to 窓を閉めましょう (“let’s close the window”), “strong wind” fits perfectly.\r\n- Reading/meaning: 風(かぜ, wind), 強い(つよい, strong), 窓(まど, window), 閉めましょう(しめましょう, let’s close).\r\n\r\nWhy Other Options Are Incorrect  \r\n- Answer 1: たかい (高い) = “high/tall/expensive.” 風が高い is not a natural expression in Japanese; it doesn’t collocate with 風 to mean strong wind.  \r\n- Answer 3: ながい (長い) = “long.” 風が長い is unnatural; you’d say 風が長く吹く (“the wind blows for a long time”), not “the wind is long.”  \r\n- Answer 4: ひろい (広い) = “wide/spacious.” Describes space/area, not wind strength; 風が広い is not used.\r\n\r\nGrammar/Vocabulary Note  \r\n- 〜ですから: gives a reason, “because/since.”  \r\n- 〜ましょう: volitional form, making a suggestion, “let’s …”  \r\n- Common collocation: 風が強い = “the wind is strong.” Recognizing fixed combinations is key in context questions.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7791",
+      "order": 28,
+      "html": "わたしは　うたが（　　　）じゃ　ありませんから、うたいたくないです。",
+      "text": "わたしは　うたが（　　　）じゃ　ありませんから、うたいたくないです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "にぎやか",
+          "furigana": "にぎやか",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "たいせつ",
+          "furigana": "たいせつ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "じょうず",
+          "furigana": "じょうず",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "べんり",
+          "furigana": "べんり",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 3: じょうず is correct. It means \"skillful; good at.\" (上手・じょうず)\n\n**Question Translation**  \nBecause I’m not good at singing, I don’t want to sing.\n\n**Explanation**  \nThe pattern Nが上手(じょうず)です means “to be good at N.” Here, 歌が上手じゃありません means “I’m not good at singing,” which naturally leads to うたいたくないです (“I don’t want to sing”). じょうず is a na-adjective, so its polite negative is じゃありません, matching the sentence.\n\n**Why Other Options Are Incorrect**  \n- Answer 1: にぎやか（賑やか）= lively/bustling. Used for places/events, not ability. 歌がにぎやか doesn’t describe skill.  \n- Answer 2: たいせつ（大切）= important. 歌が大切じゃありません would mean “singing isn’t important,” which doesn’t logically explain “so I don’t want to sing,” and the が with 大切 here is unnatural (は would be used).  \n- Answer 4: べんり（便利）= convenient. 歌が便利じゃありません is nonsensical; “convenient” doesn’t describe singing ability.\n\n**Grammar/Vocabulary Note**  \n- 上手(じょうず): na-adjective, “skillful; good at.” Common pattern: Nが上手／下手(へた).  \n- じゃありません: polite negative for na-adjectives.  \n- 〜たい／たくない: V-stem + たい = want to do; negative たくない = don’t want to do (うたう → うたい→ うたいたくない).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7792",
+      "order": 29,
+      "html": "いもうとは　いま（　　　）を　みがいて　います。",
+      "text": "いもうとは　いま（　　　）を　みがいて　います。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "はな",
+          "furigana": "はな",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "かお",
+          "furigana": "かお",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "くち",
+          "furigana": "くち",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 4: は is correct. It means “teeth” (歯).\n\n**Question Translation**  \nMy younger sister is brushing her teeth now.\n\n**Explanation**  \nThe verb みがく (磨く) means “to polish” and, by extension, “to brush” when used with teeth: 歯を磨く = to brush one’s teeth. This is the natural, fixed collocation in Japanese.  \nいもうとは いま〜ています indicates an action in progress (“is doing now”).\n\n**Why Other Options Are Incorrect**  \n- Answer 1: はな（鼻, nose）— You don’t “polish” a nose. Typical verbs: 鼻をかむ (to blow one’s nose), 洗う (to wash).  \n- Answer 2: かお（顔, face）— You normally say 顔を洗う (to wash your face), not 磨く.  \n- Answer 3: くち（口, mouth）— 口を磨く is not used for physical brushing; natural expressions are 口をゆすぐ/すすぐ (to rinse one’s mouth). “磨く” doesn’t fit.\n\n**Grammar/Vocabulary Note**  \n- 磨く（みがく）: to polish; to brush (teeth). Common collocations: 歯を磨く, 靴を磨く.  \n- 〜ている: ongoing action (いま〜ています = “is doing now”).  \n- 妹（いもうと）: younger sister.  \n- を: marks the direct object (（歯）を 磨く).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7793",
+      "order": 30,
+      "html": "みちが　わかりませんから、（　　　）を　かいて　ください。",
+      "text": "みちが　わかりませんから、（　　　）を　かいて　ください。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "てがみ",
+          "furigana": "てがみ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ちず",
+          "furigana": "ちず",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "レポート",
+          "furigana": "レポート",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "コピー",
+          "furigana": "コピー",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 2: ちず is correct. It means “map” (地図).\n\n**Question Translation**  \n“Since I don’t know the way, please draw a map.”\n\n**Explanation**  \nThe context is about not knowing the way (みちがわかりません). The natural request is to ask someone to draw a map: 地図をかく. The verb かく (to write/draw) fits with 地図, and the sentence uses 〜てください to make a polite request.\n\n(Reading/meaning) 地図（ちず）: map.\n\n**Why Other Options Are Incorrect**  \n- Answer 1: てがみ（手紙, letter）: You can “write a letter,” but it doesn’t help with not knowing the way; contextually odd.  \n- Answer 3: レポート (report): “Write a report” doesn’t match the need for directions.  \n- Answer 4: コピー (copy): Usually collocates with とる (コピーをとる “make a copy”), not かく; also irrelevant for directions.\n\n**Grammar/Vocabulary Note**  \n- 〜から: gives the reason (“because/since”).  \n- 〜てください: polite request “please do ...”.  \n- かく can be written as 書く (write) or 描く (draw). For maps, 地図を描く is common; in beginner contexts, 地図をかく is acceptable.  \n- みち（道）: way/road; わかりません: don’t know.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7794",
+      "order": 31,
+      "html": "<span style=\"text-decoration: underline;\">あそこは　としょかんです。</span>",
+      "text": "あそこは　としょかんです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "あそこは　ごはんや　おかしを　つくる　ところです。",
+          "furigana": "あそこは　ごはんや　おかしを　つくる　ところです。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "あそこは　ほんや　ざっしを　かりる　ところです。",
+          "furigana": "あそこは　ほんや　ざっしを　かりる　ところです。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あそこは　かみや　からだを　あらう　ところです。",
+          "furigana": "あそこは　かみや　からだを　あらう　ところです。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あそこは　はがきや　きってを　かう　ところです。",
+          "furigana": "あそこは　はがきや　きってを　かう　ところです。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 2 is correct. It means “That place is where you borrow books and magazines.”\n\n**Question Translation**  \n“That place over there is a library.”\n\n**Explanation**  \nA library is a place where you borrow reading materials. Answer 2 says “本や雑誌を借りるところです” = “a place where you borrow books and magazines,” which matches “図書館 (としょかん).”  \nNote: Here, や is the listing particle (“A and B, etc.”), so 本や雑誌 = “books and magazines,” not 本屋 (bookstore).\n\n**Why Other Options Are Incorrect**  \n- Answer 1: “ごはんやおかしをつくるところ” = a place where you make meals and snacks (kitchen/cafeteria), not a library.  \n- Answer 3: “かみやからだをあらうところ” = a place to wash hair and body (bathroom/bathhouse), not a library.  \n- Answer 4: “はがきやきってをかうところ” = a place to buy postcards and stamps (post office), not a library.\n\n**Grammar/Vocabulary Note**  \n- としょかん（図書館）: library.  \n- 本（ほん）: book; 雑誌（ざっし）: magazine; 借りる（かりる）: to borrow.  \n- はがき（葉書）: postcard; 切手（きって）: stamp.  \n- や (particle): lists examples non-exhaustively (AやB).  \n- 〜ところです: “a place where [action] is done.”  \n- Beware ambiguity: ほんや can be 本や (books and…) with particle や, not 本屋 (bookstore). The verb 借りる clarifies the intended reading.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7795",
+      "order": 32,
+      "html": "<span style=\"text-decoration: underline;\">まいばん　テレビで　ニュースを　みます。</span>",
+      "text": "まいばん　テレビで　ニュースを　みます。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "まいにち　ゆうがた　テレビで　ニュースを　みます。",
+          "furigana": "まいにち　ゆうがた　テレビで　ニュースを　みます。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "まいにち　あさ　テレビで　ニュースを　みます。",
+          "furigana": "まいにち　あさ　テレビで　ニュースを　みます。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "まいにち　ひる　テレビで　ニュースを　みます。",
+          "furigana": "まいにち　ひる　テレビで　ニュースを　みます。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "まいにち　よる　テレビで　ニュースを　みます。",
+          "furigana": "まいにち　よる　テレビで　ニュースを　みます。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 4 is correct. It means “Every day at night, I watch the news on TV.”\n\n**Question Translation**  \nI watch the news on TV every night.\n\n**Explanation**  \n- まいばん (毎晩) = every night/evening.  \n- まいにち よる (毎日 夜) = every day, at night.  \nThese are equivalent in meaning for expressing a habitual action at night, so Answer 4 paraphrases the original sentence correctly.\n\n**Why Other Options Are Incorrect**  \n- Answer 1: まいにち ゆうがた — ゆうがた (夕方) = evening/late afternoon, earlier than night; not the same as ばん/よる.  \n- Answer 2: まいにち あさ — あさ (朝) = morning; different time of day.  \n- Answer 3: まいにち ひる — ひる (昼) = daytime/noon/afternoon; different time of day.\n\n**Grammar/Vocabulary Note**  \n- 毎〜 (まい〜) marks regular frequency: 毎晩, 毎日.  \n- 夜 (よる) vs 晩 (ばん): both refer to evening/night; 晩 often includes evening hours, but for habitual actions they are interchangeable in this context.  \n- テレビで: で marks the medium/place of the action (“on TV”).  \n- ニュースをみます: watch the news.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7796",
+      "order": 33,
+      "html": "<span style=\"text-decoration: underline;\">おとうとは　あの　レストランで　はたらいて　います。</span>",
+      "text": "おとうとは　あの　レストランで　はたらいて　います。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "おとうとは　あの　レストランで　やすんで　います。",
+          "furigana": "おとうとは　あの　レストランで　やすんで　います。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "おとうとは　あの　レストランで　しょくじを　して　います。",
+          "furigana": "おとうとは　あの　レストランで　しょくじを　して　います。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "おとうとは　あの　レストランで　しごとを　して　います。",
+          "furigana": "おとうとは　あの　レストランで　しごとを　して　います。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "おとうとは　あの　レストランで　まって　います。",
+          "furigana": "おとうとは　あの　レストランで　まって　います。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 3 is correct. It means “(He) is working” → しごとを して います.\n\n**Question Translation**  \n“My younger brother works at that restaurant.” (Literally: is working at that restaurant.)\n\n**Explanation**  \n- はたらいています means “is working/works.”  \n- しごとをしています is a natural paraphrase with the same meaning: “is working.”  \nBoth express ongoing/habitual work. With 〜ている, this often indicates one’s current employment/place of work, not just at this very moment.\n\n**Why Other Options Are Incorrect**  \n- Answer 1: やすんでいます = “is resting/taking a break,” the opposite of working.  \n- Answer 2: しょくじをしています = “is eating a meal,” implies being a customer, not working there.  \n- Answer 4: まっています = “is waiting,” unrelated to employment.\n\n**Grammar/Vocabulary Note**  \n- はたらく and しごとをする are near-synonyms meaning “to work.”  \n- 〜ている can show a current state or habitual action (e.g., place of employment).  \n- で marks the location where the action occurs: レストランで (at the restaurant).  \n- おとうと = younger brother.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7797",
+      "order": 34,
+      "html": "<span style=\"text-decoration: underline;\">あの　みせは　しずかじゃ　ありませんでした。</span>",
+      "text": "あの　みせは　しずかじゃ　ありませんでした。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "あの　みせは　せまかったです。",
+          "furigana": "あの　みせは　せまかったです。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "あの　みせは　くらかったです。",
+          "furigana": "あの　みせは　くらかったです。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あの　みせは　きたなかったです。",
+          "furigana": "あの　みせは　きたなかったです。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あの　みせは　うるさかったです。",
+          "furigana": "あの　みせは　うるさかったです。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 4 is correct. It means “That shop was noisy.”\n\n**Question Translation**  \n“That shop was not quiet.”\n\n**Explanation**  \n- The sentence あの みせは しずかじゃ ありませんでした means “It was not quiet.”  \n- The natural paraphrase using the opposite meaning is “It was noisy,” which is あの みせは うるさかったです.  \n- しずか (静か, na-adjective) = quiet; うるさい (i-adjective) = noisy/loud.  \n- This matches the meaning best among the options.\n\n**Why Other Options Are Incorrect**  \n- Answer 1: あの みせは せまかったです。  \n  せまい (狭い) = narrow/cramped. Not the opposite of “quiet.”  \n- Answer 2: あの みせは くらかったです。  \n  くらい (暗い) = dark. Unrelated to noise level.  \n- Answer 3: あの みせは きたなかったです。  \n  きたない (汚い) = dirty. Unrelated to quiet/noisy.  \n- Answer 4: あの みせは うるさかったです。  \n  うるさい = noisy. This is the antonymal paraphrase of “not quiet.”\n\n**Grammar/Vocabulary Note**  \n- しずか (静か) is a na-adjective: しずかじゃありませんでした = past polite negative.  \n- うるさい is an i-adjective: past polite affirmative is うるさかったです (i-adjective stem + かったです).  \n- みせ (店) = shop/store.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7798",
+      "order": 35,
+      "html": "<span style=\"text-decoration: underline;\">じゅぎょうで　むずかしい　かんじを　ならいました。</span>",
+      "text": "じゅぎょうで　むずかしい　かんじを　ならいました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "じゅぎょうで　むずかしい　かんじを　みせました。",
+          "furigana": "じゅぎょうで　むずかしい　かんじを　みせました。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "じゅぎょうで　むずかしい　かんじを　おしえました。",
+          "furigana": "じゅぎょうで　むずかしい　かんじを　おしえました。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "じゅぎょうで　むずかしい　かんじを　まちがえました。",
+          "furigana": "じゅぎょうで　むずかしい　かんじを　まちがえました。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "じゅぎょうで　むずかしい　かんじを　べんきょうしました。",
+          "furigana": "じゅぎょうで　むずかしい　かんじを　べんきょうしました。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 4 is correct. It means “studied” (べんきょうしました).\n\n**Question Translation**  \n“In class, I learned difficult kanji.”\n\n**Explanation**  \nThe original sentence uses ならいました (習いました), which means “learned (was taught).” In the context of class, べんきょうしました (“studied”) conveys essentially the same idea of acquiring knowledge during class time. Therefore, Answer 4 is the best paraphrase.\n\n- 授業で (じゅぎょうで): “in class”\n- 難しい漢字 (むずかしい かんじ): “difficult kanji”\n- 習う (ならう): “to learn (be taught)”\n- 勉強する (べんきょうする): “to study”\n\n**Why Other Options Are Incorrect**  \n- Answer 1: みせました (見せました) = “showed.” This changes the meaning to the speaker showing kanji, not learning them.  \n- Answer 2: おしえました (教えました) = “taught.” This makes the speaker the teacher, opposite of “learned.”  \n- Answer 3: まちがえました (間違えました) = “made a mistake.” This is unrelated to learning/studying.\n\n**Grammar/Vocabulary Note**  \n- Particle で marks location of an action: 授業で = “in class.”  \n- を marks the direct object: 漢字を.  \n- 習う implies learning from someone (being taught), while 勉強する is “to study” (can be self-study or in class). In context, both convey acquiring knowledge in class, making べんきょうしました a natural paraphrase.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7799",
+      "order": 1,
+      "html": "私は　毎日　1時間、漢字（　　　）べんきょうを　します。",
+      "text": "私は　毎日　1時間、漢字（　　　）べんきょうを　します。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "と",
+          "furigana": "と",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "の",
+          "furigana": "の",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "Correct Answer  \nAnswer 3: の is correct. It links two nouns to mean “kanji study.” 漢字のべんきょう = 勉強 of kanji.\n\nQuestion Translation  \nI study kanji for one hour every day. / I do one hour of kanji study every day.\n\nExplanation  \nThis sentence uses the noun 勉強 (べんきょう, study) plus する: べんきょうをします. To specify the field of study, use の to connect nouns: 漢字のべんきょう (kanji study).  \n- 漢字（かんじ）= Chinese characters  \n- 勉強（べんきょう）= study\n\nWhy Other Options Are Incorrect  \n- Answer 1: に — Marks time/destination/purpose, but 漢字にべんきょう is ungrammatical here.  \n- Answer 2: と — Means “and” or quotes; 漢字とべんきょう would mean “kanji and study,” which doesn’t fit before をします.  \n- Answer 4: が — Subject marker; 漢字がべんきょう… would make “kanji” the doer, which is illogical and breaks the noun-noun modification needed.\n\nGrammar/Vocabulary Note  \n- Noun の Noun indicates possession/attribute/category: 日本語の勉強, 歴史の勉強, ピアノのれんしゅう.  \n- Duration: 毎日1時間 means “for one hour every day.”  \n- While 漢字をべんきょうします is also correct, this sentence’s structure requires the noun phrase 漢字のべんきょう + をします.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7800",
+      "order": 2,
+      "html": "先生「明日、テスト（　　　）ありません。」",
+      "text": "先生「明日、テスト（　　　）ありません。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "を",
+          "furigana": "を",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "へ",
+          "furigana": "へ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 2: は is correct. It marks テスト as the topic: “As for the test, (there) isn’t (one).”\n\n**Question Translation**  \nTeacher: “There is no test tomorrow.”\n\n**Explanation**  \n- ありません is the negative of あります (to exist/there is/there will be).  \n- The natural pattern for stating non-existence is “N は ありません.”  \n- So “明日、テストはありません” means “There is no test tomorrow,” with テスト marked by は as the topic under the time frame 明日.\n\nReadings/meanings:\n- 先生（せんせい）= teacher\n- 明日（あした／あす）= tomorrow\n- ありません = there isn’t/does not exist (polite)\n\n**Why Other Options Are Incorrect**  \n- Answer 1: を — Marks a direct object, but ある/ない is intransitive and doesn’t take を.  \n- Answer 3: へ — Directional particle (“to/toward”); irrelevant here.  \n- Answer 4: に — Can mark time or location with ある, but after テスト it would mean “in/on the test,” which doesn’t fit “明日、テストにありません.” The time 明日 is already given, and the natural structure is テストはありません.\n\n**Grammar/Vocabulary Note**  \n- Existence pattern:  \n  - Nがあります = There is/there will be N (events/things)  \n  - Nはありません = There is no N (negative often uses は)  \n- に after テスト could work only in contexts like “この問題はテストにありません” (“This question is not on the test”), which is a different meaning and structure.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7801",
+      "order": 3,
+      "html": "みかんや　りんご（　　　）の　くだものが　好きです。",
+      "text": "みかんや　りんご（　　　）の　くだものが　好きです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "も",
+          "furigana": "も",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "と",
+          "furigana": "と",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "か",
+          "furigana": "か",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "など",
+          "furigana": "など",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.25",
+      "explanation": "Correct Answer  \nAnswer 4: など is correct. It means \"etc.\" or \"such as\" and, with の, forms \"X や Y などの N\" = \"N such as X and Y.\"\n\nQuestion Translation  \nI like fruits such as mandarins and apples.\n\nExplanation  \nThe pattern X や Y などの N lists examples and then names the category:  \nみかんや りんご など の くだもの = fruits such as mandarins and apples.  \n- や indicates a non-exhaustive list (\"A, B, and so on\").  \n- など adds \"etc.\"  \n- の links the examples to the noun category (くだもの, 果物 くだもの = fruit).\n\nWhy Other Options Are Incorrect  \n- Answer 1: も  \n  Cannot be used before の in this structure. \"みかんやりんごものくだもの\" is ungrammatical. も means \"also\" and doesn’t form the exemplar-list pattern.\n- Answer 2: と  \n  Mixing や and と is incorrect here. Also \"との\" after a noun typically marks quotes or relationships (e.g., A との関係), not examples of a category.\n- Answer 3: か  \n  か lists alternatives (\"A or B\"), and \"りんごかの\" is ungrammatical. Does not create the \"such as\" meaning.\n- Answer 4: など  \n  Correct: completes the set phrase \"X や Y などの N\" meaning \"N such as X and Y.\"\n\nGrammar/Vocabulary Note  \n- や: lists examples non-exhaustively.  \n- など: \"etc.; and so on.\" With の before a following noun, it modifies the noun (などの N).  \n- くだもの（果物・くだもの）: fruit.  \n- みかん: mandarin/orange; りんご: apple.  \nYou could also say: みかんやりんごなどが好きです (without の＋くだもの).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7802",
+      "order": 4,
+      "html": "山口さんの　家は　にわ（　　　）広いです。",
+      "text": "山口さんの　家は　にわ（　　　）広いです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "の",
+          "furigana": "の",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "を",
+          "furigana": "を",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "や",
+          "furigana": "や",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 2: が is correct. It marks the subject within the topicalized sentence, meaning “the garden (of Yamaguchi’s house) is spacious.”\n\n**Question Translation**  \nYamaguchi’s house has a large garden.  \n(lit. As for Yamaguchi’s house, the garden is spacious.)\n\n**Explanation**  \nThis is the common pattern “N1は N2が Adjective,” used to describe a feature of something:  \n- 山口さんの家は (topic: Yamaguchi’s house)  \n- にわが広いです (subject: the garden is spacious)\n\nVocabulary:  \n- 庭（にわ）: garden/yard  \n- 広い（ひろい）: wide/spacious\n\n**Why Other Options Are Incorrect**  \n- Answer 1: の — “にわの広いです” is ungrammatical. の links nouns; it would need a following noun (e.g., 庭の広い家).  \n- Answer 3: を — を marks a direct object, but 広いです is an adjective, not a verb taking an object.  \n- Answer 4: や — や is a listing particle (“AやB”), so using it alone after 庭 is incorrect.\n\n**Grammar/Vocabulary Note**  \nPattern: “Xは Yが Adjective/Verb” describes a characteristic/part of X. Example: この店は天井が高いです (As for this shop, the ceiling is high).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7803",
+      "order": 5,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「コーヒーと　こうちゃ（　　　）どちらが　好きですか。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「コーヒーです。」</span></p></div>",
+      "text": "A「コーヒーと　こうちゃ（　　　）どちらが　好きですか。」　B「コーヒーです。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "へ",
+          "furigana": "へ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "も",
+          "furigana": "も",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "と",
+          "furigana": "と",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 3: と is correct. It is the listing particle “and” used to present two options.\n\n**Question Translation**  \nA: Between coffee and black tea, which do you like?  \nB: Coffee.\n\n**Explanation**  \nThe pattern for asking “Which do you prefer, A or B?” is:  \nA と B と どちらが〜ですか.  \nHere, と connects the two items (コーヒー and こうちゃ/紅茶) as alternatives. The subject of the comparison is どちら, so が appears after どちら, not after the items.\n\nこうちゃ is 紅茶（こうちゃ）, meaning “black tea.”\n\n**Why Other Options Are Incorrect**  \n- Answer 1: へ — a direction particle (“to/toward”); cannot connect two nouns for comparison.  \n- Answer 2: も — “also/too”; コーヒーとこうちゃも… is ungrammatical in this comparison structure. も would appear in answers like どちらも好きです (“I like both”).  \n- Answer 4: が — subject marker; どちらが is correct. Putting が after こうちゃ would create an ungrammatical double subject: コーヒーとこうちゃがどちらが…\n\n**Grammar/Vocabulary Note**  \n- Pattern: A と B と どちらが〜ですか = “Which is more ~, A or B?”  \n- Variation: A と B では どちらが〜ですか is also common.  \n- 紅茶（こうちゃ）= black tea; コーヒー = coffee.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7804",
+      "order": 6,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「少し　休んで、何（　　　）飲みませんか。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「いいですね。」</span></p></div>",
+      "text": "A「少し　休んで、何（　　　）飲みませんか。」　B「いいですね。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "を",
+          "furigana": "を",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "か",
+          "furigana": "か",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \r\nAnswer 3: か is correct. It forms 何か (なにか), meaning “something.”\r\n\r\n**Question Translation**  \r\nA: “Let’s take a short break and have something to drink, shall we?”  \r\nB: “Sounds good.”\r\n\r\n**Explanation**  \r\n- 何か + verb means “something” (unspecified). Here, 何か飲みませんか = “Would you like to drink something?”  \r\n- ～ませんか is a polite invitation/suggestion (“won’t you ~ ?” → “shall we ~ ?”).  \r\n- The flow 少し休んで (“let’s rest a little and…”) naturally leads into an invitation to drink “something.”\r\n\r\nReading/meaning: 何 (なに) = what; 何か = something.\r\n\r\n**Why Other Options Are Incorrect**  \r\n- Answer 1: は → 何は飲みませんか is unnatural; は marks a topic and doesn’t fit an invitation here.  \r\n- Answer 2: を → 何を飲みませんか literally asks “What will you not drink?” With ～ませんか (invitation), を makes the question odd. To ask choice, it would be 何を飲みますか.  \r\n- Answer 4: に → 何に飲みませんか is ungrammatical with 飲む. に doesn’t mark the object of 飲む. (に works with する as in 何にしますか “What will you have?”)\r\n\r\n**Grammar/Vocabulary Note**  \r\n- Indefinites with か: 何か (something), だれか (someone), どこか (somewhere).  \r\n- ～ませんか is a common polite way to invite/suggest an action.  \r\n- て-form connection: 休んで links actions in sequence (“rest and then…”).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7805",
+      "order": 7,
+      "html": "そぼは　二ひき（　　　）ねこと　住んで　います。",
+      "text": "そぼは　二ひき（　　　）ねこと　住んで　います。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "で",
+          "furigana": "で",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "と",
+          "furigana": "と",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "Correct Answer  \nAnswer 3: と is correct. It means “with; together with” when marking accompaniment.\n\nQuestion Translation  \nMy grandmother lives with two cats.\n\nExplanation  \nThe verb 住む (to live) commonly takes と to mark the person/animal you live with: Xは Yと住む = “X lives with Y.”  \nHere, the intended noun phrase is “二ひきのねこ” (two cats), followed by と: そぼは 二ひきのねこ と 住んでいます.\n\nWhy Other Options Are Incorrect  \n- Answer 1: が — Subject marker. ねこが住んでいます would make “cats” the subject (“cats live”), not “live with cats.”  \n- Answer 2: で — Marks place/means or group action (e.g., 二人で行く). It doesn’t mark accompaniment with 住む, and 住む takes に for places, not で.  \n- Answer 4: に — Used with 住む to mark the place you live (東京に住む), but ねこに住む would mean “live in a cat,” which is nonsensical. It doesn’t express “with.”\n\nGrammar/Vocabulary Note  \n- 住む + と: used to express living together with someone/something.  \n- Counter: 匹（ひき, small animals）— 二匹（にひき）.  \n- Natural patterns for number + noun:  \n  - 二ひきのねこ (two cats) + と住む  \n  - ねこを二ひき飼っています (I keep/own two cats) for “have two cats.”  \n- そぼ＝祖母（そぼ, grandmother）, ねこ＝猫（ねこ, cat）.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7806",
+      "order": 8,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">山口</span><span class=\"text\">「東さんは　えいがを　見ますか。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">東</span><span class=\"text\">「はい、（　　　）見ます。」</span></p></div>",
+      "text": "山口「東さんは　えいがを　見ますか。」　東「はい、（　　　）見ます。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ときどき",
+          "furigana": "ときどき",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "あまり",
+          "furigana": "あまり",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ずっと",
+          "furigana": "ずっと",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "だんだん",
+          "furigana": "だんだん",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "山口 asks: “Do you watch movies?”\r\n東 replies: “Yes, ( ) I watch.”\r\n\r\nBecause 東 says 「はい」 (yes), the rest of the sentence should be positive.\r\n\r\nあまり is used only with negative verbs (e.g., あまり見ません), so it doesn’t fit here.\r\n\r\nだんだん見ます (“I gradually watch”) is unnatural in this context.\r\n\r\nずっと見ます (“I watch all the time”) is grammatically okay but sounds unnatural when answering “Do you watch movies?” in a normal conversation.\r\n\r\nときどき見ます (“I sometimes watch”) is the most natural and polite response.\r\n\r\nMeaning of each option:\r\n\r\nときどき (tokidoki) – sometimes, occasionally\r\n\r\nあまり (amari) – not very (used with negative verb)\r\n\r\nずっと (zutto) – continuously, all the time\r\n\r\nだんだん (dandan) – gradually",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7807",
+      "order": 9,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">川口</span><span class=\"text\">「田中さんが　今　読んでいる（　　　）ざっしは　何の　ざっしですか。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">田中</span><span class=\"text\">「これは　ようふくの　ざっしですよ。」</span></p></div>",
+      "text": "川口「田中さんが　今　読んでいる（　　　）ざっしは　何の　ざっしですか。」　田中「これは　ようふくの　ざっしですよ。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "これの",
+          "furigana": "これの",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "あれの",
+          "furigana": "あれの",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "その",
+          "furigana": "その",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "どの",
+          "furigana": "どの",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.25",
+      "explanation": "Correct Answer\nAnswer 3: その is correct. It means \"that (near you/just mentioned).\"\n\nQuestion Translation\nKawaguchi: The magazine Mr. Tanaka is reading now—what kind of magazine is that?\nTanaka: This is a clothing/fashion magazine.\n\nExplanation\nThe speaker is asking about a magazine that the listener (Tanaka) is currently holding/reading. In Japanese demonstratives, その is used for something near the listener. Also, when modifying a noun directly, you use この/その/あの (not これ/それ/あれ). So そのざっし correctly means “that magazine (you have).”\n\nWhy Other Options Are Incorrect\n- Answer 1: これの — これ is a pronoun and これの before a noun means “the N of this,” not “this N.” To modify a noun you need この, not これの. これのざっし is unnatural here.\n- Answer 2: あれの — Same structural issue as これの (should be あの to modify a noun). Also あれ refers to something far from both speaker and listener, which doesn’t fit an item the listener is holding.\n- Answer 4: どの — Means “which (one),” used to choose from known options. Combining it with “は何のざっしですか” (“what kind of magazine is it?”) is odd and redundant in this context; the speaker isn’t selecting among multiple magazines but asking the type of the specific one being read.\n\nGrammar/Vocabulary Note\n- こそあど demonstratives: この/その/あの + N (this/that/that over there + noun) vs これ/それ/あれ (pronouns, not followed by a noun).\n- Relative clause: 田中さんが今読んでいる＋雑誌 = “the magazine (that) Mr. Tanaka is reading now.”\n- 何のN (なんの) = “what kind of N.”\n- 雑誌（ざっし）= magazine; 洋服（ようふく）= clothing/fashion.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7808",
+      "order": 10,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「あめと　クッキーと　チョコレートが　あります。（　　　）が　いいですか。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「クッキーを　ください。」</span></p></div>",
+      "text": "A「あめと　クッキーと　チョコレートが　あります。（　　　）が　いいですか。」　B「クッキーを　ください。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "どれ",
+          "furigana": "どれ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "どんな",
+          "furigana": "どんな",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "どっちか",
+          "furigana": "どっちか",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "どれくらい",
+          "furigana": "どれくらい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "**Correct Answer**  \r\nAnswer 1: どれ is correct. It means \"which (one).\"\r\n\r\n**Question Translation**  \r\nA: We have candy, cookies, and chocolate. Which would you like?  \r\nB: Cookies, please.\r\n\r\n**Explanation**  \r\nどれ is the interrogative pronoun used to choose one item from three or more options. Here, A lists three items (あめ, クッキー, チョコレート), so 「どれがいいですか」 correctly asks which one the listener prefers. B’s reply selects one item, matching this structure.\r\n\r\n**Why Other Options Are Incorrect**  \r\n- Answer 2: どんな — Requires a following noun (e.g., どんなお菓子) or の (どんなの). 「どんながいいですか」 is ungrammatical here.  \r\n- Answer 3: どっちか — どっち is for choosing between two options; here there are three. Also どっちかが is awkward in this preference question.  \r\n- Answer 4: どれくらい — Means \"how much/how long/how many.\" It asks about quantity or degree, not selection. The reply \"クッキーをください\" is not a quantity answer, so it doesn’t fit.\r\n\r\n**Grammar/Vocabulary Note**  \r\n- 〜がいいですか: used to ask about preference/choice among options.  \r\n- どれ: interrogative pronoun for \"which (one)\" among 3+.  \r\n- どんな＋N / どんなの: \"what kind/kind of.\"  \r\n- どれくらい (＝どのくらい): asks about amount/degree, e.g., どれくらい時間がかかりますか.  \r\n- Vocabulary: あめ（飴, candy）, クッキー (cookie), チョコレート (chocolate).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7809",
+      "order": 11,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「（　　　）学校へ　行きますか。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「バスです。」</span></p></div>",
+      "text": "A「（　　　）学校へ　行きますか。」　B「バスです。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "なぜ",
+          "furigana": "なぜ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "なにで",
+          "furigana": "なにで",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "いつか",
+          "furigana": "いつか",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "どこか",
+          "furigana": "どこか",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \r\nAnswer 2: なにで is correct. It means “by what (means/method).”\r\n\r\n**Question Translation**  \r\nA: How do you go to school?  \r\nB: By bus.\r\n\r\n**Explanation**  \r\nThe question asks about the means of transportation. 何で（なにで）+ 行きますか means “How/By what do you go?” The answer バスです (“By bus.”) matches this.  \r\n- 学校（がっこう）= school  \r\n- 行きます（いきます）= go  \r\nThe particle で marks the means/method (e.g., バスで行きます).\r\n\r\n**Why Other Options Are Incorrect**  \r\n- Answer 1: なぜ = “why.” This asks for a reason, not a method; “バスです” doesn’t answer “why.”  \r\n- Answer 3: いつか = “someday/some time (indefinite).” It is not the interrogative “when” (which is いつ). It also doesn’t match a transportation answer.  \r\n- Answer 4: どこか = “somewhere.” Not the interrogative “where” (どこ), and it doesn’t fit the answer “by bus.”\r\n\r\n**Grammar/Vocabulary Note**  \r\n- 何で pronounced なにで asks about means/method. Note that なんで can mean “why” in casual speech, so なにで avoids that ambiguity here.  \r\n- To ask similarly: どうやって学校へ行きますか。  \r\n- Pattern: [Transport] + で + 行く (バスで行く, 電車で行く).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7810",
+      "order": 12,
+      "html": "山下さんは今、（　　　）中です。",
+      "text": "山下さんは今、（　　　）中です。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "電話",
+          "furigana": "電話",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "電話の",
+          "furigana": "電話の",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "電話する",
+          "furigana": "電話する",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "電話して　いる",
+          "furigana": "電話して　いる",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 1: 電話 is correct. It means “telephone.” Here, 電話中（でんわちゅう） means “in the middle of a phone call” or “on the phone.”\n\n**Question Translation**  \nMr./Ms. Yamashita is on the phone right now.\n\n**Explanation**  \nThe pattern Noun + 中（ちゅう） means “in the middle of/during [N].” 電話（でんわ, telephone/call） + 中 forms the fixed expression 電話中, which naturally means “on the phone.”  \n- 今（いま） emphasizes that it is happening right now.\n\n**Why Other Options Are Incorrect**  \n- Answer 2: 電話の  \n  “電話の中です” would mean “inside the phone,” which is unnatural. Also, 電話の by itself is just a modifier and needs a proper noun after it; 中 with の here doesn’t form a natural expression.\n- Answer 3: 電話する  \n  “電話する中です” is ungrammatical. You don’t use the plain dictionary form + 中. Use 電話中, 電話しているところ, or 電話の最中 instead.\n- Answer 4: 電話して　いる  \n  Inserting this yields “電話している中です,” which is ungrammatical/redundant. The correct forms are 電話中です or 電話しているところです / 電話している最中です.\n\n**Grammar/Vocabulary Note**  \n- N + 中（ちゅう） = “in the middle of/during [N]”: e.g., 会議中, 食事中, 勉強中, 使用中, 運転中, 通話中.  \n- Alternatives: 電話しているところです (“in the middle of calling”) or 電話の最中（さいちゅう）です (strong emphasis on “right in the middle”).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7811",
+      "order": 13,
+      "html": "私は　いつも　しけんが　おわった（　　　）旅行に　行きます。",
+      "text": "私は　いつも　しけんが　おわった（　　　）旅行に　行きます。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "から",
+          "furigana": "から",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "まえに",
+          "furigana": "まえに",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あとで",
+          "furigana": "あとで",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.25",
+      "explanation": "The sentence means:\r\n\r\n“I always go on a trip ( ) the exam finishes.”\r\n\r\nWe are talking about doing something after the exam ends, so we need a word that means after.\r\n\r\n❌ まえに → before → would mean “before the exam ends,” which doesn’t fit.\r\n\r\n❌ が → is just a subject marker, not logical here.\r\n\r\n⚠️ から → can mean “because” or “from,” but grammatically doesn’t fit after “おわった.”\r\n\r\n✅ あとで → means “after,” and correctly fits this pattern:\r\n\r\nVerb (past form) + あとで → “after doing [verb]”\r\n\r\nしけんが　おわった　あとで　旅行に　行きます。\r\n“I go on a trip after the exam finishes.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7812",
+      "order": 14,
+      "html": "休みの　日は家で　おんがくを　聞いたり、本を（　　　）います。",
+      "text": "休みの　日は家で　おんがくを　聞いたり、本を（　　　）います。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "読んだり",
+          "furigana": "読んだり",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "読んだり　して",
+          "furigana": "読んだり　して",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "読んでいて",
+          "furigana": "読んでいて",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "読んでから",
+          "furigana": "読んでから",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 2: 読んだり して is correct. It means “do things like read (among other activities),” completing the pattern 〜たり〜たりしています.\n\n**Question Translation**  \nOn my days off, at home I do things like listen to music and read books.\n\n**Explanation**  \nThis sentence lists example activities using the pattern 〜たり〜たりする, which is used to give a few examples among various actions. With 〜ています, it expresses habitual actions. So the natural form is:\n- 聞いたり、本を読んだりしています。\n\nOption 2 supplies して to connect with the final います and complete the pattern.\n\n**Why Other Options Are Incorrect**  \n- Answer 1: 読んだり  \n  Missing して/します at the end. 読んだりいます is ungrammatical; it must be 読んだりします/しています.\n- Answer 3: 読んでいて  \n  Would create 読んでいています, which is incorrect. Also mixes 〜たり with 〜ている unnaturally here.\n- Answer 4: 読んでから  \n  〜てから means “after doing …,” and requires a following action (e.g., 読んでから寝ます). It cannot be followed by います here.\n\n**Grammar/Vocabulary Note**  \n- 〜たり〜たりする: Lists examples of actions (do things like A and B).  \n- 〜ています: Here indicates a habitual routine.  \n- 読む → 読んだり (た形 + り) fits the listing pattern.  \n- 聞いたり (きいたり): “do things like listen.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7813",
+      "order": 15,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「ひるごはんは　食べましたか。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「（　　　）です。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「じゃあ、いっしょに　食べましょう。」</span></p></div>",
+      "text": "A「ひるごはんは　食べましたか。」　B「（　　　）です。」　A「じゃあ、いっしょに　食べましょう。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "まだ",
+          "furigana": "まだ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "もう",
+          "furigana": "もう",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "そう",
+          "furigana": "そう",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "いい",
+          "furigana": "いい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.25/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 1: まだ is correct. It means \"not yet.\"\n\n**Question Translation**  \nA: Have you eaten lunch?  \nB: Not yet.  \nA: Then, let’s eat together.\n\n**Explanation**  \nIn response to \"Have you eaten lunch?\", saying まだです is a natural, polite elliptical form of まだ食べていません (“I haven’t eaten yet”). This fits the follow-up invitation to eat together.\n\n**Why Other Options Are Incorrect**  \n- Answer 2: もう — Means “already,” but もうです by itself is ungrammatical/unnatural. You would say もう食べました (“I’ve already eaten”), which wouldn’t prompt an invitation.  \n- Answer 3: そう — “That’s right/so,” used to confirm a statement, not to answer a yes/no question like this. そうです here is unnatural.  \n- Answer 4: いい — “Good/fine,” but いいです doesn’t answer whether you have eaten.\n\n**Grammar/Vocabulary Note**  \n- まだ + negative: まだ食べていません = not yet. Polite short reply: まだです.  \n- もう + past: もう食べました = already ate.  \nTypical Q&A:\n- ひるごはんは食べましたか。— はい、もう食べました／いいえ、まだです.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7814",
+      "order": 16,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「ここに　名前と　読み方を　書いて　ください。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「名前の　読み方は　ひらがなで　書きますか。」　A「いいえ、カタカナで（　　　）。」</span></p></div>",
+      "text": "A「ここに　名前と　読み方を　書いて　ください。」　B「名前の　読み方は　ひらがなで　書きますか。」　A「いいえ、カタカナで（　　　）。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "しますね",
+          "furigana": "しますね",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "書きませんよ",
+          "furigana": "書きませんよ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ほしいですか",
+          "furigana": "ほしいですか",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "おねがいします",
+          "furigana": "おねがいします",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.25",
+      "explanation": "**Correct Answer**  \nAnswer 4: おねがいします is correct. It means “please” (a polite request). Here: “In katakana, please.”\n\n**Question Translation**  \nA: “Please write your name and its reading here.”  \nB: “For the reading of the name, should I write it in hiragana?”  \nA: “No, in katakana, please.”\n\n**Explanation**  \nThe pattern Xでお願いします is a natural way to request a method/format: “Please do it in X.”  \n“カタカナでお願いします” directly answers B’s question by specifying the desired writing system.\n\nKey words:  \n- 名前（なまえ）= name  \n- 読み方（よみかた）= reading/pronunciation  \n- 書いてください（かいてください）= please write  \n- ひらがな, カタカナ = hiragana, katakana  \n- で = by/with/in (means or method)\n\n**Why Other Options Are Incorrect**  \n- Answer 1: しますね  \n  Means “I’ll do it, okay,” focusing on the speaker’s action. Also “カタカナでします” is unnatural here; the action is “to write,” not “to do.”  \n- Answer 2: 書きませんよ  \n  “I won’t write (it), you know.” Negative and about the speaker’s action; doesn’t make a polite request. With “カタカナで,” it contradicts the intended request.  \n- Answer 3: ほしいですか  \n  “Do you want (it)?” Grammatically incomplete after “カタカナで”; would need “書いてほしいですか.” Also inappropriate since A should request, not ask another question.\n\n**Grammar/Vocabulary Note**  \n- Xでお願いします: Polite set phrase to request a format/method (e.g., 英語でお願いします = “In English, please”).  \n- で marks the means/manner (“in katakana,” “with a pen,” etc.).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7815",
+      "order": 17,
+      "html": "こうえん <span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span class=\"star\">★</span> <span class=\"blank-space\">______</span> たくさん　います。",
+      "text": "こうえん ______ ______ ★ ______ たくさん　います。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "鳥",
+          "furigana": "鳥",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "3/3",
+      "explanation": "Answer (★ Position)  \nAnswer 1: 鳥\n\nCorrect Order  \n2 → 3 → 1 → 4  \n📌 に → は → 鳥(★) → が  \nこうえん → に → は → 鳥 → が → たくさん います\n\nChunk-by-Chunk Breakdown  \n② に — location particle with いる/ある; “in/at (the park)”  \n③ は — topic marker; “as for (in) the park…”; sets location as topic (には)  \n★① 鳥 — “birds”; the subject noun  \n④ が — subject marker; marks 鳥 as the subject of います\n\nReconstructed Sentence  \nこうえんには鳥がたくさんいます。  \n→ There are many birds in the park.\n\nWhy This Order Works  \n- に attaches directly to こうえん to mark location; は then topicalises that location (には).  \n- 鳥 is the subject noun, and が properly marks it before the verb います.  \n- たくさん modifies います to indicate quantity.\n\nWhy Other Orders Fail  \n- Putting は before に (こうえんはに…) breaks the に phrase; に must directly follow the noun it marks.  \n- Placing が before 鳥 (…が鳥…) leaves が without a noun to mark.  \n- Using は on 鳥 (…鳥はが…) creates conflicting markers on the same noun and is ungrammatical here.\n\nHow to Solve (Quick Tip)  \n- With existence verbs (いる/ある), mark location with に.  \n- If you want to topicalise that location, add は after に → には.  \n- The subject noun comes right before が.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7816",
+      "order": 18,
+      "html": "きょねんの <span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span class=\"star\">★</span> <span class=\"blank-space\">______</span> 毎日　かぶって　います。",
+      "text": "きょねんの ______ ______ ★ ______ 毎日　かぶって　います。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "兄に",
+          "furigana": "兄に",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ぼうしを",
+          "furigana": "ぼうしを",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "もらった",
+          "furigana": "もらった",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "たんじょうびに",
+          "furigana": "たんじょうびに",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/3",
+      "explanation": "Answer (★ Position)  \nAnswer 3: もらった  \n★ is in the 3rd slot (pattern: ___ ___ ★ ___)\n\nCorrect Order  \n4 → 1 → 3 → 2  \n📌 たんじょうびに → 兄に → もらった → ぼうしを\n\nChunk-by-Chunk Breakdown  \n④ たんじょうびに — time phrase “on (my) birthday”; modifies the receiving event  \n① 兄に — source/agent marked by に for もらう: “from my older brother”  \n③ もらった — past form of もらう; forms a relative clause modifying the following noun  \n② ぼうしを — the noun being modified by the relative clause, marked as the object of かぶる\n\nReconstructed Sentence  \nきょねんの たんじょうびに 兄に もらった ぼうしを 毎日 かぶって います。  \n→ I wear every day the hat I got from my older brother for my birthday last year.\n\nWhy This Order Works  \n- たんじょうびに and 兄に provide time and source for もらった.  \n- もらった is a relative clause verb that must come immediately before the noun it modifies (ぼうし).  \n- ぼうしを then serves as the object of かぶって います, with 毎日 modifying the action.\n\nWhy Other Orders Fail  \n- Putting ぼうしを before もらった (…ぼうしをもらった…) would duplicate the head noun inside the relative clause and break the modifier-head relation.  \n- Placing 兄に or たんじょうびに after もらった misplaces clause-internal modifiers; they need to precede the verb within the relative clause.  \n- Ending the blanks with もらった (without a following noun) leaves the relative clause without its head noun.\n\nHow to Solve (Quick Tip)  \n- Spot the relative clause verb (もらった) and place it right before the noun it modifies (ぼうし).  \n- Put time/source phrases (〜に) before the clause’s verb.  \n- Then attach the modified noun as the object to the main verb (かぶって います).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7817",
+      "order": 19,
+      "html": "スパゲティが <span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span class=\"star\">★</span> <span class=\"blank-space\">______</span> ばんごはんを　食べました。",
+      "text": "スパゲティが ______ ______ ★ ______ ばんごはんを　食べました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ゆうめいな",
+          "furigana": "ゆうめいな",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "近くの",
+          "furigana": "近くの",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "銀行の",
+          "furigana": "銀行の",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "レストランで",
+          "furigana": "レストランで",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/3",
+      "explanation": "Answer (★ Position)  \nAnswer 2: 近くの\n\nCorrect Order  \n1 → 3 → 2 → 4  \n📌 ゆうめいな → 銀行の → ★ 近くの → レストランで\n\nChunk-by-Chunk Breakdown  \n① ゆうめいな — na-adjective “famous”; here it modifies 銀行 to make 有名な銀行 (“a famous bank”).  \n③ 銀行の — genitive の; combines with 近くの to form 銀行の近くの (“near the bank”).  \n② 近くの — “near …/nearby”; an adnominal noun + の that needs a head noun after it (Xの近くのN).  \n④ レストランで — “at the restaurant”; で marks the place where the action happens.\n\nReconstructed Sentence  \nスパゲティが 有名な銀行の近くのレストランで ばんごはんを 食べました。  \n→ I ate dinner at a restaurant near a famous bank.\n\nWhy This Order Works  \n- Xの近くのN is a fixed pattern for “a noun near X.” Here X = 有名な銀行 (“a famous bank”).  \n- で must attach to the location noun (レストラン) and come just before the verb phrase.  \n- The star position is third (___ ___ ★ ___), which is perfect for 近くの in 銀行の近くの.\n\nWhy Other Orders Fail  \n- 3 → 2 → 1 → 4 (銀行の → 近くの → ゆうめいな → レストランで): Grammatically okay (“a famous restaurant near the bank”), but then the ★ slot would be 1, not 2, so it doesn’t match the given star position.  \n- 2 → 3 → 1 → 4 (近くの → 銀行の → ゆうめいな → レストランで): Reads as “the famous restaurant of a nearby bank,” which changes the meaning and breaks the Xの近くのN pattern. Also puts 近くの in the first slot, not the starred third.  \n- 3 → 1 → 2 → 4 (銀行の → ゆうめいな → 近くの → レストランで): Creates an awkward stacking (“the bank’s famous nearby restaurant”) and separates 有名な from its clear target unless forced, making the scope unnatural.\n\nHow to Solve (Quick Tip)  \n- Look for fixed frames like “X の 近く の N.”  \n- Put で with the location noun at the end of the modifier chain.  \n- Decide what 有名な should modify (the head noun or X); here, letting it modify 銀行 gives a natural phrase and places 近くの in the starred third slot.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7818",
+      "order": 20,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「こちらの　かばんは　いかがですか。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「もっと <span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span class=\"star\">★</span> <span class=\"blank-space\">______</span> ありませんか。」</span></p></div>",
+      "text": "A「こちらの　かばんは　いかがですか。」　B「もっと ______ ______ ★ ______ ありませんか。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "のは",
+          "furigana": "のは",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "色が",
+          "furigana": "色が",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "小さくて",
+          "furigana": "小さくて",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "明るい",
+          "furigana": "明るい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3",
+      "explanation": "Answer (★ Position)  \nAnswer 4: 明るい（3rd position）\n\nCorrect Order  \n3 → 2 → 4 → 1  \n📌 小さくて → 色が → 明るい ★ → のは\n\nChunk-by-Chunk Breakdown  \n③ 小さくて — i-adjective in て-form; “smaller (and…)” linking to the next description  \n② 色が — “the color” as the subject of the following adjective  \n④ 明るい — “bright”; forms the relative clause 色が明るい (“whose color is bright”)  \n① のは — nominaliser + topic/contrast; “as for the one(s) that …” before ありませんか\n\nReconstructed Sentence  \n店員：「こちらのかばんはいかがですか。」  \n客：「もっと小さくて、色が明るいのはありませんか。」  \n→ “Do you have one that is smaller and has a brighter color?”\n\nWhy This Order Works  \n- 小さくて connects smoothly to another property.  \n- 色が明るい forms a natural relative clause (“with a bright color”).  \n- のは nominalises the whole description so it can be asked about with ありませんか.\n\nWhy Other Orders Fail  \n- 4 → 2 → … (“明るい 色が …”): You might get 明るい色が, but then “色が小さくて” is illogical (colors aren’t small).  \n- 2 → 4 → 3 → 1 (“色が明るい 小さくて のは”): The て-form should come before the clause it links; this order is ungrammatical.  \n- 3 → 4 → 2 → 1 (“小さくて 明るい 色が のは”): “色がのは” is ungrammatical; after 色が you need a predicate, not の.  \n\nHow to Solve (Quick Tip)  \n- Build the relative clause first: 色が明るい (“whose color is bright”).  \n- Use 小さくて to add another property before that clause.  \n- Finish with のは to make “the one(s) that …” and ask with ありませんか.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7819",
+      "order": 21,
+      "html": "今日は　りんごが　安かったです。いつもは　一つ <span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span class=\"star\">★</span> <span class=\"blank-space\">______</span> でした。",
+      "text": "今日は　りんごが　安かったです。いつもは　一つ ______ ______ ★ ______ でした。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "100円の",
+          "furigana": "100円の",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "200円",
+          "furigana": "200円",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "りんごが",
+          "furigana": "りんごが",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "三つで",
+          "furigana": "三つで",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3",
+      "explanation": "Answer (★ Position)  \nAnswer 4: 三つで\n\nCorrect Order  \n1 → 3 → 4 → 2  \n📌 100円の → りんごが → 三つで → 200円\n\nChunk-by-Chunk Breakdown  \n① 100円の — “100-yen (per one)”; attributive の must modify a noun; here it pairs with りんご  \n③ りんごが — subject marker; “apples (subject)”  \n④ 三つで — “for three / in a set of three”; used in the fixed pricing pattern XでY円  \n② 200円 — “200 yen”; the price that completes the predicate with でした\n\nNote: The given 一つ before the blanks combines with 100円の to make 一つ100円の (“100 yen per one”).\n\nReconstructed Sentence  \n今日はりんごが安かったです。いつもは一つ100円のりんごが、三つで200円でした。  \n→ “Today, apples were cheap. Usually, apples that are 100 yen each were three for 200 yen.”\n\nWhy This Order Works  \n- 100円の must directly modify a noun, so it attaches to りんご.  \n- 三つで200円 is the natural set-price expression (“200 yen for three”).  \n- りんごが sets the subject before giving the pricing predicate.\n\nWhy Other Orders Fail  \n- 200円 before 三つで breaks the fixed pattern (it should be 三つで200円, not 200円三つで).  \n- りんごが cannot follow the price (…200円でした＋りんごが is ungrammatical).  \n- 100円の cannot stand alone or modify 三つで; it must modify a noun (りんご).\n\nHow to Solve (Quick Tip)  \n- Attach の to a noun first (100円の＋りんご).  \n- Use the pricing template: “quantity＋で＋amount” (三つで200円).  \n- Check the ★ position (here: third) and place the chunk that forms a fixed pair with its neighbor; 三つで naturally pairs with 200円.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7820",
+      "order": 22,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "さんぽしました",
+          "furigana": "さんぽしました",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "さんぽします",
+          "furigana": "さんぽします",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "さんぽしませんでした",
+          "furigana": "さんぽしませんでした",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "さんぽしません",
+          "furigana": "さんぽしません",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/3",
+      "explanation": "**Correct Answer**  \r\nAnswer 2: さんぽします is correct. It means “(I) take a walk” (polite, non-past/habitual).\r\n\r\n**Question Translation**  \r\n“Every Sunday morning, I take a walk. I always get up at 6 a.m. and take a walk by myself.”\r\n\r\n**Explanation**  \r\nThe context describes a routine: 毎週 and いつも indicate habitual actions. The first sentence uses ～しています to express a regular habit (“I take walks on Sunday mornings”), so the next sentence should also use the non-past habitual form さんぽします to match this routine description.  \r\n- さんぽ（散歩）する: to take a walk.\r\n\r\n**Why Other Options Are Incorrect**  \r\n- Answer 1: さんぽしました — Past tense. Unnatural with いつも (always) for a current routine; it would describe a one-time past action.  \r\n- Answer 3: さんぽしませんでした — Negative past (“did not take a walk”); contradicts the stated habit.  \r\n- Answer 4: さんぽしません — Negative non-past (“do not take a walk”); contradicts the routine described.\r\n\r\n**Grammar/Vocabulary Note**  \r\n- Non-past (～ます) is used for general truths and habits.  \r\n- ～ています can also express habitual actions, not just progressive.  \r\n- 一人で means “alone; by oneself.”  \r\n- 散歩（さんぽ）する = “to take a walk.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7821",
+      "order": 23,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "それから",
+          "furigana": "それから",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "つぎの　日曜日に",
+          "furigana": "つぎの　日曜日に",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "6時に",
+          "furigana": "6時に",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "毎年",
+          "furigana": "毎年",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "3/3",
+      "explanation": "**Correct Answer**  \nAnswer 1: それから is correct. It means “then; after that.”\n\n**Question Translation**  \n“Last week, I walked for about an hour to the Sakura River. After that, I went to a café near the Sakura River.”\n\n**Explanation**  \nThe essay narrates actions in time order: morning walk → reached Sakura River → then went to a café. それから is a conjunctive adverb that links sequential actions (“after that/then”), which fits naturally between two past events.\n\n**Why Other Options Are Incorrect**  \n- Answer 2: つぎの 日曜日に (“on next Sunday”) — Shifts the time to a different day and contradicts the past narrative of 先週 (“last week”).  \n- Answer 3: 6時に (“at 6 o’clock”) — The writer already wakes at 6, then walks for about an hour; going to the café “at 6” is temporally inconsistent and unnatural here.  \n- Answer 4: 毎年 (“every year”) — Indicates yearly frequency, which doesn’t match a step in a same-morning sequence.\n\n**Grammar/Vocabulary Note**  \n- それから: used to continue a sequence in time (“after that/then”).  \n- Contrast: それで (so/therefore; cause-result), そして (and; neutral listing).  \n- 喫茶店（きっさてん）: café/coffee shop.  \n- さくら川（さくらがわ）: Sakura River.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7822",
+      "order": 24,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "の",
+          "furigana": "の",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "と",
+          "furigana": "と",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "で",
+          "furigana": "で",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3",
+      "explanation": "**Correct Answer**  \nAnswer 4: は is correct. It marks the topic: “As for the restaurant’s name, it is ‘Sawadika.’”\n\n**Question Translation**  \n“The restaurant’s name is ‘Sawadika.’”\n\n**Explanation**  \nIn the sentence レストランの 名前は「サワディカ」です, は marks 名前 (name) as the topic, forming the basic pattern “A は B です” (A is B). This is the natural way to identify or state what the restaurant’s name is.\n\n- 名前 (なまえ): “name”\n\n**Why Other Options Are Incorrect**  \n- Answer 1: の — Would make レストランの名前の「サワディカ」です, which is ungrammatical/unnatural here; の links nouns and doesn’t mark the topic.  \n- Answer 2: と — Functions as “and” between nouns or as a quotative with 言う, etc. 名前と「サワディカ」です is ungrammatical.  \n- Answer 3: で — Often marks location of an action or means. 名前で「サワディカ」です is unnatural for simple identification; で doesn’t fit an “A is B” statement here.\n\n**Grammar/Vocabulary Note**  \n- Topic marker は: Used to present the topic of the sentence in the copular pattern AはBです (“A is B”).  \n- Common structure: Xの名前はYです = “X’s name is Y.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7823",
+      "order": 25,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "行きました",
+          "furigana": "行きました",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "来ました",
+          "furigana": "来ました",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "行ったからです",
+          "furigana": "行ったからです",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "来たからです",
+          "furigana": "来たからです",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/3",
+      "explanation": "**Correct Answer**  \nAnswer 2: 来ました is correct. It means “came.”\n\n**Question Translation**  \nLast Sunday, my Japanese friend came to “Sawadika” to eat.\n\n**Explanation**  \n- The speaker works at the restaurant “Sawadika,” and later says he asked the friend after the meal, indicating he was there. For movement toward the speaker’s side/place, Japanese uses 来る (to come).  \n- Pattern: Vます-stem + に + 来る → “come to do V.” Here: 食べに来ました (たべにきました).\n\n**Why Other Options Are Incorrect**  \n- Answer 1: 行きました (いきました) — “went.” Used for movement away from the speaker’s side; unnatural since the friend came to the speaker’s workplace.  \n- Answer 3: 行ったからです — “because (they) went.” Ends with からです (because) without a following main clause; doesn’t fit the sentence structure.  \n- Answer 4: 来たからです — Same issue as 3; a reason clause with no main clause, so it’s incoherent here.\n\n**Grammar/Vocabulary Note**  \n- 行く vs 来る is chosen by viewpoint: toward the speaker’s side/place (来る) vs away (行く).  \n- Purpose construction: Vます-stem + に + 行く/来る expresses “go/come to do [verb],” e.g., 食べに行く / 食べに来る.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7824",
+      "order": 26,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "りょうりは　楽しいです",
+          "furigana": "りょうりは　楽しいです",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "りょうりが　ほしかったです",
+          "furigana": "りょうりが　ほしかったです",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ぜんぶ　おいしかったです",
+          "furigana": "ぜんぶ　おいしかったです",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ぜんぶで　1000円です",
+          "furigana": "ぜんぶで　1000円です",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/3",
+      "explanation": "**Correct Answer**  \nAnswer 3: ぜんぶ おいしかったです is correct. It means “Everything was delicious.”\n\n**Question Translation**  \nAfter the meal, I asked, “How was the food?” My friend said, “Everything was delicious.” I was happy.\n\n**Explanation**  \n- The question りょうりはどうでしたか asks for an evaluation of the food in the past.  \n- おいしかったです is the polite past form of the i-adjective おいしい, matching the past context.  \n- ぜんぶ emphasizes that all the dishes were tasty, which naturally fits the compliment and the writer’s reaction “I was happy.”\n\n**Why Other Options Are Incorrect**  \n- Answer 1: りょうりは 楽しいです — “Cooking/food is fun.” 楽しい describes experiences as enjoyable, not taste. It doesn’t answer “How was the food?”  \n- Answer 2: りょうりが ほしかったです — “I wanted food.” ほしい expresses desire for a noun, not an evaluation of taste, and is odd after they already ate. More natural would be りょうりを食べたいです, but still not an answer to the question.  \n- Answer 4: ぜんぶで 1000円です — “It’s 1000 yen in total.” This answers a price question, not “How was the food?”\n\n**Grammar/Vocabulary Note**  \n- どうでしたか: polite past of どうです, asking “How was it?”  \n- i-adjective past: おいしい → おいしかったです.  \n- ぜんぶ (全部): “everything”; ぜんぶで: “in total (amount/price).”  \n- 料理（りょうり）: “food/dishes; cooking.”  \n- Quotation: 「…」+ と言いました indicates reported speech.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7825",
+      "order": 27,
+      "html": "リンさんに　おかしを　いつ、どこで　買いますか。",
+      "text": "リンさんに　おかしを　いつ、どこで　買いますか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "あした　スーパーで",
+          "furigana": "あした　スーパーで",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "あした　おかし屋で",
+          "furigana": "あした　おかし屋で",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あさって　スーパーで",
+          "furigana": "あさって　スーパーで",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あさって　おかし屋で",
+          "furigana": "あさって　おかし屋で",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/3",
+      "explanation": "**Correct Answer**  \r\nAnswer 2: あした おかし屋で is correct. It means “tomorrow at the candy shop.”\r\n\r\n**Question Translation**  \r\nWhen and where will Lin buy the snacks?\r\n\r\n**Explanation**  \r\nIn the email, Lin says: 「わたしは あした 妹と スーパーの近くにある おかし屋へ 買いに行きます。」  \r\nThis tells us:\r\n- Time: あした (tomorrow)\r\n- Place: おかし屋 (おかしや, candy/sweets shop) — the shop is near the supermarket, but it is not the supermarket.\r\nSince the action of buying happens at the shop, we answer with で for the place: おかし屋で.\r\n\r\n**Why Other Options Are Incorrect**  \r\n- Answer 1: あした スーパーで — Incorrect place. It’s near the supermarket, but the buying is at the candy shop, not the supermarket.  \r\n- Answer 3: あさって スーパーで — Wrong time and wrong place. She plans to buy tomorrow, not the day after tomorrow, and not at the supermarket.  \r\n- Answer 4: あさって おかし屋で — Wrong time. She will buy tomorrow, not the day after tomorrow.\r\n\r\n**Grammar/Vocabulary Note**  \r\n- おかし屋（おかしや）: candy/sweets shop.  \r\n- あした: tomorrow; あさって: the day after tomorrow.  \r\n- ～へ（買いに）行きます: “go (in order) to buy.” The place where the buying occurs takes で (おかし屋で).  \r\n- スーパーの近くにある modifies おかし屋, meaning “the candy shop located near the supermarket.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7826",
+      "order": 28,
+      "html": "男の　学生は　どこで　歌の　れんしゅうを　しますか。",
+      "text": "男の　学生は　どこで　歌の　れんしゅうを　しますか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "4時から　6時まで　1ばん　きょうしつ",
+          "furigana": "4時から　6時まで　1ばん　きょうしつ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "4時から　6時まで　3ばん　きょうしつ",
+          "furigana": "4時から　6時まで　3ばん　きょうしつ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "4時からは　1ばん　きょうしつ、5時からは　3ばん　きょうしつ",
+          "furigana": "4時からは　1ばん　きょうしつ、5時からは　3ばん　きょうしつ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4時からは　3ばん　きょうしつ、5時からは　1ばん　きょうしつ",
+          "furigana": "4時からは　3ばん　きょうしつ、5時からは　1ばん　きょうしつ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/3",
+      "explanation": "**Correct Answer**  \r\nAnswer 3 is correct. It means: From 4:00, in Classroom 1; from 5:00, in Classroom 3.\r\n\r\n**Question Translation**  \r\nWhere will the male students practice singing?\r\n\r\n**Explanation**  \r\nThe notice says:\r\n- From 4:00 to 6:00 there will be singing practice.\r\n- Male students: come to Classroom 1. Female students: Classroom 3.\r\n- From 5:00, everyone will practice together in Classroom 3.\r\n\r\nSo for male students: from 4:00 they are in Classroom 1, and from 5:00 they move to Classroom 3. This matches Answer 3.\r\n\r\n**Why Other Options Are Incorrect**  \r\n- Answer 1: Says 4:00–6:00 in Classroom 1. Incorrect because from 5:00 practice moves to Classroom 3.\r\n- Answer 2: Says 4:00–6:00 in Classroom 3. Incorrect for male students; they start in Classroom 1.\r\n- Answer 4: Says from 4:00 in Classroom 3, from 5:00 in Classroom 1. The order and rooms are reversed.\r\n\r\n**Grammar/Vocabulary Note**  \r\n- 男の学生（おとこのがくせい）: male student(s)  \r\n- 歌（うた）: song; 歌のれんしゅう（うたのれんしゅう）: singing practice  \r\n- 〜から〜まで: from … to … (time range)  \r\n- 〜からは: from … (on/then), marking a change point (here, from 5:00 they all practice together)  \r\n- いっしょに: together  \r\n- 1ばん/3ばん きょうしつ: Classroom 1 / Classroom 3",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7827",
+      "order": 29,
+      "html": "レナさんが　もう　持って　いる　ものは　何ですか。",
+      "text": "レナさんが　もう　持って　いる　ものは　何ですか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "テキストと　じしょ",
+          "furigana": "テキストと　じしょ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ノートと　えんぴつ",
+          "furigana": "ノートと　えんぴつ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "テキストと　ノートと　えんぴつ",
+          "furigana": "テキストと　ノートと　えんぴつ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "じしょと　ノートと　えんぴつ",
+          "furigana": "じしょと　ノートと　えんぴつ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "3/3",
+      "explanation": "**Correct Answer**  \r\nAnswer 1: テキストと じしょ is correct. It means “the textbook(s) and the dictionary.”\r\n\r\n**Question Translation**  \r\nWhat things does Rena already have?\r\n\r\n**Explanation**  \r\nThe passage says:\r\n- She bought the textbook used at school yesterday (テキストは きのう 買いました) → already has it.\r\n- She received a dictionary from her older brother (じしょは お兄さんに もらいました) → already has it.\r\n- She will go buy a notebook and pencils this afternoon (ノートと えんぴつは 今日の午後 買いに 行きます) → does not have them yet.\r\n\r\nTherefore, the items she already has are the textbook and the dictionary.\r\n\r\n**Why Other Options Are Incorrect**  \r\n- Answer 2: ノートと えんぴつ — She plans to buy these this afternoon; she doesn’t have them yet.  \r\n- Answer 3: テキストと ノートと えんぴつ — Includes notebook and pencils, which she doesn’t have yet.  \r\n- Answer 4: じしょと ノートと えんぴつ — Only the dictionary fits; notebook and pencils are not yet bought.\r\n\r\n**Grammar/Vocabulary Note**  \r\n- もう: “already.”  \r\n- 持っている: “to have/possess.”  \r\n- 買いました (かいました): past tense “bought” → already obtained.  \r\n- もらいました: “received” → already obtained.  \r\n- 買いに行きます (かいに いきます): “go to buy” → future plan.  \r\n- じしょ（辞書 じしょ）= dictionary; テキスト = textbook; ノート = notebook; えんぴつ = pencil.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7828",
+      "order": 30,
+      "html": "<span style=\"text-decoration: underline;\">①きのう</span>　森さんと「わたし」は　どこで　ケーキを　食べましたか。",
+      "text": "①きのう　森さんと「わたし」は　どこで　ケーキを　食べましたか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "駅の　きっさてん",
+          "furigana": "駅の　きっさてん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ホテルの　きっさてん",
+          "furigana": "ホテルの　きっさてん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "「わたし」の　うち",
+          "furigana": "「わたし」の　うち",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "森さんの　うち",
+          "furigana": "森さんの　うち",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/3.5",
+      "explanation": "**Correct Answer**  \r\nAnswer 3 is correct. It means “at my house.”\r\n\r\n**Question Translation**  \r\nYesterday, where did Mori and I eat cake?\r\n\r\n**Explanation**  \r\nThe passage contrasts two times:\r\n- Last month: They ate cake at the hotel café “Ribbon.”\r\n- Yesterday: Mori came over to the narrator’s place (あそびに来ました). The narrator went to “Ribbon” to buy cakes (ケーキを買いに行って) and after dinner they ate together. Since Mori visited the narrator and the cakes were takeout, they ate at the narrator’s house.\r\n\r\n**Why Other Options Are Incorrect**  \r\n- Answer 1: 駅の きっさてん — The café was in a hotel located in front of the station, not a “station café.” Also, that was last month, not yesterday.  \r\n- Answer 2: ホテルの きっさてん — That was the location last month (“ホテルのきっさてん『リボン』”). Yesterday they bought cake there but did not eat there.  \r\n- Answer 4: 森さんの うち — Mori came to the narrator’s place (あそびに来ました), so they did not eat at Mori’s house.\r\n\r\n**Grammar/Vocabulary Note**  \r\n- あそびに来ました: “came over to visit (socially).”  \r\n- 〜に買いに行く: “go to [place] to buy [item]” (implies takeout).  \r\n- 〜前に: “before …” (来る前に: before (he) came).  \r\n- 喫茶店（きっさてん）: café/coffee shop.  \r\n- 〜ほうが: comparison “X is more … than Y.”  \r\n- 〜ながら: “while …” (きれいな音楽を聞きながら食べた).  \r\nThese cues show yesterday’s cake was eaten at the narrator’s home, not at the café.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7829",
+      "order": 31,
+      "html": "どうして<span style=\"text-decoration: underline;\">②「また『リボン』に　行きましょう。」</span>と　言いましたか。",
+      "text": "どうして②「また『リボン』に　行きましょう。」と　言いましたか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "うちで　作った　ケーキは　おいしくないから",
+          "furigana": "うちで　作った　ケーキは　おいしくないから",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "また「リボン」の　ケーキを　買いたいから",
+          "furigana": "また「リボン」の　ケーキを　買いたいから",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "友だちと　いっしょに　食べる　ケーキの　ほうが　おいしいから",
+          "furigana": "友だちと　いっしょに　食べる　ケーキの　ほうが　おいしいから",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "「リボン」の店の　中で　食べる　ケーキの　ほうが　おいしいから",
+          "furigana": "「リボン」の店の　中で　食べる　ケーキの　ほうが　おいしいから",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3.5",
+      "explanation": "**Correct Answer**  \nAnswer 4 is correct. It means “Because cake eaten inside Ribbon (the café) is more delicious.”\n\n**Question Translation**  \nWhy did they say, “Let’s go to Ribbon again”?\n\n**Explanation**  \nIn the passage, they compared takeout cake eaten at home with the cake they ate last month inside the hotel café “Ribbon.” They agreed last month’s cake tasted better because they ate it in a quiet café while listening to beautiful music. Therefore, they said, “Let’s go to Ribbon again,” meaning to eat at the café, not just buy cake.\n\nKey clues:\n- 「静かなホテルのきっさてんで きれいなおんがくを聞きながら 食べたからですよ。」= That’s because we ate it in a quiet café while listening to beautiful music.\n- 「先月『リボン』で 食べた ケーキのほうが おいしかったです。」= The one eaten at Ribbon was more delicious.\n\n**Why Other Options Are Incorrect**  \n- Answer 1: うちで作ったケーキはおいしくないから  \n  They didn’t make cake at home; they bought it from Ribbon. Not stated.\n- Answer 2: また「リボン」のケーキを買いたいから  \n  The reason is not “to buy” again; they already bought some. The point is eating at the café.\n- Answer 3: 友だちといっしょに食べるケーキのほうが おいしいから  \n  They ate together both times, so this doesn’t explain the difference. The text gives a different reason (café atmosphere/music).\n- Answer 4: 「リボン」の店の中で食べるケーキのほうが おいしいから  \n  Matches the passage: the in-store experience made it taste better.\n\n**Grammar/Vocabulary Note**  \n- ほうが: comparative “X is more … (than Y).”\n- 〜ながら: “while doing …” (おんがくを聞きながら 食べた).\n- から: gives a reason (“because”).\n- 喫茶店（きっさてん）: café; 音楽（おんがく）: music; 同じ（おなじ）: same; 静か（しずか）: quiet.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7830",
+      "order": 32,
+      "html": "フォンさんの　休みは　二日間です。休みに　海へ　行きたいです。どの　旅行に　行きますか。",
+      "text": "フォンさんの　休みは　二日間です。休みに　海へ　行きたいです。どの　旅行に　行きますか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "①",
+          "furigana": "①",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "②",
+          "furigana": "②",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "③",
+          "furigana": "③",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "④",
+          "furigana": "④",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/4",
+      "explanation": "Correct Answer  \r\nAnswer 4: ④ is correct. It means the trip plan that both goes to the sea and lasts two days.\r\n\r\nQuestion Translation  \r\nFon-san’s vacation is for two days. She wants to go to the sea. Which trip will she go on?\r\n\r\nGrammar/Vocabulary Note  \r\n- 二日間（ふつかかん）: “for two days” (duration; 間 marks the span).  \r\n- 海（うみ）: sea.  \r\n- へ: direction particle (海へ行く = go to the sea).  \r\n- 行きたいです: “want to go” (desire form).  \r\n- どの〜に行きますか: “Which (trip) will you choose/go on?” selecting from listed options.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "7832",
+      "order": 1,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ホテル",
+          "furigana": "ホテル",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "こうえん",
+          "furigana": "こうえん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "がっこう",
+          "furigana": "がっこう",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "えき",
+          "furigana": "えき",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>先生<rt>せんせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>学生<rt>がくせい</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、どこで<ruby>先生<rt>せんせい</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いますか。<br /><br /><ruby>男<rt>おとこ</rt></ruby>：みなさん、<ruby>明日<rt>あした</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>い<ruby>町<rt>まち</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。9<ruby>時<rt>じ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りますよ。<ruby>町<rt>まち</rt></ruby>には<ruby>日本<rt>にほん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>古<rt>ふる</rt></ruby>いホテルが[あり]ます。[きれい]な<ruby>公園<rt>こうえん</rt></ruby>も[あります]。<br /><ruby>女<rt>おんな</rt></ruby>：あしたは<ruby>学校<rt>がっこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>てから<ruby>行<rt>い</rt></ruby>きますか。<br /><ruby>男<rt>おとこ</rt></ruby>：いいえ、<ruby>駅<rt>えき</rt></ruby>に<ruby>来<rt>き</rt></ruby>てください。8<ruby>時半<rt>じはん</rt></ruby>に<ruby>待<rt>ま</rt></ruby>っています。<br /><br /><ruby>学生<rt>がくせい</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、どこで<ruby>先生<rt>せんせい</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いますか。</div></div>",
+      "listening_script_translation": "In the classroom, the teacher is speaking. Where will the students meet the teacher tomorrow morning?<br /><br />M: Everyone, tomorrow we’ll go to see an old town. We’ll take the nine o’clock train. In the town, there’s Japan’s oldest hotel. There’s also a beautiful park.<br />F: Should we come to school first tomorrow?<br />M: No, please come to the station. I’ll be waiting at 8:30.<br /><br />Where will the students meet the teacher tomorrow morning?"
+    },
+    {
+      "question_id": "7833",
+      "order": 2,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.12.07.png?fit=1024%2C770&ssl=1"
+      ],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>学校<rt>がっこう</rt></ruby>で<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>はいすをどこに<ruby>置<rt>お</rt></ruby>きますか。<br /><br /><ruby>男<rt>おとこ</rt></ruby>：せんせい、このいすはどこに<ruby>置<rt>お</rt></ruby>きますか。<br /><ruby>女<rt>おんな</rt></ruby>：つくえの<ruby>左側<rt>ひだりがわ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてください。<br /><ruby>男<rt>おとこ</rt></ruby>：はい、<ruby>窓<rt>まど</rt></ruby>のそばですね。<br /><ruby>女<rt>おんな</rt></ruby>：そうです。どうもありがとう。<br /><br /><ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>はいすをどこに<ruby>置<rt>お</rt></ruby>きますか。</div></div>",
+      "listening_script_translation": "At school, a male student and a female teacher are talking. Where will the male student put the chair?<br><br>M: Teacher, where should I put this chair?<br>F: Please put it to the left of the desk.<br>M: Okay, next to the window, right?<br>F: That’s right. Thank you.<br><br>Where will the male student put the chair?"
+    },
+    {
+      "question_id": "7834",
+      "order": 3,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.12.34.png?fit=1024%2C794&ssl=1"
+      ],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>女<rt>おんな</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>と<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>はどの<ruby>本<rt>ほん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきますか。<br /><br /><ruby>女<rt>おんな</rt></ruby>：すみません。あそこのつくえのうえの<ruby>本<rt>ほん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきてください。<br /><ruby>男<rt>おとこ</rt></ruby>：はい、<ruby>先生<rt>せんせい</rt></ruby>。どの<ruby>本<rt>ほん</rt></ruby>ですか。くろい<ruby>本<rt>ほん</rt></ruby>ですか。<br /><ruby>女<rt>おんな</rt></ruby>：いいえ、しろい<ruby>本<rt>ほん</rt></ruby>です。<br /><ruby>男<rt>おとこ</rt></ruby>：あつい<ruby>本<rt>ほん</rt></ruby>ですか。<br /><ruby>女<rt>おんな</rt></ruby>：いいえ、うすい<ruby>本<rt>ほん</rt></ruby>です。<br /><ruby>男<rt>おとこ</rt></ruby>：わかりました。<br /><br /><ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>はどの<ruby>本<rt>ほん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきますか。</div></div>",
+      "listening_script_translation": "In the classroom, a female teacher and a male student are talking. Which book will the male student bring?<br><br>F: Excuse me, please bring the book on that desk over there.<br>M: Yes, teacher. Which book? The black one?<br>F: No, the white one.<br>M: The thick one?<br>F: No, the thin one.<br>M: Understood.<br><br>Which book will the male student bring?"
+    },
+    {
+      "question_id": "7835",
+      "order": 4,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.12.52.png?fit=1024%2C789&ssl=1"
+      ],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いています。[さくらビル]はどこですか。<br /><br /><ruby>女<rt>おんな</rt></ruby>：すみません、あのう、[さくらビル]へ<ruby>行<rt>い</rt></ruby>きたいです。[さくらビル]はどこですか。<br /><ruby>男<rt>おとこ</rt></ruby>：[さくらビル]ですね。この<ruby>道<rt>みち</rt></ruby>をまっすぐ<ruby>行<rt>い</rt></ruby>ってください。あそこに<ruby>大<rt>おお</rt></ruby>きいデパートが[あり]ますね。その<ruby>向<rt>む</rt></ruby>こうです。<br /><ruby>女<rt>おんな</rt></ruby>：この<ruby>道<rt>みち</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby>ですね。ありがとうございます。<br /><br />[さくらビル]はどこですか。</div></div>",
+      "listening_script_translation": "A woman is asking a man for directions. Where is the Sakura Building?<br><br>F: Excuse me, I’d like to go to the Sakura Building. Where is it?<br>M: The Sakura Building? Go straight along this street. There’s a big department store over there — it’s on the other side of that.<br>F: On the right side of this street, right? Thank you.<br><br>Where is the Sakura Building?"
+    },
+    {
+      "question_id": "7836",
+      "order": 5,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.13.14.png?fit=1024%2C798&ssl=1"
+      ],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>花屋<rt>はなや</rt></ruby>で<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>花<rt>はな</rt></ruby>をどうしますか。<br /><br /><ruby>女<rt>おんな</rt></ruby>：いらっしゃいませ。<br /><ruby>男<rt>おとこ</rt></ruby>：すみません、この<ruby>花<rt>はな</rt></ruby>を二本ください。<br /><ruby>女<rt>おんな</rt></ruby>：はい、これですね。[プレゼント]ですか。<br /><ruby>男<rt>おとこ</rt></ruby>：はい。あっ、すみません。もう一本おねがいします。<br /><ruby>女<rt>おんな</rt></ruby>：はい。[リボン]はどうしますか。<br /><ruby>男<rt>おとこ</rt></ruby>：[リボン]ですか。いりません。<br /><ruby>女<rt>おんな</rt></ruby>：わかりました。<br /><br /><ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>花<rt>はな</rt></ruby>をどうしますか。</div></div>",
+      "listening_script_translation": "At a flower shop, a shop clerk and a man are talking. What will the shop clerk do with the flowers?<br><br>F: Welcome.<br>M: Excuse me, please give me two of these flowers.<br>F: Yes, these ones. Are they for a gift?<br>M: Yes. Ah, sorry, please add one more.<br>F: Okay. Would you like a ribbon?<br>M: A ribbon? No, I don’t need one.<br>F: Understood.<br><br>What will the shop clerk do with the flowers?"
+    },
+    {
+      "question_id": "7837",
+      "order": 6,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.13.32.png?fit=1024%2C795&ssl=1"
+      ],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きますか。<br /><br /><ruby>男<rt>おとこ</rt></ruby>：<ruby>山田<rt>やまだ</rt></ruby>さん、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>緑<rt>みどり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>をします。<ruby>近<rt>ちか</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>がたくさん<ruby>来<rt>き</rt></ruby>ますよ。<ruby>山田<rt>やまだ</rt></ruby>さんも<ruby>来<rt>き</rt></ruby>てください。<br /><ruby>女<rt>おんな</rt></ruby>：わかりました。<ruby>何<rt>なに</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きますか。<br /><ruby>男<rt>おとこ</rt></ruby>：あついですから、<ruby>帽子<rt>ぼうし</rt></ruby>をわすれないでください。それから<ruby>皆<rt>みな</rt></ruby>さんのお<ruby>茶<rt>ちゃ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きますから、[カップ]を<ruby>持<rt>も</rt></ruby>ってきてください。よろしくおねがいします。<br /><ruby>女<rt>おんな</rt></ruby>：はい。<br /><br /><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きますか。</div></div>",
+      "listening_script_translation": "A man and a woman are talking. What will the woman bring?<br><br>M: Ms. Yamada, next Sunday we’ll be cleaning Midori Park. Many people who live nearby will come. Please come too.<br>F: Understood. What should I bring?<br>M: It’ll be hot, so don’t forget your hat. I’ll bring everyone’s tea, so please bring a cup. Thank you.<br>F: Okay.<br><br>What will the woman bring?"
+    },
+    {
+      "question_id": "7838",
+      "order": 7,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1 ばん",
+          "furigana": "1 ばん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2 ばん",
+          "furigana": "2 ばん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3 ばん",
+          "furigana": "3 ばん",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4 ばん",
+          "furigana": "4 ばん",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>バス会社<rt>ばすがいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどの[バス]に<ruby>乗<rt>の</rt></ruby>りますか。<br /><br /><ruby>女<rt>おんな</rt></ruby>：すみません、1<ruby>番<rt>ばん</rt></ruby>の[バス]は<ruby>山川駅<rt>やまかわえき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きますか。<br /><ruby>男<rt>おとこ</rt></ruby>：いいえ、<ruby>山川駅<rt>やまかわえき</rt></ruby>は2<ruby>番<rt>ばん</rt></ruby>と3<ruby>番<rt>ばん</rt></ruby>と4<ruby>番<rt>ばん</rt></ruby>の[バス]です。でも、4<ruby>番<rt>ばん</rt></ruby>は<ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>の[バス]ですから、<ruby>今日<rt>きょう</rt></ruby>はありません。<br /><ruby>女<rt>おんな</rt></ruby>：あっ、3<ruby>番<rt>ばん</rt></ruby>の[バス]が<ruby>来<rt>き</rt></ruby>ました。あれに<ruby>乗<rt>の</rt></ruby>ります。<br /><ruby>男<rt>おとこ</rt></ruby>：あ、すぐ2<ruby>番<rt>ばん</rt></ruby>の[バス]が<ruby>来<rt>き</rt></ruby>ますよ。3<ruby>番<rt>ばん</rt></ruby>は<ruby>バス停<rt>ばすてい</rt></ruby>がたくさんありますから、2<ruby>番<rt>ばん</rt></ruby>のほうが<ruby>早<rt>はや</rt></ruby>いですよ。<br /><ruby>女<rt>おんな</rt></ruby>：わかりました。じゃ、<ruby>少<rt>すこ</rt></ruby>し<ruby>待<rt>ま</rt></ruby>ちます。ありがとうございます。<br /><br /><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどの[バス]に<ruby>乗<rt>の</rt></ruby>りますか。</div></div>",
+      "listening_script_translation": "A woman is talking with a person from the bus company. Which bus will she take?<br><br>F: Excuse me, does Bus No. 1 go to Yamakawa Station?<br>M: No, Yamakawa Station is Bus No. 2, No. 3, and No. 4. But Bus No. 4 runs only on Saturdays and Sundays, so it’s not running today.<br>F: Ah, Bus No. 3 has arrived. I’ll take that one.<br>M: Oh, Bus No. 2 will come soon. Bus No. 3 has many stops, so Bus No. 2 is faster.<br>F: Understood. Then, I’ll wait a little. Thank you.<br><br>Which bus will the woman take?"
+    },
+    {
+      "question_id": "7844",
+      "order": 1,
+      "html": "1ばん",
+      "text": "1ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "おにいさん",
+          "furigana": "おにいさん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "おねえさん",
+          "furigana": "おねえさん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "おとうさん",
+          "furigana": "おとうさん",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "おかあさん",
+          "furigana": "おかあさん",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>誰<rt>だれ</rt></ruby>にもらいましたか。<ruby>帽子<rt>ぼうし</rt></ruby>です。<br /><br /><ruby>男<rt>おとこ</rt></ruby>：おはよう。<br /><ruby>女<rt>おんな</rt></ruby>：おはよう、リンさん。きれいな<ruby>色<rt>いろ</rt></ruby>のセーターですね。<br /><ruby>男<rt>おとこ</rt></ruby>：<ruby>誕生日<rt>たんじょうび</rt></ruby>に<ruby>兄<rt>あに</rt></ruby>と<ruby>姉<rt>あね</rt></ruby>にもらいました。この<ruby>帽子<rt>ぼうし</rt></ruby>もプレゼントです。<ruby>父<rt>ちち</rt></ruby>がくれました。<br /><ruby>女<rt>おんな</rt></ruby>：いいですね。<br /><br /><ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>誰<rt>だれ</rt></ruby>にもらいましたか。</div></div>",
+      "listening_script_translation": "A male and a female student are talking. Who gave the male student the hat?<br><br>M: Good morning.<br>F: Good morning, Lin. That’s a nice-colored sweater.<br>M: I got it from my older brother and sister for my birthday. This hat was also a present. My father gave it to me.<br>F: That’s nice.<br><br>Who gave the male student the hat?"
+    },
+    {
+      "question_id": "7845",
+      "order": 2,
+      "html": "2ばん",
+      "text": "2ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "げつようび",
+          "furigana": "げつようび",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "かようび",
+          "furigana": "かようび",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "すいようび",
+          "furigana": "すいようび",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "もくようび",
+          "furigana": "もくようび",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>ダンス教室<rt>だんすきょうしつ</rt></ruby>で<ruby>山田<rt>やまだ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>山田<rt>やまだ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>のクラスは<ruby>何曜日<rt>なんようび</rt></ruby>ですか。<br /><br /><ruby>女<rt>おんな</rt></ruby>：みなさん、はじめまして。<ruby>山田<rt>やまだ</rt></ruby>です。どうぞよろしくおねがいします。<ruby>今日<rt>きょう</rt></ruby>から[ダンス]のクラスが<ruby>始<rt>はじ</rt></ruby>まります。わたしは<ruby>月曜日<rt>げつようび</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えます。<ruby>木曜日<rt>もくようび</rt></ruby>と<ruby>金曜日<rt>きんようび</rt></ruby>はほかの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>教<rt>おし</rt></ruby>えます。<ruby>火曜日<rt>かようび</rt></ruby>と<ruby>水曜日<rt>すいようび</rt></ruby>はクラスはありません。<br /><br /><ruby>山田<rt>やまだ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>のクラスは<ruby>何曜日<rt>なんようび</rt></ruby>ですか。</div></div>",
+      "listening_script_translation": "At the dance classroom, Ms. Yamada is speaking. What day is Ms. Yamada’s class?<br><br>F: Hello everyone, nice to meet you. I’m Yamada. Starting today, our dance classes will begin. I teach on Mondays. Other teachers teach on Thursdays and Fridays. There are no classes on Tuesdays or Wednesdays.<br><br>What day is Ms. Yamada’s class?"
+    },
+    {
+      "question_id": "7846",
+      "order": 3,
+      "html": "3ばん",
+      "text": "3ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "げんかん",
+          "furigana": "げんかん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "だいどころ",
+          "furigana": "だいどころ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "トイレ",
+          "furigana": "トイレ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "にわ",
+          "furigana": "にわ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>家<rt>いえ</rt></ruby>で<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどこを<ruby>掃除<rt>そうじ</rt></ruby>しますか。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>です。<br /><br /><ruby>女<rt>おんな</rt></ruby>：あしたは<ruby>家<rt>いえ</rt></ruby>で[パーティー]だね。<br /><ruby>男<rt>おとこ</rt></ruby>：うん。<br /><ruby>女<rt>おんな</rt></ruby>：わたしは<ruby>玄関<rt>げんかん</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>してから、<ruby>台所<rt>だいどころ</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>するね。[トイレ]の<ruby>掃除<rt>そうじ</rt></ruby>をおねがい。<br /><ruby>男<rt>おとこ</rt></ruby>：[トイレ]はもう<ruby>掃除<rt>そうじ</rt></ruby>をしたよ。じゃ、<ruby>庭<rt>にわ</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>をしてから、<ruby>買物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>くね。<br /><br /><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどこを<ruby>掃除<rt>そうじ</rt></ruby>しますか。</div></div>",
+      "listening_script_translation": "At home, a woman and a man are talking. Where will the man clean?<br><br>F: Tomorrow we’re having a party at home, right?<br>M: Yeah.<br>F: I’ll clean the entrance and then the kitchen. Please clean the toilet.<br>M: I’ve already cleaned the toilet. Then I’ll clean the garden and go shopping.<br><br>Where will the man clean?"
+    },
+    {
+      "question_id": "7847",
+      "order": 4,
+      "html": "4ばん",
+      "text": "4ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1かい",
+          "furigana": "1かい",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2かい",
+          "furigana": "2かい",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "8かい",
+          "furigana": "8かい",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "10かい",
+          "furigana": "10かい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">[ホテル]で<ruby>先生<rt>せんせい</rt></ruby>が<ruby>学生<rt>がくせい</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しています。<ruby>学生<rt>がくせい</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>何階<rt>なんかい</rt></ruby>ですか。<br /><br /><ruby>女<rt>おんな</rt></ruby>：ええ、みなさん。この[ホテル]は1<ruby>階<rt>かい</rt></ruby>と2<ruby>階<rt>かい</rt></ruby>に[レストラン]があります。<ruby>お風呂<rt>おふろ</rt></ruby>は<ruby>一番上<rt>いちばんうえ</rt></ruby>の10<ruby>階<rt>かい</rt></ruby>にあります。みなさんの<ruby>部屋<rt>へや</rt></ruby>は8<ruby>階<rt>かい</rt></ruby>です。ええ、いまから<ruby>部屋<rt>へや</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、自分の<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いてください。それから、2<ruby>階<rt>かい</rt></ruby>の[レストラン]に<ruby>来<rt>き</rt></ruby>てください。<br /><br /><ruby>学生<rt>がくせい</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>何階<rt>なんかい</rt></ruby>ですか。</div></div>",
+      "listening_script_translation": "At the hotel, the teacher is talking to the students. What floor is the students’ room on?<br><br>F: Alright everyone. This hotel has restaurants on the first and second floors. The bath is on the top, the tenth floor. Your rooms are on the eighth floor. Please go to your rooms now and leave your luggage. Then, please come to the restaurant on the second floor.<br><br>What floor is the students’ room on?"
+    },
+    {
+      "question_id": "7848",
+      "order": 5,
+      "html": "5ばん",
+      "text": "5ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.14.51.png?fit=1024%2C790&ssl=1"
+      ],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>昨日<rt>きのう</rt></ruby><ruby>何<rt>なに</rt></ruby>をしましたか。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>です。<br /><br /><ruby>女<rt>おんな</rt></ruby>：<ruby>昨日<rt>きのう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くて、<ruby>寒<rt>さむ</rt></ruby>かったですね。<br /><ruby>男<rt>おとこ</rt></ruby>：ええ、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>日曜日<rt>にちようび</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と[テニス]をしていますが、<ruby>昨日<rt>きのう</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みました。<ruby>買物<rt>かいもの</rt></ruby>も<ruby>行<rt>い</rt></ruby>きませんでした。<br /><ruby>女<rt>おんな</rt></ruby>：わたしも<ruby>昨日<rt>きのう</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で[テレビ]を<ruby>見<rt>み</rt></ruby>たり<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだりしました。<br /><br /><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>昨日<rt>きのう</rt></ruby><ruby>何<rt>なに</rt></ruby>をしましたか。</div></div>",
+      "listening_script_translation": "A woman and a man are talking. What did the man do yesterday?<br /><br />F: Yesterday, Sunday, it was windy and cold, wasn’t it?<br />M: Yes, every Sunday I usually play tennis with my friends, but yesterday I stayed home and read a book. I didn’t go shopping either.<br />F: I also stayed home yesterday, watched TV, and read books.<br /><br />What did the man do yesterday?"
+    },
+    {
+      "question_id": "7849",
+      "order": 6,
+      "html": "6ばん",
+      "text": "6ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "7:20",
+          "furigana": "7:20",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "7:55",
+          "furigana": "7:55",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "8:05",
+          "furigana": "8:05",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "8:20",
+          "furigana": "8:20",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">[デパート]で<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。二人は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>出口<rt>でぐち</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>会<rt>あ</rt></ruby>いますか。<br /><br /><ruby>女<rt>おんな</rt></ruby>：<ruby>田中<rt>たなか</rt></ruby>さん、この<ruby>後<rt>あと</rt></ruby>、わたしは[スカート]を<ruby>見<rt>み</rt></ruby>たいです。<br /><ruby>男<rt>おとこ</rt></ruby>：そうですか。じゃ、わたしは<ruby>本<rt>ほん</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<br /><ruby>女<rt>おんな</rt></ruby>：いまから1<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>自分<rt>じぶん</rt></ruby>が<ruby>好<rt>す</rt></ruby>きなものを<ruby>見<rt>み</rt></ruby>て、それから[デパート]の<ruby>出口<rt>でぐち</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>会<rt>あ</rt></ruby>いましょう。いま7<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>ですから、8<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>に<ruby>出口<rt>でぐち</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>会<rt>あ</rt></ruby>いませんか。<br /><ruby>男<rt>おとこ</rt></ruby>：でも、この[デパート]は8<ruby>時<rt>じ</rt></ruby>に<ruby>閉<rt>し</rt></ruby>まりますよ。<br /><ruby>女<rt>おんな</rt></ruby>：あっ、そうですか。それじゃ、8<ruby>時<rt>じ</rt></ruby>5<ruby>分<rt>ふん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いましょう。<br /><br />二人は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>出口<rt>でぐち</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>会<rt>あ</rt></ruby>いますか。</div></div>",
+      "listening_script_translation": "At a department store, a woman and a man are talking. What time will they meet in front of the exit?<br><br>F: Mr. Tanaka, after this I want to look at skirts.<br>M: I see. Then I’ll go look at books.<br>F: Let’s each look at what we like for about an hour and then meet in front of the department store exit. It’s 7:20 now, so shall we meet at 8:20?<br>M: But this department store closes at 8:00.<br>F: Oh, I see. Then, let’s meet at 7:55.<br><br>What time will they meet in front of the exit?"
+    },
+    {
+      "question_id": "7851",
+      "order": 1,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.17.55.png?fit=908%2C704&ssl=1"
+      ],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">いまから<ruby>寝<rt>ね</rt></ruby>ます。<ruby>家族<rt>かぞく</rt></ruby>に<ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. お<ruby>休<rt>やす</rt></ruby>みなさい。<br />2. こんばんは。<br />3. さようなら。</div></div>",
+      "listening_script_translation": "You are going to sleep now. What do you say to your family?<br><br>1. Good night.<br>2. Good evening.<br>3. Goodbye."
+    },
+    {
+      "question_id": "7852",
+      "order": 2,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.18.50.png?fit=898%2C700&ssl=1"
+      ],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>時計<rt>とけい</rt></ruby>がありません。<ruby>時間<rt>じかん</rt></ruby>が<ruby>知<rt>し</rt></ruby>りたいです。<ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. あのう、いくらですか。<br />2. あのう、どのぐらいですか。<br />3. あのう、<ruby>今<rt>いま</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>ですか。</div></div>",
+      "listening_script_translation": "You don’t have a watch and want to know the time. What do you say?<br><br>1. Um, how much is it?<br>2. Um, about how much?<br>3. Um, what time is it now?"
+    },
+    {
+      "question_id": "7853",
+      "order": 3,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.19.07.png?fit=914%2C700&ssl=1"
+      ],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>昼ご飯<rt>ひるごはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。<ruby>座<rt>すわ</rt></ruby>りたいです。<ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. <ruby>座<rt>すわ</rt></ruby>りませんでしたか。<br />2. どのいすですか。<br />3. ここ、いいですか。</div></div>",
+      "listening_script_translation": "You’re going to eat lunch and want to sit down. What do you say?<br><br>1. Didn’t you sit down?<br>2. Which chair is it?<br>3. Is it okay if I sit here?"
+    },
+    {
+      "question_id": "7854",
+      "order": 4,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.19.42.png?fit=1024%2C793&ssl=1"
+      ],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>お菓子<rt>おかし</rt></ruby>をあげたいです。<ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. これ、なんですか。<br />2. これ、いかがですか。<br />3. これ、どうしてですか。</div></div>",
+      "listening_script_translation": "You want to offer some sweets. What do you say?<br><br>1. What is this?<br>2. How about this?<br>3. Why is this?"
+    },
+    {
+      "question_id": "7855",
+      "order": 5,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-23.20.32.png?fit=1024%2C782&ssl=1"
+      ],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">[カメラ]を<ruby>見<rt>み</rt></ruby>たいです。<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. この[カメラ]を<ruby>見<rt>み</rt></ruby>せたいです。<br />2. この[カメラ]を<ruby>見<rt>み</rt></ruby>せますか。<br />3. この[カメラ]を<ruby>見<rt>み</rt></ruby>せてください。</div></div>",
+      "listening_script_translation": "You want to see a camera. What do you say to the store clerk?<br /><br />1. I want to show you this camera.<br />2. Can I show you this camera?<br />3. Please show me this camera."
+    },
+    {
+      "question_id": "7861",
+      "order": 1,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>学校<rt>がっこう</rt></ruby>まで<ruby>何<rt>なに</rt></ruby>で<ruby>来<rt>き</rt></ruby>ますか。<br /><br />1. <ruby>一人<rt>ひとり</rt></ruby>で<ruby>来<rt>き</rt></ruby>ます。<br />2. 9<ruby>時<rt>じ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。<br />3. <ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>来<rt>き</rt></ruby>ます。</div></div>",
+      "listening_script_translation": "How do you come to school?<br><br>1. I come alone.<br>2. I come at nine o’clock.<br>3. I come by bicycle."
+    },
+    {
+      "question_id": "7862",
+      "order": 2,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">この<ruby>雑誌<rt>ざっし</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>のですか。<br /><br />1. <ruby>日本語<rt>にほんご</rt></ruby>のです。<br />2. 五<ruby>冊<rt>さつ</rt></ruby>です。<br />3. わたしのです。</div></div>",
+      "listening_script_translation": "Whose magazine is this?<br><br>1. It’s in Japanese.<br>2. There are five (books).<br>3. It’s mine."
+    },
+    {
+      "question_id": "7863",
+      "order": 3,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>鈴木<rt>すずき</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>机<rt>つくえ</rt></ruby>はいくつ<ruby>並<rt>なら</rt></ruby>べますか。<br /><br />1. 三つです。<br />2. ええ、<ruby>並<rt>なら</rt></ruby>べましょう。<br />3. <ruby>教室<rt>きょうしつ</rt></ruby>です。</div></div>",
+      "listening_script_translation": "Mr. Suzuki, how many desks shall we line up?<br><br>1. Three.<br>2. Yes, let’s line them up.<br>3. It’s a classroom."
+    },
+    {
+      "question_id": "7864",
+      "order": 4,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">あそこにいる<ruby>髪<rt>かみ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか。<br /><br />1. とても<ruby>長<rt>なが</rt></ruby>いです。<br />2. ドアの<ruby>近<rt>ちか</rt></ruby>くにいます。<br />3. わたしの<ruby>妹<rt>いもうと</rt></ruby>です。</div></div>",
+      "listening_script_translation": "Who is the person over there with long hair?<br><br>1. It’s very long.<br>2. She’s near the door.<br>3. She’s my younger sister."
+    },
+    {
+      "question_id": "7865",
+      "order": 5,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、どこかへ<ruby>行<rt>い</rt></ruby>きますか。<br /><br />1. そうですか。<br />2. <ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ります。<br />3. <ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。</div></div>",
+      "listening_script_translation": "Are you going somewhere next Sunday?<br><br>1. Is that so?<br>2. I’ll climb a mountain.<br>3. I’ll go by train."
+    },
+    {
+      "question_id": "7866",
+      "order": 6,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>田中<rt>たなか</rt></ruby>さんは<ruby>子供<rt>こども</rt></ruby>のとき、よく<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みましたか。<br /><br />1. <ruby>毎週<rt>まいしゅう</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<br />2. あまり<ruby>読<rt>よ</rt></ruby>みませんでした。<br />3. ときどき<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。</div></div>",
+      "listening_script_translation": "When Mr. Tanaka was a child, did he read books often?<br><br>1. I go to the library every week.<br>2. I didn’t read much.<br>3. I sometimes read books."
+    }
+  ],
+  "listening_audio": [
+    "https://nihonez.com/wp-content/uploads/2025/09/audio-jlpt-n5-past-test-july-2013-real-exam-task-based-comprehension.mp3",
+    "https://nihonez.com/wp-content/uploads/2025/09/audio-jlpt-n5-past-test-july-2013-real-exam-comprehension-of-key-points.mp3",
+    "https://nihonez.com/wp-content/uploads/2025/09/audio-jlpt-n5-past-test-july-2013-real-exam-verbal-expressions.mp3",
+    "https://nihonez.com/wp-content/uploads/2025/09/audio-jlpt-n5-past-test-july-2013-real-exam-quick-response.mp3"
+  ]
+}

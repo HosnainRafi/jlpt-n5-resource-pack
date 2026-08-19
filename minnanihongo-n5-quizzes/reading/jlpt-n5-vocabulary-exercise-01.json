@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "quiz_id": "crawl-0f812a62c528",
+    "slug": "jlpt-n5-vocabulary-exercise-01",
+    "title": "JLPT N5 – Vocabulary Exercise 01",
+    "level": "N5",
+    "categories": [
+      "reading",
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-01",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 30,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "_______ 、えいがをみにいきませんか？",
+      "choices": [
+        "ゆうべ",
+        "きのう",
+        "あした",
+        "おととい"
+      ],
+      "correct_answer": "あした",
+      "explanation": "あした 、えいがをみにいきませんか？"
+    },
+    {
+      "question_number": 2,
+      "prompt": "わたしはいつも _______ をききながらべんきょうします。",
+      "choices": [
+        "ぺん",
+        "ラジオ",
+        "テーブル",
+        "ストーブ"
+      ],
+      "correct_answer": "ラジオ",
+      "explanation": "わたしはいつも ラジオ をききながらべんきょうします。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "わたしのすきなのみものは _______ です。",
+      "choices": [
+        "おかし",
+        "こうちゃ",
+        "みかん",
+        "ねこ"
+      ],
+      "correct_answer": "こうちゃ",
+      "explanation": "わたしのすきなのみものは こうちゃ です。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "わたしはじてんしゃを _______ もっています。",
+      "choices": [
+        "にだい",
+        "にさつ",
+        "にほん",
+        "にまい"
+      ],
+      "correct_answer": "にだい",
+      "explanation": "わたしはじてんしゃを にだい もっています。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "この _______ じしょはだれのですか？",
+      "choices": [
+        "ほそい",
+        "まるい",
+        "みじかい",
+        "ちいさい"
+      ],
+      "correct_answer": "ちいさい",
+      "explanation": "この ちいさい じしょはだれのですか？"
+    },
+    {
+      "question_number": 6,
+      "prompt": "ちちはことし80さいですが、_______ です。",
+      "choices": [
+        "げんき",
+        "けっこう",
+        "ざんねん",
+        "かんたん"
+      ],
+      "correct_answer": "げんき",
+      "explanation": "ちちはことし80さいですが、 げんき です。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "あめがふっています。みんなかさを _______ います。",
+      "choices": [
+        "あけて",
+        "あげて",
+        "さして",
+        "つけて"
+      ],
+      "correct_answer": "さして",
+      "explanation": "あめがふっています。みんなかさを さして います。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "がくせいたちはきょうしつでやまだせんせいににほんごを _______ います。",
+      "choices": [
+        "ならって",
+        "つくって",
+        "おぼえて",
+        "べんきょうして"
+      ],
+      "correct_answer": "ならって",
+      "explanation": "がくせいたちはきょうしつでやまだせんせいににほんごを ならって います。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "やまださんはあかいぼうしを _______ います。",
+      "choices": [
+        "きて",
+        "しめて",
+        "はいって",
+        "かぶって"
+      ],
+      "correct_answer": "かぶって",
+      "explanation": "やまださんはあかいぼうしを かぶって います。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "やまださんはたいていおふろにはいって、_______ ねます。",
+      "choices": [
+        "ちょうど",
+        "すぐに",
+        "まだ",
+        "だんだん"
+      ],
+      "correct_answer": "すぐに",
+      "explanation": "やまださんはたいていおふろにはいって、 すぐに ねます。"
+    }
+  ]
+}

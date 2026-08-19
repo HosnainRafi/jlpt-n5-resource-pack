@@ -1,0 +1,1068 @@
+{
+  "meta": {
+    "slug": "n5-mock-5",
+    "source": "https://www.minnanihongo.com/jlpt-mock-tests/n5-mock-5",
+    "title": "JLPT N5 Mock Test 5",
+    "level": "N5",
+    "sections": [
+      {
+        "id": "n5-mock-5-vocab-1",
+        "category": "vocab",
+        "sectionOrder": 1,
+        "durationMinutes": 20,
+        "questionCount": 21
+      },
+      {
+        "id": "n5-mock-5-grammar_reading-2",
+        "category": "grammar_reading",
+        "sectionOrder": 2,
+        "durationMinutes": 40,
+        "questionCount": 22
+      },
+      {
+        "id": "n5-mock-5-listening-3",
+        "category": "listening",
+        "sectionOrder": 3,
+        "durationMinutes": 30,
+        "questionCount": 24
+      }
+    ],
+    "pass_criteria": {
+      "level": "N5",
+      "totalMinScore": 80,
+      "totalMaxScore": 180,
+      "sections": [
+        {
+          "key": "languageKnowledgeReading",
+          "minScore": 38,
+          "maxScore": 120
+        },
+        {
+          "key": "listening",
+          "minScore": 19,
+          "maxScore": 60
+        }
+      ],
+      "isEstimated": true
+    },
+    "extracted": "2026-08-19",
+    "note": "Answer keys are not exposed to guest sessions; questions, transcripts, audio and images are included."
+  },
+  "sections": {
+    "n5-mock-5-vocab-1": {
+      "category": "vocab",
+      "duration_minutes": 20,
+      "question_count": 21,
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "kanji_reading",
+          "prompt": "アパートの\nお<u>金</u>を\nはらってください。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "かね",
+            "きん",
+            "ぼん",
+            "こん"
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "kanji_reading",
+          "prompt": "このカバンは\nとても\n<u>小さい</u>です。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "ちいさい",
+            "ちくさい",
+            "しょうさい",
+            "すくさい"
+          ]
+        },
+        {
+          "question_number": 3,
+          "question_type": "kanji_reading",
+          "prompt": "<u>電車</u>に\nのって\nうみへ\nいきましょう。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "でんしゃ",
+            "じどうしゃ",
+            "じてんしゃ",
+            "きしゃ"
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "kanji_reading",
+          "prompt": "しゃちょうと\n<u>話して</u>\nきんちょうしました。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "はなして",
+            "うつして",
+            "あらして",
+            "かえして"
+          ]
+        },
+        {
+          "question_number": 5,
+          "question_type": "kanji_reading",
+          "prompt": "だれにも\n<u>言わないで</u>ください。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "いわないで",
+            "あわないで",
+            "かわないで",
+            "とわないで"
+          ]
+        },
+        {
+          "question_number": 6,
+          "question_type": "kanji_reading",
+          "prompt": "<u>今</u>の\nじかんを\nおしえてください。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "いま",
+            "ひま",
+            "しま",
+            "こん"
+          ]
+        },
+        {
+          "question_number": 7,
+          "question_type": "kanji_reading",
+          "prompt": "あなたの\nいぬは\n<u>元気</u>ですか。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "げんき",
+            "てんき",
+            "でんき",
+            "けんき"
+          ]
+        },
+        {
+          "question_number": 8,
+          "question_type": "orthography",
+          "prompt": "おまつりには\n<u>がくせい</u>が\nたくさんいます。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "学生",
+            "字生",
+            "学正",
+            "字正"
+          ]
+        },
+        {
+          "question_number": 9,
+          "question_type": "orthography",
+          "prompt": "こどもが\nうまれてから\nきょうで\n20<u>ねん</u>です。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "年",
+            "生",
+            "月",
+            "日"
+          ]
+        },
+        {
+          "question_number": 10,
+          "question_type": "orthography",
+          "prompt": "あなたは\n<u>じぶん</u>の\nことが\nすきですか。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "自分",
+            "自父",
+            "自男",
+            "自合"
+          ]
+        },
+        {
+          "question_number": 11,
+          "question_type": "orthography",
+          "prompt": "ナタリーさんが\n<u>にほんご</u>で\nはなしています。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "日本語",
+            "日本読",
+            "日本調",
+            "日本諮"
+          ]
+        },
+        {
+          "question_number": 12,
+          "question_type": "orthography",
+          "prompt": "ふたりの\n<u>おとこ</u>の\nひとが\nこちらを\nみています。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "男",
+            "昌",
+            "分",
+            "思"
+          ]
+        },
+        {
+          "question_number": 13,
+          "question_type": "context_defined_expressions",
+          "prompt": "（　）が\nあるから\nすずしいでしょう？",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "エアコン",
+            "カレンダー",
+            "テーブル",
+            "コンセント"
+          ]
+        },
+        {
+          "question_number": 14,
+          "question_type": "context_defined_expressions",
+          "prompt": "ふうとうに\n（　）を\nはりましょう。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-V-CDE-5.2.jpg",
+          "choices": [
+            "きって",
+            "ハサミ",
+            "ホッチキス",
+            "じょうぎ"
+          ]
+        },
+        {
+          "question_number": 15,
+          "question_type": "context_defined_expressions",
+          "prompt": "わたしと\n（　）で\nどうがを\nみましょう！",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "スマホ",
+            "スプーン",
+            "おかし",
+            "かばん"
+          ]
+        },
+        {
+          "question_number": 16,
+          "question_type": "context_defined_expressions",
+          "prompt": "かわで\n（　）をして\nさかなを\nつかまえた。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "つり",
+            "りょうり",
+            "べんきょう",
+            "うんどう"
+          ]
+        },
+        {
+          "question_number": 17,
+          "question_type": "context_defined_expressions",
+          "prompt": "のどが\nかわいたから\nのみものを\n（　）です。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "のみたい",
+            "よみたい",
+            "はしりたい",
+            "のりたい"
+          ]
+        },
+        {
+          "question_number": 18,
+          "question_type": "context_defined_expressions",
+          "prompt": "かれは\nビールが\nすきだから\n（　）\nのんでいる。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "いつも",
+            "ぜんぜん",
+            "すこしも",
+            "まったく"
+          ]
+        },
+        {
+          "question_number": 19,
+          "question_type": "paraphrase",
+          "prompt": "<u>へいじつは\nしごとが\nとても\nいそがしい。</u>",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "げつようびは||しごとが||とても||いそがしい。",
+            "どようびは||しごとが||とても||いそがしい。",
+            "にちようびは||しごとが||とても||いそがしい。",
+            "しゅうまつは||しごとが||とても||いそがしい。"
+          ]
+        },
+        {
+          "question_number": 20,
+          "question_type": "paraphrase",
+          "prompt": "<u>きのうは\nりょうしんと\nよるごはんを\nたべました。</u>",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "きのうは||おとうさんとおかあさんと||よるごはんを||たべました。",
+            "きのうは||おとうさんとおねえさんと||よるごはんを||たべました。",
+            "きのうは||おにいさんとおかあさんと||よるごはんを||たべました。",
+            "きのうは||おにいさんとおねえさんと||よるごはんを||たべました。"
+          ]
+        },
+        {
+          "question_number": 21,
+          "question_type": "paraphrase",
+          "prompt": "<u>きせつの\nなかで\nふゆが\nいちばん\nきらいです。</u>",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "きせつの||なかで||さむいきせつが||いちばん||きらいです。",
+            "きせつの||なかで||あついきせつが||いちばん||きらいです。",
+            "きせつの||なかで||あたたかいきせつが||いちばん||きらいです。",
+            "きせつの||なかで||あかるいきせつが||いちばん||きらいです。"
+          ]
+        }
+      ]
+    },
+    "n5-mock-5-grammar_reading-2": {
+      "category": "grammar_reading",
+      "duration_minutes": 40,
+      "question_count": 22,
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "sentential_grammar_1",
+          "prompt": "スーパーで\nのみもの（　）\n買（か）う。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "を",
+            "が",
+            "に",
+            "へ"
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "sentential_grammar_1",
+          "prompt": "Ａ：「あなたは\n（　）\n国（くに）へ\n行（い）きますか。」<br>Ｂ：「アメリカへ\n行（い）きます。」",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "どの",
+            "どれ",
+            "いつ",
+            "なに"
+          ]
+        },
+        {
+          "question_number": 3,
+          "question_type": "sentential_grammar_1",
+          "prompt": "スーパーで\nぎゅうにゅう（　）\nぎゅうにくを\nかった。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "や",
+            "も",
+            "を",
+            "に"
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "sentential_grammar_1",
+          "prompt": "医者（いしゃ）：「どうしましたか？」<br>子供（こども）：「（　）。」<br>医者（いしゃ）：「そうですか。」",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "あたまがいたいです",
+            "あたまをありません",
+            "あたまがきらいです",
+            "あたまもあります"
+          ]
+        },
+        {
+          "question_number": 5,
+          "question_type": "sentential_grammar_1",
+          "prompt": "その\n入口（いりぐち）（　）\n入（はい）ってください。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "から",
+            "へ",
+            "に",
+            "まえ"
+          ]
+        },
+        {
+          "question_number": 6,
+          "question_type": "sentential_grammar_1",
+          "prompt": "Ａ：「今日（きょう）は\nさむいです。」<br>Ｂ：「ええ、でも、今日（きょう）（　）\n昨日（きのう）のほうが\nさむかったです。」",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "より",
+            "ので",
+            "から",
+            "まで"
+          ]
+        },
+        {
+          "question_number": 7,
+          "question_type": "sentential_grammar_1",
+          "prompt": "Ａ：「公園（こうえん）は\nどこですか。」<br>Ｂ：「（　）。」<br>Ａ：「ありがとうございます。」",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "公園（こうえん）は||そこにあります",
+            "公園（こうえん）は||ありません",
+            "公園（こうえん）が||すきです",
+            "公園（こうえん）を||あるきます"
+          ]
+        },
+        {
+          "question_number": 8,
+          "question_type": "sentential_grammar_1",
+          "prompt": "（店（みせ）で）<br>店員（てんいん）：「何（なに）を\n探（さが）していますか。」<br>お客（きゃく）さん：「（　）\nありますか。」<br>店員（てんいん）：「はい、ありますよ。」",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "ペンとノートは",
+            "ペンとノートと",
+            "ペンとノートか",
+            "ペンもノートは"
+          ]
+        },
+        {
+          "question_number": 9,
+          "question_type": "sentential_grammar_1",
+          "prompt": "テストの\nてん（　）\nわるかった。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "が",
+            "に",
+            "へ",
+            "を"
+          ]
+        },
+        {
+          "question_number": 10,
+          "question_type": "sentential_grammar_2",
+          "prompt": "Ａ：「学校（がっこう）\n[][][x][]\n行（い）って\nいますか。」<br>Ｂ：「わたしは\nバスで\n行（い）って\nいます。」",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "何（なに）",
+            "へ",
+            "で",
+            "は"
+          ]
+        },
+        {
+          "question_number": 11,
+          "question_type": "sentential_grammar_2",
+          "prompt": "Ａ：「あの人（ひと）\n[][][x][]\nいますか。」<br>Ｂ：「あそこの\nこうえんに\nいます。」",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "どこ",
+            "は",
+            "に",
+            "今（いま）"
+          ]
+        },
+        {
+          "question_number": 12,
+          "question_type": "sentential_grammar_2",
+          "prompt": "友達（ともだち）1：「あなたは\n旅行（りょこう）\n[][][x][]\nすきですか。」<br>友達（ともだち）2：「はい。とても\nすきです。」",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "の",
+            "が",
+            "を",
+            "する"
+          ]
+        },
+        {
+          "question_number": 13,
+          "question_type": "sentential_grammar_2",
+          "prompt": "お母（かあ）さん：「これから\n何（なに）を\nしますか。」<br>お父（とう）さん：「魚（さかな）\n[][][x][]\nつもりです。」",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "に",
+            "いく",
+            "を",
+            "かい"
+          ]
+        },
+        {
+          "question_number": 14,
+          "question_type": "text_grammar",
+          "prompt": "<u>A</u>",
+          "context": "日本（にほん）で\nべんきょうしている\n学生（がくせい）が「すきな\nきせつ」の\nぶんしょうを\n書（か）いて、クラスの\nみんなの\n前（まえ）で\n読（よ）みました。<br>\n(1)　カケルさんの\nぶんしょう<br>\n<blockquote>\n　わたしは\n夏（なつ）が\nすきです。プールが\nすき<u>A</u>です。日本（にほん）の\n夏（なつ）は\nカナダの\n夏（なつ）<u>B</u>あついです。でも、わたしは\n夏（なつ）が\nだいすきです。\n</blockquote>",
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "だから",
+            "なので",
+            "でも",
+            "ですが"
+          ]
+        },
+        {
+          "question_number": 15,
+          "question_type": "text_grammar",
+          "prompt": "<u>B</u>",
+          "context": "日本（にほん）で\nべんきょうしている\n学生（がくせい）が「すきな\nきせつ」の\nぶんしょうを\n書（か）いて、クラスの\nみんなの\n前（まえ）で\n読（よ）みました。<br>\n(1)　カケルさんの\nぶんしょう<br>\n<blockquote>\n　わたしは\n夏（なつ）が\nすきです。プールが\nすき<u>A</u>です。日本（にほん）の\n夏（なつ）は\nカナダの\n夏（なつ）<u>B</u>あついです。でも、わたしは\n夏（なつ）が\nだいすきです。\n</blockquote>",
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "より",
+            "も",
+            "を",
+            "でも"
+          ]
+        },
+        {
+          "question_number": 16,
+          "question_type": "text_grammar",
+          "prompt": "<u>A</u>",
+          "context": "日本（にほん）で\nべんきょうしている\n学生（がくせい）が「すきな\nきせつ」の\nぶんしょうを\n書（か）いて、クラスの\nみんなの\n前（まえ）で\n読（よ）みました。<br>\n(2)　ヤマさんの\nぶんしょう<br>\n<blockquote>\n　わたしは\n冬（ふゆ）が\nすきです。冬（ふゆ）は\nスキー<u>A</u>おんせんに\n行（い）きます。明日（あした）は\nちかくの\n山（やま）で\nスキーを<u>B</u>です。とても\nたのしみです。\n</blockquote>",
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "や",
+            "が",
+            "を",
+            "も"
+          ]
+        },
+        {
+          "question_number": 17,
+          "question_type": "text_grammar",
+          "prompt": "<u>B</u>",
+          "context": "日本（にほん）で\nべんきょうしている\n学生（がくせい）が「すきな\nきせつ」の\nぶんしょうを\n書（か）いて、クラスの\nみんなの\n前（まえ）で\n読（よ）みました。<br>\n(2)　ヤマさんの\nぶんしょう<br>\n<blockquote>\n　わたしは\n冬（ふゆ）が\nすきです。冬（ふゆ）は\nスキー<u>A</u>おんせんに\n行（い）きます。明日（あした）は\nちかくの\n山（やま）で\nスキーを<u>B</u>です。とても\nたのしみです。\n</blockquote>",
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "するつもり",
+            "しません",
+            "しましょうか",
+            "しないでください"
+          ]
+        },
+        {
+          "question_number": 18,
+          "question_type": "comprehension_short",
+          "prompt": "ただしい\nものは\nどれですか。",
+          "context": "アパートに\n住（す）んでいる\n人（ひと）が\nこの\n紙（かみ）を\n見（み）ました。",
+          "script": null,
+          "audio_url": "",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-R-CS-5.1.png",
+          "choices": [
+            "明後日（あさって）の||あさは||エレベーターが||つかえます。",
+            "明日（あした）は||あさも||よるも||エレベーターが||つかえます。",
+            "明後日（あさって）は||かいだんを||つかえません。",
+            "エレベーターは||ずっと||つかえません。"
+          ]
+        },
+        {
+          "question_number": 19,
+          "question_type": "comprehension_short",
+          "prompt": "お母（かあ）さんは\n今日（きょう）、何（なに）を\nしましたか。",
+          "context": "お母（かあ）さんは\n今日（きょう）、新（あたら）しい\nズボンを\n買（か）いました。そのズボンは\n青（あお）い\n色（いろ）で、きれいです。白（しろ）の\nくつと\nよく\n合（あ）います。いい\n買（か）い物（もの）\nだったと\n思（おも）います。",
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "青（あお）い||ズボンを||買（か）いました。",
+            "白（しろ）い||ズボンを||買（か）いました。",
+            "青（あお）い||くつを||買（か）いました。",
+            "白（しろ）い||くつを||買（か）いました。"
+          ]
+        },
+        {
+          "question_number": 20,
+          "question_type": "comprehension_mid",
+          "prompt": "どうして\nおにぎりを\n<u>三（みっ）つに\nしました</u>か。",
+          "context": "今日（きょう）は\n会社（かいしゃ）に\n行（い）く\n前（まえ）に\nコンビニで\nお昼（ひる）ごはんを\n買（か）いました。今日（きょう）は\n朝（あさ）ごはんを\n食（た）べませんでした。<br>\n　コンビニでは\nおにぎりを\n三（みっ）つ\n買（か）いました。いつもは\n二（ふた）つ\nですが、今日（きょう）は\nおなかが\n空（す）いていたので、<u>三（みっ）つに\nしました</u>。<br>\n　会社（かいしゃ）に\nついてから\n気（き）づきましたが、お茶（ちゃ）を\n買（か）うのを\nわすれました。なので、お昼（ひる）は\n会社（かいしゃ）の\nコンビニで\nお茶（ちゃ）を\n買（か）います。",
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "朝（あさ）ごはんを||食（た）べなかったから",
+            "おにぎりが||すきだから",
+            "お昼（ひる）ごはんは||いつも||たくさん||食（た）べるから",
+            "会社（かいしゃ）の||コンビニに||おにぎりが||ないから"
+          ]
+        },
+        {
+          "question_number": 21,
+          "question_type": "comprehension_mid",
+          "prompt": "今日（きょう）は\nなぜ\n会社（かいしゃ）の\nコンビニに\n行（い）きますか。",
+          "context": "今日（きょう）は\n会社（かいしゃ）に\n行（い）く\n前（まえ）に\nコンビニで\nお昼（ひる）ごはんを\n買（か）いました。今日（きょう）は\n朝（あさ）ごはんを\n食（た）べませんでした。<br>\n　コンビニでは\nおにぎりを\n三（みっ）つ\n買（か）いました。いつもは\n二（ふた）つ\nですが、今日（きょう）は\nおなかが\n空（す）いていたので、<u>三（みっ）つに\nしました</u>。<br>\n　会社（かいしゃ）に\nついてから\n気（き）づきましたが、お茶（ちゃ）を\n買（か）うのを\nわすれました。なので、お昼（ひる）に\n会社（かいしゃ）の\nコンビニで\n買（か）います。",
+          "script": null,
+          "audio_url": "",
+          "image_url": "",
+          "choices": [
+            "朝（あさ）||お茶（ちゃ）を||買（か）わなかったから",
+            "おにぎりを||三（みっ）つ||買（か）いたいから",
+            "お腹（なか）が||すいているから",
+            "おにぎりが||二（ふた）つしか||ないから"
+          ]
+        },
+        {
+          "question_number": 22,
+          "question_type": "information_retrieval",
+          "prompt": "いつ\nだれが\nおかしを\nもらえますか。",
+          "context": null,
+          "script": null,
+          "audio_url": "",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-R-IR-5.png",
+          "choices": [
+            "7月（がつ）21日（にち）||朝（あさ）9：00の||5さいの||子（こ）ども",
+            "7月（がつ）11日（にち）||朝（あさ）9：30の||0さいの||子（こ）ども",
+            "7月（がつ）28日（にち）||夜（よる）7：00の||8さいの||子（こ）ども",
+            "7月（がつ）26日（にち）||夜（よる）8：00の||14さいの||子（こ）ども"
+          ]
+        }
+      ]
+    },
+    "n5-mock-5-listening-3": {
+      "category": "listening",
+      "duration_minutes": 30,
+      "question_count": 24,
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "task_based_comprehension",
+          "prompt": "1ばん",
+          "context": null,
+          "script": "男の人と女の人が話しています。男の人のお兄さんはどれですか。\n男の人：「あそこにいる人が、私のお兄さんです。」\n女の人：「えっと…あの長いズボンを履いている人ですか？」\n男の人：「いいえ、短いズボンです。」\n女の人：「あ、あの短いズボンにTシャツの人ですね？」\n男の人：「えっと…短いズボンはそうですが、Tシャツじゃない人です。」\n女の人：「あぁ〜あの人ですね！」\n男の人のお兄さんはどれですか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-TBC-5.1.mp3",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-L-TBC-5.1.jpg",
+          "choices": [
+            "①",
+            "②",
+            "③",
+            "④"
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "task_based_comprehension",
+          "prompt": "2ばん",
+          "context": null,
+          "script": "彼女と彼氏が話しています。鍵の番号はどれですか。\n彼女：「あら…鍵の番号を忘れました。あなたは番号を覚えていますか。」\n彼氏：「覚えている。最初が１で次が７。」\n彼女：「最初が１で次が７ね。」\n彼氏：「そう。次が、３で２…あ、いや違う。次が２でその次が３だ。」\n鍵の番号はどれですか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-TBC-5.2.mp3",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-L-TBC-5.2.jpg",
+          "choices": [
+            "①",
+            "②",
+            "③",
+            "④"
+          ]
+        },
+        {
+          "question_number": 3,
+          "question_type": "task_based_comprehension",
+          "prompt": "3ばん",
+          "context": null,
+          "script": "女の人が話しています。女の人の誕生日はいつですか。\n女の人：「１２月は私の誕生日です。誕生日のパーティーは、誕生日の二日前にやります。誕生日の次の日は、デパートで買い物をするつもりです。誕生日のパーティーは１２月６日で、買い物は１２月９日です。」\n女の人の誕生日はいつですか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-TBC-5.3.mp3",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-L-TBC-5.3.jpg",
+          "choices": [
+            "①",
+            "②",
+            "③",
+            "④"
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "task_based_comprehension",
+          "prompt": "4ばん",
+          "context": null,
+          "script": "男の人と女の人が話しています。引き出しの中の絵で正しいものはどれですか。\n男の人：「引き出しにペンと消しゴムと紙が入っていますね。」\n女の人：「ええ、消しゴムもペンも紙も三つありますよ。」\n男の人「え？それは4本ありますよ。」\n女の人：「あ、本当ですね！4本ありました。」\n引き出しの中の絵で正しいものはどれですか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-TBC-5.4.mp3",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-L-TBC-5.4.jpg",
+          "choices": [
+            "①",
+            "②",
+            "③",
+            "④"
+          ]
+        },
+        {
+          "question_number": 5,
+          "question_type": "task_based_comprehension",
+          "prompt": "5ばん",
+          "context": null,
+          "script": "お母さんとお父さんが話しています。二人は何時に家を出ますか。\nお母さん：「今日は一緒にレストランに行きましょう。」\nお父さん：「いいね、何時にレストランへ行く？あのレストランは5時30分からやっているね。」\nお母さん：「ええ。その時間にレストランに着きたいね。」\nお父さん：「じゃあ、その15分前に家を出ましょう。」\n二人は何時に家を出ますか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-TBC-5.5.mp3",
+          "image_url": "",
+          "choices": [
+            "5じ||15ふん",
+            "5じ||30ぷん",
+            "5じ||00ふん",
+            "5じ||25ふん"
+          ]
+        },
+        {
+          "question_number": 6,
+          "question_type": "task_based_comprehension",
+          "prompt": "6ばん",
+          "context": null,
+          "script": "女の学生と男の学生が話しています。先生の電話の番号は何ですか。\n女の学生：「先生の電話の番号を知っていますか。」\n男の学生：「ええ、知っていますよ。えっと…05の3931の0501です。」\n女の学生：「えっと…05の3991の0551ですか？」\n男の学生：「いいえ。05の3931の0501です。」\n女の学生：「ああ…3931の0501ですね。」\n先生の電話の番号は何ですか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-TBC-5.6.mp3",
+          "image_url": "",
+          "choices": [
+            "05-3931-0501",
+            "05-3991-0551",
+            "05-3991-0501",
+            "05-3931-0551"
+          ]
+        },
+        {
+          "question_number": 7,
+          "question_type": "task_based_comprehension",
+          "prompt": "7ばん",
+          "context": null,
+          "script": "お父さんと子供が話しています。今、お父さんと子供は犬を何匹飼っていますか。\nお父さん：「犬にご飯をあげた？」\n子供：「一匹にはあげたけど、二匹にはまだあげてない。」\nお父さん：「そうか、じゃあお父さんがあと二匹にご飯をあげるよ。」\n子供：「ありがとう。あとで全部の犬と一緒に散歩をするね。」\nお父さん：「うん、お願いします。」\nお父さんと子供は、犬を何匹飼っていますか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-TBC-5.7.mp3",
+          "image_url": "",
+          "choices": [
+            "3びき",
+            "2ひき",
+            "1ぴき",
+            "4ひき"
+          ]
+        },
+        {
+          "question_number": 8,
+          "question_type": "point_comprehension",
+          "prompt": "1ばん",
+          "context": null,
+          "script": "学校で男の学生と女の学生が話しています。男の学生はどの国へ行ったことがありますか。\n女の学生：「私はこれからアメリカに行きます。」\n男の学生：「アメリカですか。いいですね。私は行ったことがありません。私は、これからカナダへ行きます。」\n女の学生：「カナダもいいですね。あ、イギリスもいいですよ、楽しかったです。」\n男の人：「そうなんですね。私は、インドが良かったです。とてもご飯が美味しくて、楽しかったです。」\n女の人：「今度行きたいです！」\n男の学生はどの国へ行ったことがありますか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-PC-5.1.mp3",
+          "image_url": "",
+          "choices": [
+            "アメリカ",
+            "イギリス",
+            "インド",
+            "カナダ"
+          ]
+        },
+        {
+          "question_number": 9,
+          "question_type": "point_comprehension",
+          "prompt": "2ばん",
+          "context": null,
+          "script": "お父さんと子供が話しています。お父さんが一番好きなものは何ですか。\n子供：「お父さんはお酒が大好きだね。いつもビールやワインを飲んでいる。」\nお父さん：「まあね。ビールよりワインの方が好きだよ。」\n子供：「そうなんだ。ワインとタバコはどっちの方が好き？」\nお父さん：「うーん…ワインだね。でも、一番好きなのはお金だ。」\n子供：「そうなんだ〜。えっと…ビールとタバコは？」\nお父さん：「ビールの方が好きだよ。タバコはあまり好きじゃない。」\nお父さんが一番好きなものは何ですか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-PC-5.2.mp3",
+          "image_url": "",
+          "choices": [
+            "タバコ",
+            "おかね",
+            "ビール",
+            "ワイン"
+          ]
+        },
+        {
+          "question_number": 10,
+          "question_type": "point_comprehension",
+          "prompt": "3ばん",
+          "context": null,
+          "script": "家でお兄さんとお姉さんが話しています。お姉さんはどの国へ行ったことがありますか。\nお兄さん：「お帰りなさい！アメリカはどうだった？」\nお姉さん：「すごく楽しかったよ！」\nお兄さん：「英語はどうだった？難しかった？」\nお姉さん：「前にカナダへ行ったから、大丈夫だった。」\nお兄さん：「そうなんだ。すごいね！」\nお姉さん：「ありがとう！次はイギリスへ行きたいな。」\nお姉さんはどの国へ行ったことがありますか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-PC-5.3.mp3",
+          "image_url": "",
+          "choices": [
+            "アメリカ",
+            "カナダ",
+            "アメリカとカナダ",
+            "イギリス"
+          ]
+        },
+        {
+          "question_number": 11,
+          "question_type": "point_comprehension",
+          "prompt": "4ばん",
+          "context": null,
+          "script": "女の人と男の人が話しています。女の人は何で東京へ行きますか。\n男の人：「明日は何をしますか。」\n女の人：「明日は大阪から東京へ行きます。」\n男の人：「そうなんですね！飛行機ですか？」\n女の人：「いいえ、飛行機より遅いです。」\n男の人：「うーん…船ですか？」\n女の人：「船より小さいです。」\n男の人：「電車ですか？」\n女の人：「バスです。バスで東京へ行きます。」\n男の人：「そうなんですね！大変ですね。行ってらっしゃい！」\n女の人️️：「行ってきます！」\n女の人は何で東京へ行きますか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-PC-5.4.mp3",
+          "image_url": "",
+          "choices": [
+            "ひこうき",
+            "でんしゃ",
+            "バス",
+            "ふね"
+          ]
+        },
+        {
+          "question_number": 12,
+          "question_type": "point_comprehension",
+          "prompt": "5ばん",
+          "context": null,
+          "script": "おじいさんとおばあさんが話しています。二人はいつ動物園へ行きますか。\nおじいさん：「昨日はデパートへ行きましたね。」\nおばあさん：「はい、楽しかったですね。今日のスーパーも楽しかったです。ご飯が安かったです。」\nおじいさん：「あしたはどうしますか？」\nおばあさん：「明後日は動物園へ行きます。だから、明日は家で休みましょう。」\nおじいさん：「分かりました。」\n二人はいつ動物園へ行きますか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-PC-5.5.mp3",
+          "image_url": "",
+          "choices": [
+            "あさって",
+            "あした",
+            "きょう",
+            "きのう"
+          ]
+        },
+        {
+          "question_number": 13,
+          "question_type": "point_comprehension",
+          "prompt": "6ばん",
+          "context": null,
+          "script": "男の人と女の人が話しています。女の人はいつも何を飲みますか。\n女の人：「コップの中は何ですか？」\n男の人：「水ですよ。」\n女の人：「いつも水を飲みますか。」\n男の人：「ジュースが好きですが、いつもはお茶を飲みます。」\n女の人：「私もそうです。でも、私が一番好きな飲み物はコーヒーです。コーヒーは、たまに飲みます。」\n男の人：「僕も、コーヒーをたまに飲みますよ。」\n女の人はいつも何を飲みますか。",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-PC-5.6.mp3",
+          "image_url": "",
+          "choices": [
+            "みず",
+            "おちゃ",
+            "コーヒー",
+            "ジュース"
+          ]
+        },
+        {
+          "question_number": 14,
+          "question_type": "utterance",
+          "prompt": "1ばん",
+          "context": null,
+          "script": "約束の時間より遅く公園に着きました。何と言いますか。\n①「さようなら。」\n②「ごめんなさい。」\n③「行ってきます。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-U-5.1.mp3",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-L-U-5.1.jpg",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 15,
+          "question_type": "utterance",
+          "prompt": "2ばん",
+          "context": null,
+          "script": "友達に電話をしました。友達のお母さんが出ました。何と言いますか。\n①「タケシ君と話しましょう。」\n②「タケシ君を呼びませんか。」\n③「タケシ君と話したいです。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-U-5.2.mp3",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-L-U-5.2.jpg",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 16,
+          "question_type": "utterance",
+          "prompt": "3ばん",
+          "context": null,
+          "script": "レストランで店員さんを呼びます。何と言いますか。\n①「すみません。」\n②「はじめまして。」\n③「おはようございます。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-U-5.3.mp3",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-L-U-5.3.jpg",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 17,
+          "question_type": "utterance",
+          "prompt": "4ばん",
+          "context": null,
+          "script": "友達に飴をあげます。何と言いますか。\n①「これはどんな飴ですか。」\n②「飴、いかがですか。」\n③「飴、あげませんか。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-U-5.4.mp3",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-L-U-5.4.jpg",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 18,
+          "question_type": "utterance",
+          "prompt": "5ばん",
+          "context": null,
+          "script": "これから寝ます。お母さんに何と言いますか。\n①「行ってきます。」\n②「おやすみ。」\n③「ただいま。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-U-5.5.mp3",
+          "image_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/images/N5-L-U-5.5.jpg",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 19,
+          "question_type": "quick_response",
+          "prompt": "1ばん",
+          "context": null,
+          "script": "消しゴムがありません。消しゴムを貸してください。\n①「どういたしまして。」\n②「はい、どうぞ。」\n③「ありがとうございます。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-QR-5.1.mp3",
+          "image_url": "",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 20,
+          "question_type": "quick_response",
+          "prompt": "2ばん",
+          "context": null,
+          "script": "明日、アメリカへ行きますね。何時に飛行機に乗りますか。\n①「はい、飛行機ですよ。」\n②「夜の8時です。」\n③「12時間くらいです。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-QR-5.2.mp3",
+          "image_url": "",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 21,
+          "question_type": "quick_response",
+          "prompt": "3ばん",
+          "context": null,
+          "script": "この花をあなたに買いました。どうぞ。\n①「ありがとうございます。」\n②「どういたしまして。」\n③「これはあなたの花です。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-QR-5.3.mp3",
+          "image_url": "",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 22,
+          "question_type": "quick_response",
+          "prompt": "4ばん",
+          "context": null,
+          "script": "高田さん、その荷物を持ちましょうか。\n①「持ちませんでした。」\n②「どういたしまして。」\n③「ありがとうございます。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-QR-5.4.mp3",
+          "image_url": "",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 23,
+          "question_type": "quick_response",
+          "prompt": "5ばん",
+          "context": null,
+          "script": "図書館はどこにありますか。\n①「図書館は大きいです。」\n②「あれが図書館です。」\n③「その図書館は人気があります。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-QR-5.5.mp3",
+          "image_url": "",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        },
+        {
+          "question_number": 24,
+          "question_type": "quick_response",
+          "prompt": "6ばん",
+          "context": null,
+          "script": "その映画を見ませんか。\n①「お元気ですか。」\n②「土曜日です。」\n③「「そうしましょう。」",
+          "audio_url": "https://d2o2t59m50yv2e.cloudfront.net/mock_tests/audio/N5A-L-QR-5.6.mp3",
+          "image_url": "",
+          "choices": [
+            "①",
+            "②",
+            "③"
+          ]
+        }
+      ]
+    }
+  }
+}

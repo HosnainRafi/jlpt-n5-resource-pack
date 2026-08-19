@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-a390a10f60e9",
+    "slug": "jlpt-n5-grammar-exercise-25",
+    "title": "JLPT N5 – Grammar Exercise 25",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-25",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "妹さんは _______ _______ …★… _______ か。",
+      "choices": [
+        "べんきょうして",
+        "います",
+        "だいがくで",
+        "どこの"
+      ],
+      "correct_answer": "べんきょうして",
+      "explanation": null
+    },
+    {
+      "question_number": 2,
+      "prompt": "時間が _______ _______ …★… _______ 。",
+      "choices": [
+        "から",
+        "行きましょう",
+        "タクシーで",
+        "ありません"
+      ],
+      "correct_answer": "タクシーで",
+      "explanation": null
+    },
+    {
+      "question_number": 3,
+      "prompt": "しけんは _______ _______ …★… _______ でした。",
+      "choices": [
+        "から",
+        "ぜんぜん",
+        "むずかしかった",
+        "できません"
+      ],
+      "correct_answer": "ぜんぜん",
+      "explanation": null
+    },
+    {
+      "question_number": 4,
+      "prompt": "まっすぐいくと _______ _______ …★… _______ そこで肉を買ってください。",
+      "choices": [
+        "スーパーが",
+        "左側に",
+        "から",
+        "あります"
+      ],
+      "correct_answer": "あります",
+      "explanation": null
+    },
+    {
+      "question_number": 5,
+      "prompt": "男１ 「これから、田中さん _______ _______ …★… _______ 行きます。キムさんもいっしょにどうですか。」 男２ 「えっ、いいですか。お願いします。」 飲みに お店へ 近くの と 「１」から「５」に何を入れますか。１・２・３・４からいちばんいいものを一つえらんでください。",
+      "choices": [
+        "わたしはおうです。中国から来ました。けんしゅうせいです。わたしのへやは４０３です。４かいにあります。「１」が、きれいです。",
+        "センターにしょくどうがあります。いろいろなりょうりがあります。ちゅうかりょうりもあります。",
+        "わたしはまいにちセンターの「２」ごはんを食べます。とても「３」。",
+        "センターから駅まで「４」１０分です。えきの近くに「５」あります。たいへんにぎやかです。"
+      ],
+      "correct_answer": "センターにしょくどうがあります。いろいろなりょうりがあります。ちゅうかりょうりもあります。",
+      "explanation": null
+    },
+    {
+      "question_number": 6,
+      "prompt": "「１」に何を入れますか。",
+      "choices": [
+        "ちいさいです",
+        "ひろいです",
+        "あかるいです",
+        "にぎやかです"
+      ],
+      "correct_answer": "ちいさいです",
+      "explanation": null
+    },
+    {
+      "question_number": 7,
+      "prompt": "「２」に何を入れますか。",
+      "choices": [
+        "しょくどうに",
+        "しょくどうは",
+        "しょくどうで",
+        "しょくどうへ"
+      ],
+      "correct_answer": "しょくどうで",
+      "explanation": null
+    },
+    {
+      "question_number": 8,
+      "prompt": "「３」に何を入れますか。",
+      "choices": [
+        "おもしろいです",
+        "さむいです",
+        "つまらないです",
+        "おいしいです"
+      ],
+      "correct_answer": "おいしいです",
+      "explanation": null
+    },
+    {
+      "question_number": 9,
+      "prompt": "「４」に何を入れますか。",
+      "choices": [
+        "あるき",
+        "あるいて",
+        "あるいた",
+        "あるく"
+      ],
+      "correct_answer": "あるいて",
+      "explanation": null
+    },
+    {
+      "question_number": 10,
+      "prompt": "「５」に何を入れますか。",
+      "choices": [
+        "デパートやスーパーや",
+        "デパートなどスーパーなど",
+        "デパートがスーパーが",
+        "デパートやスーパーなどが"
+      ],
+      "correct_answer": "デパートやスーパーなどが",
+      "explanation": null
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "quiz_id": "crawl-df07fd77e120",
+    "slug": "jlpt-n5-kanji-exercise-06",
+    "title": "JLPT N5 – Kanji Exercise 06",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 8,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-06",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 8,
+    "score": 38,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "雨",
+      "choices": [
+        "うみ",
+        "かみ",
+        "あめ",
+        "あさ"
+      ],
+      "correct_answer": "あめ",
+      "explanation": "雨: あめ"
+    },
+    {
+      "question_number": 2,
+      "prompt": "外",
+      "choices": [
+        "がい",
+        "そど",
+        "かい",
+        "そと"
+      ],
+      "correct_answer": "そと",
+      "explanation": "外: そと"
+    },
+    {
+      "question_number": 3,
+      "prompt": "家",
+      "choices": [
+        "いえ",
+        "や",
+        "けん",
+        "かん"
+      ],
+      "correct_answer": "いえ",
+      "explanation": "家: いえ"
+    },
+    {
+      "question_number": 4,
+      "prompt": "休み",
+      "choices": [
+        "やすみ",
+        "すすみ",
+        "すみ",
+        "やみ"
+      ],
+      "correct_answer": "やすみ",
+      "explanation": "休み: やすみ"
+    },
+    {
+      "question_number": 5,
+      "prompt": "すいようび",
+      "choices": [
+        "金曜日",
+        "水曜日",
+        "木曜日",
+        "火曜日"
+      ],
+      "correct_answer": "水曜日",
+      "explanation": "すいようび: 水曜日"
+    },
+    {
+      "question_number": 6,
+      "prompt": "たべ",
+      "choices": [
+        "飲べ",
+        "食べ",
+        "館べ",
+        "吸べ"
+      ],
+      "correct_answer": "食べ",
+      "explanation": "たべ: 食べ"
+    },
+    {
+      "question_number": 7,
+      "prompt": "八万円",
+      "choices": [
+        "はちせんえん",
+        "はっせんえん",
+        "はちまんえん",
+        "はっちまんえん"
+      ],
+      "correct_answer": "はちまんえん",
+      "explanation": "八万円: はちまんえん"
+    },
+    {
+      "question_number": 8,
+      "prompt": "入って",
+      "choices": [
+        "はいって",
+        "いって",
+        "はって",
+        "いいって"
+      ],
+      "correct_answer": "はいって",
+      "explanation": "入って: はいって"
+    }
+  ]
+}

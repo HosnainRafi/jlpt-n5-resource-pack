@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-62c4c002795c",
+    "slug": "jlpt-n5-grammar-exercise-12",
+    "title": "JLPT N5 – Grammar Exercise 12",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-12",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "まいにちおふろに _______ からねます。",
+      "choices": [
+        "入り",
+        "入る",
+        "入った",
+        "入って"
+      ],
+      "correct_answer": "入って",
+      "explanation": "まいにちおふろに 入って からねます。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "きのう友達に電話を _______ が、いませんでした。",
+      "choices": [
+        "します",
+        "しました",
+        "して",
+        "する"
+      ],
+      "correct_answer": "しました",
+      "explanation": "きのう友達に電話を しました が、いませんでした。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "土よう日はさんぽ _______ ギターをれんしゅう _______ します。",
+      "choices": [
+        "したり/したり",
+        "しったり/しったり",
+        "して/して",
+        "しいて/しいて"
+      ],
+      "correct_answer": "したり/したり",
+      "explanation": "土よう日はさんぽ したり ギターをれんしゅう したり します。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "このみかんはぜんぶ _______ いくらですか。",
+      "choices": [
+        "を",
+        "の",
+        "で",
+        "に"
+      ],
+      "correct_answer": "で",
+      "explanation": "このみかんはぜんぶ で いくらですか。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "おさけを飲みます ________ ？",
+      "choices": [
+        "に",
+        "と",
+        "か",
+        "は"
+      ],
+      "correct_answer": "か",
+      "explanation": "おさけを飲みます か ？"
+    },
+    {
+      "question_number": 6,
+      "prompt": "きょうは _______ ねます。",
+      "choices": [
+        "はやいに",
+        "はやい",
+        "はやくない",
+        "はやく"
+      ],
+      "correct_answer": "はやく",
+      "explanation": "きょうは はやく ねます。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "本を _______ 前に、このかみに名前を書いてください。",
+      "choices": [
+        "かりて",
+        "かりる",
+        "かりた",
+        "かりない"
+      ],
+      "correct_answer": "かりる",
+      "explanation": "本を かりる 前に、このかみに名前を書いてください。"
+    },
+    {
+      "question_number": 8,
+      "prompt": "わたしは音楽を _______ ながらべんきょうをします。",
+      "choices": [
+        "聞く",
+        "聞か",
+        "聞き",
+        "聞いて"
+      ],
+      "correct_answer": "聞き",
+      "explanation": "わたしは音楽を 聞き ながらべんきょうをします。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "わたしはまいばんこどもが _______ あとで本を読みます。",
+      "choices": [
+        "ねる",
+        "ねた",
+        "ねて",
+        "ねます"
+      ],
+      "correct_answer": "ねた",
+      "explanation": "わたしはまいばんこどもが ねた あとで本を読みます。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "さいふはどこ _______ ありませんでした。",
+      "choices": [
+        "にも",
+        "へも",
+        "にか",
+        "へか"
+      ],
+      "correct_answer": "にも",
+      "explanation": "さいふはどこ にも ありませんでした。"
+    }
+  ]
+}

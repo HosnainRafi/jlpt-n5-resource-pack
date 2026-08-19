@@ -1,0 +1,3665 @@
+{
+  "meta": {
+    "testId": 8692,
+    "title": "JLPT N5 Mock Test – 2010-2011",
+    "url": "https://nihonez.com/jlpt-test/jlpt-n5-mock-test-2010-2011/",
+    "extracted": "2026-08-19T19:22:49.399Z"
+  },
+  "sections": [
+    {
+      "title": "言語知識 （文字 ・語彙 ）",
+      "title_en": "Vocabulary",
+      "duration": 25,
+      "subsections": [
+        {
+          "title": "もんだい１",
+          "description": "もんだい１ ＿＿＿の ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "category": "vocabulary",
+          "question_type": "kanji-reading",
+          "question_from": 1,
+          "question_to": 10
+        },
+        {
+          "title": "もんだい２",
+          "description": "もんだい２　＿＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを ひとつ　えらんで　ください。",
+          "category": "vocabulary",
+          "question_type": "orthography",
+          "question_from": 11,
+          "question_to": 18
+        },
+        {
+          "title": "もんだい３",
+          "description": "もんだい３　（　　　）に　なにが　はいりますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "category": "vocabulary",
+          "question_type": "contextually-defined-expressions",
+          "question_from": 19,
+          "question_to": 28
+        },
+        {
+          "title": "もんだい４",
+          "description": "もんだい４　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを ひとつ　えらんで　ください。",
+          "category": "vocabulary",
+          "question_type": "paraphrases",
+          "question_from": 29,
+          "question_to": 33
+        }
+      ]
+    },
+    {
+      "title": "言語知識（文 法 ）・読 解",
+      "title_en": "Grammar & Reading",
+      "duration": 50,
+      "subsections": [
+        {
+          "title": "もんだい１",
+          "description": "もんだい１（　　　　）に　[何|なに]を　[入|い]れますか。１・２・３・４から いちば　いい　ものを　[一|ひと]つ　えらんで　ください。",
+          "category": "grammar",
+          "question_type": "sentential-grammar-1",
+          "question_from": 1,
+          "question_to": 16
+        },
+        {
+          "title": "もんだい２",
+          "description": "もんだい２　★ に　入る　ものは どれですか。１・２・３・４からひといちばん いい ものを 一つ えらんで ください。",
+          "category": "grammar",
+          "question_type": "sentential-grammar-2",
+          "question_from": 17,
+          "question_to": 21
+        },
+        {
+          "title": "もんだい３",
+          "description": "もんだい3　[14]から[17]に　[何|なに]を　[入|い]れますか。ぶんしょうのいみを かんがえて、1・2・3・4から　いちばん　いい　ものを　[一|ひと]つ　えらんで　ください。",
+          "category": "grammar",
+          "question_type": "text-grammar",
+          "question_from": 22,
+          "question_to": 26
+        },
+        {
+          "title": "もんだい4",
+          "description": "もんだい4　つぎの　(1)から　(3)の　[文章|ぶんしょう]を　[読|よ]んで、[質問|しつもん]に　こたえて　ください。こたえは、1・2・3・4から　いちばん　いい　ものを　[一|ひと]つ　[選|えら]んで　ください。",
+          "category": "reading",
+          "question_type": "comprehension-short",
+          "question_from": 27,
+          "question_to": 29
+        },
+        {
+          "title": "もんだい5",
+          "description": "もんだい5　つぎの　[文章|ぶんしょう]を　[読|よ]んで、[質問|しつもん]に　こたえて　ください。こたえは、1・2・3・4から　いちばん　いい　ものを　[一|ひと]つ　[選|えら]んで　ください。",
+          "category": "reading",
+          "question_type": "comprehension-medium",
+          "question_from": 30,
+          "question_to": 31
+        },
+        {
+          "title": "もんだい6",
+          "description": "もんだい6　[右|みぎ]の　ページを　[見|み]て、[下|した]の　[質問|しつもん]に　こたえて　ください。こたえは、1・2・3・4から　いちばん　いい　ものを　[一|ひと]つ　[選|えら]んで　ください。",
+          "category": "reading",
+          "question_type": "information-retrieval",
+          "question_from": 32,
+          "question_to": 32
+        }
+      ]
+    },
+    {
+      "title": "ちょうかい",
+      "title_en": "Listening",
+      "duration": 30,
+      "subsections": [
+        {
+          "title": "もんだい1",
+          "description": "もんだい1では、はじめに　[質問|しつもん]を　[書|か]いて　ください。それから　はなしを　[書|か]いて、もんだいようしの　1から4の　なかから、いちばん　いい　ものを　ひとつ　[選|えら]んで　ください。",
+          "category": "listening",
+          "question_type": "task-based-comprehension",
+          "question_from": 1,
+          "question_to": 7
+        },
+        {
+          "title": "もんだい2",
+          "description": "もんだい2では、はじめに　[質問|しつもん]を　[書|か]いて　ください。それから　はなしを　[書|か]いて、もんだいようしの　1から4の　なかから、いちばん　いい　ものを　ひとつ　[選|えら]んで　ください。",
+          "category": "listening",
+          "question_type": "comprehension-of-key-points",
+          "question_from": 1,
+          "question_to": 6
+        },
+        {
+          "title": "もんだい3",
+          "description": "もんだい3では、えを　みながら　[質問|しつもん]を　[書|か]いて　ください。rn→　(やじるし)　の　ひとは　なんと　いいますか。1から3の　なかから、いちばん　いい　ものを　ひとつ　[選|えら]んで　ください。",
+          "category": "listening",
+          "question_type": "verbal-expressions",
+          "question_from": 1,
+          "question_to": 5
+        },
+        {
+          "title": "もんだい4",
+          "description": "もんだい4は、えなどが　ありません。[文|ぶん]を　[書|か]いて、1から3の　なかから、いちばん　いい　ものを　ひとつ　[選|えら]んで　ください。",
+          "category": "listening",
+          "question_type": "quick-response",
+          "question_from": 1,
+          "question_to": 6
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "8693",
+      "order": 1,
+      "html": "<span style=\"text-decoration: underline;\">先週</span>　デパートに　かいものに　いきました。",
+      "text": "先週　デパートに　かいものに　いきました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "せんしゅ",
+          "furigana": "せんしゅ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "せんしゅう",
+          "furigana": "せんしゅう",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ぜんしゅ",
+          "furigana": "ぜんしゅ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ぜんしゅう",
+          "furigana": "ぜんしゅう",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 2: せんしゅう is correct.\n\n**Question Translation**  \n「先週 デパートに かいものに いきました。」  \n→ \"I went shopping at a department store last week.\"\n\n**Explanation**  \nThe kanji **先週** is read **せんしゅう**, meaning *last week*. This is the natural reading and meaning in this context.\n\n**Other Options**  \n1. せんしゅ — Missing the long vowel う.  \n3. ぜんしゅ — 先 is read せん, not ぜん.  \n4. ぜんしゅう — Wrong initial sound; 先 = せん.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8694",
+      "order": 2,
+      "html": "ごはんの　<span style=\"text-decoration: underline;\">後</span>で　さんぽ　します。",
+      "text": "ごはんの　後で　さんぽ　します。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "つぎ",
+          "furigana": "つぎ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "うしろ",
+          "furigana": "うしろ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "まえ",
+          "furigana": "まえ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あと",
+          "furigana": "あと",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 4: あと is correct.\n\n**Question Translation**  \n「ごはんの 後で さんぽ します。」  \n→ \"I take a walk after the meal.\"\n\n**Explanation**  \nThe kanji **後** is read **あと** when referring to *time* meaning “after.”\n\n**Other Options**  \n1. つぎ — Means “next,” not a reading of 後.  \n2. うしろ — Means “behind” (spatial).  \n3. まえ — Means “before/in front.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8695",
+      "order": 3,
+      "html": "もう　いちど　<span style=\"text-decoration: underline;\">言って</span>　ください。",
+      "text": "もう　いちど　言って　ください。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "いって",
+          "furigana": "いって",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "きって",
+          "furigana": "きって",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "まって",
+          "furigana": "まって",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "たって",
+          "furigana": "たって",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.5/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 1: いって is correct.\n\n**Question Translation**  \n「もう いちど 言って ください。」  \n→ \"Please say it once more.\"\n\n**Explanation**  \nThe verb **言う（いう）** changes to **言って（いって）** in its て-form. It means “say” or “tell.”\n\n**Other Options**  \n2. きって — From 切る (to cut).  \n3. まって — From 待つ (to wait).  \n4. たって — From 立つ (to stand).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8696",
+      "order": 4,
+      "html": "ちかくに　<span style=\"text-decoration: underline;\">山</span>が　あります。",
+      "text": "ちかくに　山が　あります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "かわ",
+          "furigana": "かわ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "やま",
+          "furigana": "やま",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "いけ",
+          "furigana": "いけ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "うみ",
+          "furigana": "うみ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 2: やま is correct.\n\n**Question Translation**  \n「ちかくに 山が あります。」  \n→ \"There is a mountain nearby.\"\n\n**Explanation**  \nThe kanji **山** is read **やま**, meaning “mountain.”\n\n**Other Options**  \n1. かわ — Means “river.”  \n3. いけ — Means “pond.”  \n4. うみ — Means “sea.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8697",
+      "order": 5,
+      "html": "この　ホテルは　へやが　<span style=\"text-decoration: underline;\">多い</span>です。",
+      "text": "この　ホテルは　へやが　多いです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "すくない",
+          "furigana": "すくない",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "おおい",
+          "furigana": "おおい",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "せまい",
+          "furigana": "せまい",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ひろい",
+          "furigana": "ひろい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 2: おおい is correct.\n\n**Question Translation**  \n「この ホテルは へやが 多いです。」  \n→ \"This hotel has many rooms.\"\n\n**Explanation**  \nThe kanji **多い** is read **おおい**, meaning “many” or “numerous.”\n\n**Other Options**  \n1. すくない — Means “few.”  \n3. せまい — Means “narrow.”  \n4. ひろい — Means “spacious.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8698",
+      "order": 6,
+      "html": "ともだちと　いっしょに　<span style=\"text-decoration: underline;\">学校</span>に　いきます。",
+      "text": "ともだちと　いっしょに　学校に　いきます。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "がこう",
+          "furigana": "がこう",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "がこお",
+          "furigana": "がこお",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "がっこう",
+          "furigana": "がっこう",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "がっこお",
+          "furigana": "がっこお",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 3: がっこう is correct.\n\n**Question Translation**  \n「ともだちと いっしょに 学校に いきます。」  \n→ \"I go to school together with my friend.\"\n\n**Explanation**  \nThe word **学校** is read **がっこう**, meaning “school.”\n\n**Other Options**  \n1. がこう — Missing sokuon (っ).  \n2. がこお — Incorrect vowel.  \n4. がっこお — Incorrect long vowel.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8699",
+      "order": 7,
+      "html": "えんぴつが　<span style=\"text-decoration: underline;\">六本</span>　あります。",
+      "text": "えんぴつが　六本　あります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ろくぼん",
+          "furigana": "ろくぼん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ろくぽん",
+          "furigana": "ろくぽん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ろっぼん",
+          "furigana": "ろっぼん",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ろっぽん",
+          "furigana": "ろっぽん",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \r\nAnswer 4: ろっぽん is correct.\r\n\r\n**Question Translation**  \r\n「えんぴつが 六本 あります。」  \r\n→ \"There are six pencils.\"\r\n\r\n**Explanation**  \r\nWhen counting long objects with the counter 本, 六 changes to **ろっぽん** due to sound assimilation (く + ほん → っぽん).\r\n\r\n**Other Options**  \r\n1. ろくぼん — Wrong sound change.  \r\n2. ろくぽん — Incorrect.  \r\n3. ろっぼん —  Incorrect.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8700",
+      "order": 8,
+      "html": "この　<span style=\"text-decoration: underline;\">新聞</span>は　いくらですか。",
+      "text": "この　新聞は　いくらですか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "しんむん",
+          "furigana": "しんむん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "しんぶん",
+          "furigana": "しんぶん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "しむん",
+          "furigana": "しむん",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "しぶん",
+          "furigana": "しぶん",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 2: しんぶん is correct.\n\n**Question Translation**  \n「この 新聞は いくらですか。」  \n→ \"How much is this newspaper?\"\n\n**Explanation**  \nThe kanji **新聞** is read **しんぶん**, meaning “newspaper.”\n\n**Other Options**  \n1. しんむん — Incorrect consonant.  \n3. しむん — Missing syllable.  \n4. しぶん — Wrong sound.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8701",
+      "order": 9,
+      "html": "この　カメラは　<span style=\"text-decoration: underline;\">安い</span>です。",
+      "text": "この　カメラは　安いです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "たかい",
+          "furigana": "たかい",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "やすい",
+          "furigana": "やすい",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "おもい",
+          "furigana": "おもい",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "かるい",
+          "furigana": "かるい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 2: やすい is correct.\n\n**Question Translation**  \n「この カメラは 安いです。」  \n→ \"This camera is cheap.\"\n\n**Explanation**  \nThe kanji **安い** is read **やすい**, meaning “cheap” or “inexpensive.”\n\n**Other Options**  \n1. たかい — “Expensive.”  \n3. おもい — “Heavy.”  \n4. かるい — “Light.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8702",
+      "order": 10,
+      "html": "かさは　<span style=\"text-decoration: underline;\">外</span>に　あります。",
+      "text": "かさは　外に　あります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "いえ",
+          "furigana": "いえ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "なか",
+          "furigana": "なか",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "そと",
+          "furigana": "そと",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "にわ",
+          "furigana": "にわ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 3: そと is correct.\n\n**Question Translation**  \n「かさは 外に あります。」  \n→ \"The umbrella is outside.\"\n\n**Explanation**  \nThe kanji **外** is read **そと**, meaning “outside.”\n\n**Other Options**  \n1. いえ — “House.”  \n2. なか — “Inside.”  \n4. にわ — “Garden.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8703",
+      "order": 11,
+      "html": "けさ　<span style=\"text-decoration: underline;\"><em>しゃわー</em></span>を　あびました。",
+      "text": "けさ　しゃわーを　あびました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "シャワー",
+          "furigana": "シャワー",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "シャウー",
+          "furigana": "シャウー",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ツァワー",
+          "furigana": "ツァワー",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ツァウー",
+          "furigana": "ツァウー",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.5/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 1: シャワー is correct.\n\n**Question Translation**  \n「けさ シャワーを あびました。」  \n→ \"I took a shower this morning.\"\n\n**Explanation**  \nThe loanword “shower” is written as **シャワー** in katakana. It uses small ャ and a long vowel mark ー.\n\n**Other Options**  \n2. シャウー — Wrong vowel combination.  \n3. ツァワー／4. ツァウー — Incorrect katakana sounds.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8704",
+      "order": 12,
+      "html": "コーヒーを　<span style=\"text-decoration: underline;\">のみました</span>。",
+      "text": "コーヒーを　のみました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "飯みました",
+          "furigana": "飯みました",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "飲みました",
+          "furigana": "飲みました",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "餡みました",
+          "furigana": "餡みました",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "食みました",
+          "furigana": "食みました",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 2: 飲みました is correct.\n\n**Question Translation**  \n「コーヒーを 飲みました。」  \n→ \"I drank coffee.\"\n\n**Explanation**  \nThe correct kanji for のみました (past polite form of 飲む) is **飲みました**.\n\n**Other Options**  \n1. 飯みました — 飯 means “rice/meal.”  \n3. 餡みました — 餡 means “bean paste.”  \n4. 食みました — Not a valid word.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8705",
+      "order": 13,
+      "html": "あたらしい　<span style=\"text-decoration: underline;\">くるま</span>を　かいました。",
+      "text": "あたらしい　くるまを　かいました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "卓",
+          "furigana": "卓",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "早",
+          "furigana": "早",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "車",
+          "furigana": "車",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "真",
+          "furigana": "真",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 3: 車 is correct.\n\n**Question Translation**  \n「あたらしい くるまを かいました。」  \n→ \"I bought a new car.\"\n\n**Explanation**  \nThe kanji for くるま is **車**, meaning “car” or “vehicle.”\n\n**Other Options**  \n1. 卓 — Means “table.”  \n2. 早 — Means “early.”  \n4. 真 — Means “true.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8706",
+      "order": 14,
+      "html": "この　ぼうしは　<span style=\"text-decoration: underline;\">1000えん</span>です。",
+      "text": "この　ぼうしは　1000えんです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1000内",
+          "furigana": "1000内",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "1000用",
+          "furigana": "1000用",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "1000冊",
+          "furigana": "1000冊",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "1000円",
+          "furigana": "1000円",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 4: 1000円 is correct.\n\n**Question Translation**  \n「この ぼうしは 1000えんです。」  \n→ \"This hat costs 1000 yen.\"\n\n**Explanation**  \nThe currency counter **円（えん）** represents Japanese yen.\n\n**Other Options**  \n1. 1000内／2. 1000用／3. 1000冊 — Incorrect kanji combinations.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8707",
+      "order": 15,
+      "html": "しゅくだいが　<span style=\"text-decoration: underline;\">はんぶん</span>　おわりました。",
+      "text": "しゅくだいが　はんぶん　おわりました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "平分",
+          "furigana": "平分",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "当分",
+          "furigana": "当分",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "羊分",
+          "furigana": "羊分",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "半分",
+          "furigana": "半分",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \r\nAnswer 4: 半分 is correct.\r\n\r\n**Question Translation**  \r\n「しゅくだいが はんぶん おわりました。」  \r\n→ \"My homework is half finished.\"\r\n\r\n**Explanation**  \r\nThe kanji **半分（はんぶん）** means “half.”\r\n\r\n**Other Options**  \r\nAnswer 1: 平分 This is a word meaning “equal distribution.” It looks visually similar to 半分, but it does not mean “half.”\r\n\r\nAnswer 2: 当分 This is a word meaning “for the time being.”\r\n\r\nAnswer 3: 羊分 This is not a real Japanese word. It uses the kanji 羊, which looks similar to 半, but has no meaning as a compound with 分.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8708",
+      "order": 16,
+      "html": "わたしの　うちに　<span style=\"text-decoration: underline;\">きませんか</span>。",
+      "text": "わたしの　うちに　きませんか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "来ませんか",
+          "furigana": "来ませんか",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "采ませんか",
+          "furigana": "采ませんか",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "木ませんか",
+          "furigana": "木ませんか",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "未ませんか",
+          "furigana": "未ませんか",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.5/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 1: 来ませんか is correct.\n\n**Question Translation**  \n「わたしの うちに 来ませんか。」  \n→ \"Won’t you come to my house?\"\n\n**Explanation**  \nThe verb **来る（くる）** in polite invitation form is **来ませんか**, used to invite someone.\n\n**Other Options**  \n2–4. Contain incorrect or look-alike kanji that are not used for 来る.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8709",
+      "order": 17,
+      "html": "きのう　たなかさんと　<span style=\"text-decoration: underline;\">あいました</span>。",
+      "text": "きのう　たなかさんと　あいました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "見いました",
+          "furigana": "見いました",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "書いました",
+          "furigana": "書いました",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "会いました",
+          "furigana": "会いました",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "話いました",
+          "furigana": "話いました",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 3: 会いました is correct.\n\n**Question Translation**  \n「きのう たなかさんと 会いました。」  \n→ \"I met Mr./Ms. Tanaka yesterday.\"\n\n**Explanation**  \nThe verb **会う（あう）** means “to meet.” Its polite past form is **会いました**.\n\n**Other Options**  \n1. 見いました／2. 書いました／4. 話いました — All incorrect kanji combinations.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8710",
+      "order": 18,
+      "html": "いもうとと　<span style=\"text-decoration: underline;\">おなじ</span>　ふくを　かいました。",
+      "text": "いもうとと　おなじ　ふくを　かいました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "同じ",
+          "furigana": "同じ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "回じ",
+          "furigana": "回じ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "問じ",
+          "furigana": "問じ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "固じ",
+          "furigana": "固じ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.5/1.5",
+      "explanation": "**Correct Answer**  \r\nAnswer 1: 同じ is correct.\r\n\r\n**Question Translation**  \r\n「いもうとと 同じ ふくを かいました。」  \r\n→ \"I bought the same clothes as my younger sister.\"\r\n\r\n**Explanation**  \r\nThe kanji **同じ（おなじ）** means “same.”\r\n\r\n**Other Options**  \r\n2. 回じ／3. 問じ じ／ 4. 固じ — Not valid words.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8711",
+      "order": 19,
+      "html": "わたしの　へやは　この（　　　）の　2かいです。",
+      "text": "わたしの　へやは　この（　　　）の　2かいです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "エレベーター",
+          "furigana": "エレベーター",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "プール",
+          "furigana": "プール",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "エアコン",
+          "furigana": "エアコン",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "アパート",
+          "furigana": "アパート",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 4: アパート is correct.\n\n**Question Translation**  \n「わたしの へやは この（　）の 2かいです。」  \n→ \"My room is on the second floor of this (building).\"\n\n**Explanation**  \nA room belongs to a building, so **アパート (apartment)** fits naturally.\n\n**Other Options**  \n1. エレベーター — “Elevator.”  \n2. プール — “Pool.”  \n3. エアコン — “Air conditioner.” None of these can have floors.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8712",
+      "order": 20,
+      "html": "さとうさんは　ギターを　じょうずに（　　　）。",
+      "text": "さとうさんは　ギターを　じょうずに（　　　）。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "うたいます",
+          "furigana": "うたいます",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ききます",
+          "furigana": "ききます",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ひきます",
+          "furigana": "ひきます",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あそびます",
+          "furigana": "あそびます",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 3: ひきます is correct.\n\n**Question Translation**  \n「さとうさんは ギターを じょうずに（　）。」  \n→ \"Mr./Ms. Satō plays the guitar well.\"\n\n**Explanation**  \nFor string instruments, the verb **ひく（弾く）** is used.\n\n**Other Options**  \n1. うたいます — “Sing.”  \n2. ききます — “Listen.”  \n4. あそびます — “Play (generally),” not for instruments.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8713",
+      "order": 21,
+      "html": "テーブルに　おさらと　はしを（　　　）ください。",
+      "text": "テーブルに　おさらと　はしを（　　　）ください。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ならべて",
+          "furigana": "ならべて",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "とって",
+          "furigana": "とって",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "たべて",
+          "furigana": "たべて",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あらって",
+          "furigana": "あらって",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.5/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 1: ならべて is correct.\n\n**Question Translation**  \n「テーブルに おさらと はしを（　）ください。」  \n→ \"Please arrange the plates and chopsticks on the table.\"\n\n**Explanation**  \nThe verb **ならべる** means “to line up” or “to arrange,” fitting this context.\n\n**Other Options**  \n2. とって — “Take.”  \n3. たべて — “Eat.”  \n4. あらって — “Wash.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8714",
+      "order": 22,
+      "html": "けさ　そうじを　したから　へやは（　　　）です。",
+      "text": "けさ　そうじを　したから　へやは（　　　）です。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "きれい",
+          "furigana": "きれい",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "きたない",
+          "furigana": "きたない",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あかるい",
+          "furigana": "あかるい",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "くらい",
+          "furigana": "くらい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.5/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 1: きれい is correct.\n\n**Question Translation**  \n「けさ そうじを したから へやは（　）です。」  \n→ \"Since I cleaned this morning, the room is clean.\"\n\n**Explanation**  \nAfter cleaning, the room becomes **きれい (clean/neat)**.\n\n**Other Options**  \n2. きたない — “Dirty.”  \n3. あかるい — “Bright.”  \n4. くらい — “Dark.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8715",
+      "order": 23,
+      "html": "きょうは　500（　　　）　およぎました。",
+      "text": "きょうは　500（　　　）　およぎました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ど",
+          "furigana": "ど",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ばん",
+          "furigana": "ばん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "メートル",
+          "furigana": "メートル",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "グラム",
+          "furigana": "グラム",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 3: メートル is correct.\n\n**Question Translation**  \n「きょうは 500（　） およぎました。」  \n→ \"I swam 500 meters today.\"\n\n**Explanation**  \nSwimming is measured in **メートル (meters)**.\n\n**Other Options**  \n1. ど — “Degrees.”  \n2. ばん — “Number/order.”  \n4. グラム — “Grams.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8716",
+      "order": 24,
+      "html": "えきから　たいしかんまでの（　　　）を　かいて　ください。",
+      "text": "えきから　たいしかんまでの（　　　）を　かいて　ください。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "しゃしん",
+          "furigana": "しゃしん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ちず",
+          "furigana": "ちず",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "てがみ",
+          "furigana": "てがみ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "きっぷ",
+          "furigana": "きっぷ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 2: ちず is correct.\n\n**Question Translation**  \n「えきから たいしかんまでの（　）を かいて ください。」  \n→ \"Please draw a map from the station to the embassy.\"\n\n**Explanation**  \nA **map (ちず)** shows routes and locations.\n\n**Other Options**  \n1. しゃしん — “Photo.”  \n3. てがみ — “Letter.”  \n4. きっぷ — “Ticket.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8717",
+      "order": 25,
+      "html": "うるさいから　テレビを（　　　）ください。",
+      "text": "うるさいから　テレビを（　　　）ください。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "けして",
+          "furigana": "けして",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "つけて",
+          "furigana": "つけて",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "しめて",
+          "furigana": "しめて",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あけて",
+          "furigana": "あけて",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1.5/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 1: けして is correct.\n\n**Question Translation**  \n「うるさいから テレビを（　）ください。」  \n→ \"It’s noisy, so please turn off the TV.\"\n\n**Explanation**  \nThe verb **けす（消す）** means “to turn off” or “to erase.”\n\n**Other Options**  \n2. つけて — “Turn on.”  \n3. しめて — “Close.”  \n4. あけて — “Open.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8718",
+      "order": 26,
+      "html": "きょうは（　　　）が　ふっています。",
+      "text": "きょうは（　　　）が　ふっています。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "くもり",
+          "furigana": "くもり",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "はれ",
+          "furigana": "はれ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "かぜ",
+          "furigana": "かぜ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ゆき",
+          "furigana": "ゆき",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 4: ゆき is correct.\n\n**Question Translation**  \n「きょうは（　）が ふっています。」  \n→ \"( ) is falling today.\"\n\n**Explanation**  \nThe verb **ふる (to fall)** pairs with **ゆき (snow)** or **あめ (rain)**; here, snow fits best.\n\n**Other Options**  \n1. くもり — “Cloudy.”  \n2. はれ — “Sunny.”  \n3. かぜ — “Wind.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8719",
+      "order": 27,
+      "html": "はこに　りんごが（　　　）あります。",
+      "text": "はこに　りんごが（　　　）あります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "よっつ",
+          "furigana": "よっつ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "いつつ",
+          "furigana": "いつつ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "むっつ",
+          "furigana": "むっつ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ななつ",
+          "furigana": "ななつ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-11-21-at-10.23.54.png?fit=388%2C222&ssl=1"
+      ],
+      "correct_answer": "2",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \r\nAnswer 2: いつつ is correct.\r\n\r\n**Question Translation**  \r\n「はこに りんごが（　）あります。」  \r\n→ \"There are five apples in the box.\"\r\n\r\n**Explanation**  \r\nJapanese native counters use **いつつ (five)** for counting general objects.\r\n\r\n**Other Options**  \r\n1. よっつ — “Four.”  \r\n3. むっつ — “Six.”  \r\n4. ななつ — “Seven.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8720",
+      "order": 28,
+      "html": "めがねは　つくえの（　　　）に　あります。",
+      "text": "めがねは　つくえの（　　　）に　あります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "そば",
+          "furigana": "そば",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "よこ",
+          "furigana": "よこ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "した",
+          "furigana": "した",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "うえ",
+          "furigana": "うえ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1.5",
+      "explanation": "**Correct Answer**  \nAnswer 4: うえ is correct.\n\n**Question Translation**  \n「めがねは つくえの（　）に あります。」  \n→ \"The glasses are on top of the desk.\"\n\n**Explanation**  \nThe location word **うえ（上）** means “on” or “above.”\n\n**Other Options**  \n1. そば — “Beside.”  \n2. よこ — “Next to.”  \n3. した — “Under.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8721",
+      "order": 29,
+      "html": "<span style=\"text-decoration: underline;\">まいばん　くにの　かぞくに　でんわします。</span>",
+      "text": "まいばん　くにの　かぞくに　でんわします。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "よるは　ときどき　くにの　かぞくに　でんわします。",
+          "furigana": "よるは　ときどき　くにの　かぞくに　でんわします。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "あさは　ときどき　くにの　かぞくに　でんわします。",
+          "furigana": "あさは　ときどき　くにの　かぞくに　でんわします。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "よるは　いつも　くにの　かぞくに　でんわします。",
+          "furigana": "よるは　いつも　くにの　かぞくに　でんわします。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あさは　いつも　くにの　かぞくに　でんわします。",
+          "furigana": "あさは　いつも　くにの　かぞくに　でんわします。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 3 is correct.\n\n**Question Translation**  \n「まいばん くにの かぞくに でんわします。」  \n→ \"I call my family in my home country every night.\"\n\n**Explanation**  \nThe expression **まいばん (every night)** matches **よるは いつも (always at night)** in meaning.\n\n**Other Options**  \n1. よるは ときどき — “sometimes at night.”  \n2. あさは ときどき — “sometimes in the morning.”  \n4. あさは いつも — “always in the morning.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8722",
+      "order": 30,
+      "html": "<span style=\"text-decoration: underline;\">この　まちには　ゆうめいな　たてものが　あります。</span>",
+      "text": "この　まちには　ゆうめいな　たてものが　あります。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "この　まちには　ゆうめいな　ビルが　あります。",
+          "furigana": "この　まちには　ゆうめいな　ビルが　あります。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "この　まちには　ゆうめいな　おちゃが　あります。",
+          "furigana": "この　まちには　ゆうめいな　おちゃが　あります。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "この　まちには　ゆうめいな　ケーキが　あります。",
+          "furigana": "この　まちには　ゆうめいな　ケーキが　あります。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "この　まちには　ゆうめいな　こうえんが　あります。",
+          "furigana": "この　まちには　ゆうめいな　こうえんが　あります。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 1 is correct.\n\n**Question Translation**  \n「この まちには ゆうめいな たてものが あります。」  \n→ \"There are famous buildings in this town.\"\n\n**Explanation**  \nThe word **たてもの (building)** is paraphrased naturally by **ビル (building)**.\n\n**Other Options**  \n2. おちゃ — “tea.”  \n3. ケーキ — “cake.”  \n4. こうえん — “park.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8723",
+      "order": 31,
+      "html": "<span style=\"text-decoration: underline;\">その　えいがは　おもしろくなかったです。</span>",
+      "text": "その　えいがは　おもしろくなかったです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "その　えいがは　たのしかったです。",
+          "furigana": "その　えいがは　たのしかったです。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "その　えいがは　つまらなかったです。",
+          "furigana": "その　えいがは　つまらなかったです。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "その　えいがは　みじかかったです。",
+          "furigana": "その　えいがは　みじかかったです。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "その　えいがは　ながかったです。",
+          "furigana": "その　えいがは　ながかったです。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 2 is correct.\n\n**Question Translation**  \n「その えいがは おもしろくなかったです。」  \n→ \"That movie was not interesting.\"\n\n**Explanation**  \nThe opposite of **おもしろい (interesting)** is **つまらない (boring)**, so the meanings match.\n\n**Other Options**  \n1. たのしかった — “was fun.”  \n3. みじかかった — “was short.”  \n4. ながかった — “was long.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8724",
+      "order": 32,
+      "html": "<span style=\"text-decoration: underline;\">たんじょうびは　6がつ15にちです。</span>",
+      "text": "たんじょうびは　6がつ15にちです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "6がつ15にちに　けっこんしました。",
+          "furigana": "6がつ15にちに　けっこんしました。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "6がつ15にちに　テストが　はじまりました。",
+          "furigana": "6がつ15にちに　テストが　はじまりました。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "6がつ15にちに　うまれました。",
+          "furigana": "6がつ15にちに　うまれました。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "6がつ15にちに　くにへ　かえりました。",
+          "furigana": "6がつ15にちに　くにへ　かえりました。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 3 is correct.\n\n**Question Translation**  \n「たんじょうびは 6がつ15にちです。」  \n→ \"My birthday is June 15th.\"\n\n**Explanation**  \n**たんじょうび (birthday)** means the day one **was born (うまれました)**.\n\n**Other Options**  \n1. けっこんしました — “got married.”  \n2. テストが はじまりました — “the test started.”  \n4. くにへ かえりました — “returned home.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8725",
+      "order": 33,
+      "html": "<span style=\"text-decoration: underline;\">にねんまえに　きょうとへ　いきました。</span>",
+      "text": "にねんまえに　きょうとへ　いきました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "きのう　きょうとへ　いきました。",
+          "furigana": "きのう　きょうとへ　いきました。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "おととい　きょうとへ　いきました。",
+          "furigana": "おととい　きょうとへ　いきました。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "きょねん　きょうとへ　いきました。",
+          "furigana": "きょねん　きょうとへ　いきました。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "おととし　きょうとへ　いきました。",
+          "furigana": "おととし　きょうとへ　いきました。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": "**Correct Answer**  \nAnswer 4 is correct.\n\n**Question Translation**  \n「にねんまえに きょうとへ いきました。」  \n→ \"I went to Kyoto two years ago.\"\n\n**Explanation**  \n**にねんまえ (two years ago)** corresponds to **おととし (the year before last)**.\n\n**Other Options**  \n1. きのう — “yesterday.”  \n2. おととい — “the day before yesterday.”  \n3. きょねん — “last year.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8726",
+      "order": 1,
+      "html": "日本（　　　）ラーメンは　おいしいです。",
+      "text": "日本（　　　）ラーメンは　おいしいです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "の",
+          "furigana": "の",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "を",
+          "furigana": "を",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "へ",
+          "furigana": "へ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\nAnswer 2: の — “Japanese ramen is delicious.”\n\n**Question Translation**\n日本（　）ラーメンは おいしいです。→ “Japanese ramen is delicious.”\n\n**Explanation**\n**の** turns 日本 into a noun modifier: **日本のラーメン** = “Japanese ramen.”\n\n**Why Other Options Are Incorrect**\n- に: time/place/indirect object; cannot modify a noun.\n- を: direct object marker; not used before a noun.\n- へ: direction “to”; not used for noun–noun modification.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8727",
+      "order": 2,
+      "html": "わたしには　きょうだいが　二人います。弟（　　　）妹です。",
+      "text": "わたしには　きょうだいが　二人います。弟（　　　）妹です。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "も",
+          "furigana": "も",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "と",
+          "furigana": "と",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "か",
+          "furigana": "か",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\nAnswer 3: と — “I have two siblings: a younger brother **and** a younger sister.”\n\n**Question Translation**\n…弟（　）妹です。→ “…a younger brother **and** a younger sister.”\n\n**Explanation**\n**と** connects two nouns evenly: 弟**と**妹.\n\n**Why Other Options Are Incorrect**\n- は: topic marker; would change the sentence structure.\n- も: “also/too”; implies addition to something already stated.\n- か: “or”; expresses a choice, not listing both.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8728",
+      "order": 3,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">山下</span><span class=\"text\">「田中さん（　　　）きのう　どこかに　出かけましたか。」　</span></p><p class=\"dialogue-line\"><span class=\"speaker\">田中</span><span class=\"text\">「いいえ、いえに　いました。」</span></p></div>",
+      "text": "山下「田中さん（　　　）きのう　どこかに　出かけましたか。」　田中「いいえ、いえに　いました。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "で",
+          "furigana": "で",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "を",
+          "furigana": "を",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\nAnswer 2: は — “(As for) Tanaka, did you go out anywhere yesterday?”\n\n**Question Translation**\n田中さん（　）きのう どこかに 出かけましたか。→ “Tanaka, did you go out anywhere yesterday?”\n\n**Explanation**\n**は** marks the topic/contrast (addressing Tanaka specifically in the question).\n\n**Why Other Options Are Incorrect**\n- で: place of action/instrument; not topicalization.\n- を: direct object marker; 出かける doesn’t take を here.\n- に: time/target marker; not for setting the topic.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8729",
+      "order": 4,
+      "html": "<div class=\"conversation\">（タクシーで）<p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「つぎの　かどを　右（　　　）まがって　ください。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「わかりました。」</span></p></div>",
+      "text": "（タクシーで）A「つぎの　かどを　右（　　　）まがって　ください。」B「わかりました。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "や",
+          "furigana": "や",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "か",
+          "furigana": "か",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\nAnswer 4: に — “Please turn **right at** the next corner.”\n\n**Question Translation**\n…右（　）まがってください。→ “Please turn right.”\n\n**Explanation**\n**に** marks the target/direction of turning: 右**に**まがる.\n\n**Why Other Options Are Incorrect**\n- が／や／か: none indicate direction/target here.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8730",
+      "order": 5,
+      "html": "きのう、わたしは　ひとり（　　　）えいがを　見に　行きました。",
+      "text": "きのう、わたしは　ひとり（　　　）えいがを　見に　行きました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "を",
+          "furigana": "を",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "で",
+          "furigana": "で",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\nAnswer 3: で — “Yesterday I went to watch a movie **by myself**.”\n\n**Question Translation**\n…ひとり（　）えいがを見に行きました。→ “…went to watch a movie **alone**.”\n\n**Explanation**\n**で** marks manner/means: ひとり**で** = “by oneself.”\n\n**Why Other Options Are Incorrect**\n- が／を／は: subject/object/topic markers; do not express manner.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8731",
+      "order": 6,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">山下</span><span class=\"text\">「今日　パーティーが　ありますから、田中さん（　　　）来て　ください。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">田中</span><span class=\"text\">「ありがとうございます。」</span></p></div>",
+      "text": "山下「今日　パーティーが　ありますから、田中さん（　　　）来て　ください。」田中「ありがとうございます。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "も",
+          "furigana": "も",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "や",
+          "furigana": "や",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "で",
+          "furigana": "で",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\nAnswer 2: も — “There’s a party today, so **you too** (please) come, Tanaka.”\n\n**Question Translation**\n…田中さん（　）来てください。→ “Tanaka, please **also** come.”\n\n**Explanation**\n**も** adds the person as an additional invitee: “you also/too.”\n\n**Why Other Options Are Incorrect**\n- に: not natural with 来てください for “also come.”\n- や: AやB = “A and B (among others)”; not used with 来る here.\n- で: place/means; doesn’t fit.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8732",
+      "order": 7,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">田中</span><span class=\"text\">「この　ぼうしは　山田さん（　　　）ですか。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">山田</span><span class=\"text\">「はい。」</span></p></div>",
+      "text": "田中「この　ぼうしは　山田さん（　　　）ですか。」山田「はい。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "や",
+          "furigana": "や",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "の",
+          "furigana": "の",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "か",
+          "furigana": "か",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\nAnswer 3: の — “Is this hat **Yamada’s**?”\n\n**Question Translation**\nこのぼうしは 山田さん（　）ですか。→ “Is this hat **Yamada’s**?”\n\n**Explanation**\n**の** marks possession/belonging: 山田さん**の** (Yamada’s).\n\n**Why Other Options Are Incorrect**\n- や: “AやB” (A and B, among others); not possession.\n- は: topic marker; would read “As for Yamada, is (this)?”\n- か: question particle; cannot replace **の** here.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8733",
+      "order": 8,
+      "html": "駅まで　タクシーで　1000円（　　　）です。",
+      "text": "駅まで　タクシーで　1000円（　　　）です。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ぐらい",
+          "furigana": "ぐらい",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "など",
+          "furigana": "など",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ごろ",
+          "furigana": "ごろ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "も",
+          "furigana": "も",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1/1",
+      "explanation": "**Correct Answer**\nAnswer 1: ぐらい — “It’s **about** 1000 yen by taxi to the station.”\n\n**Question Translation**\n駅まで タクシーで 1000円（　）です。→ “It’s around 1000 yen.”\n\n**Explanation**\n**ぐらい** expresses approximation for amounts/quantities.\n\n**Why Other Options Are Incorrect**\n- など: “etc.”; not for approximation alone.\n- ごろ: ‘around’ for **time** (３時ごろ), not money.\n- も: ‘as much as’; would imply emphasis/surprise, not neutral estimate.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8734",
+      "order": 9,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「さようなら。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「さようなら。また（　　　）。」</span></p></div>",
+      "text": "A「さようなら。」B「さようなら。また（　　　）。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "おととい",
+          "furigana": "おととい",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "今日",
+          "furigana": "今日",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "来週",
+          "furigana": "来週",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "今月",
+          "furigana": "今月",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1",
+      "explanation": "**Correct Answer** Answer 3: 来週 — “Good-bye. See you **next week**.”\r\n\r\n**Question Translation**\\nさようなら。また（　）。→ “Good-bye. See you (…).\" \r\n\r\n**Explanation**\r\n**また来週** is a common, natural parting phrase referring to the next time you’ll meet.\r\n\r\n**Why Other Options Are Incorrect**\r\n- おととい: “the day before yesterday” (past); doesn’t fit “また”.\r\n- 今日: “today”; odd with a farewell unless meeting again the same day.\r\n- 今月: “this month”; too vague; less natural than 来週 in this set phrase.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8735",
+      "order": 10,
+      "html": "わたしの　母は　50さいです。父は　55さいです。母は　父（　　　）5さい　わかいです。",
+      "text": "わたしの　母は　50さいです。父は　55さいです。母は　父（　　　）5さい　わかいです。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "から",
+          "furigana": "から",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "まで",
+          "furigana": "まで",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "より",
+          "furigana": "より",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "のほうが",
+          "furigana": "のほうが",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\nAnswer 3: より — “My mother is 5 years **younger than** my father.”\n\n**Question Translation**\n母は 父（　）5さい わかいです。→ “Mother is 5 years younger **than** Father.”\n\n**Explanation**\nComparative: A は B**より** … = “A is … than B.”",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8736",
+      "order": 11,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">子ども</span><span class=\"text\">「いただきます。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">母</span><span class=\"text\">「あ、食べる（　　　）手を　あらいましょう。」</span></p></div>",
+      "text": "子ども「いただきます。」母「あ、食べる（　　　）手を　あらいましょう。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "まえに",
+          "furigana": "まえに",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "のまえに",
+          "furigana": "のまえに",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あとに",
+          "furigana": "あとに",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "のあとに",
+          "furigana": "のあとに",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1/1",
+      "explanation": "**Correct Answer**\r\nAnswer 1: まえに — “Ah, **before** eating, let’s wash our hands.”\r\n\r\n**Question Translation**\r\nあ、食べる（　）手を あらいましょう。→ “Let’s wash our hands **before** eating.”\r\n\r\n**Explanation**\r\nVerb-dictionary-form + **まえに** = “before doing …”.\r\n\r\n**Why Other Options Are Incorrect**\r\n- のまえに: needs a **noun** before の; here the verb plain form is correct.\r\n- あとに/のあとに: “after,” but context is pre-meal handwashing.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8737",
+      "order": 12,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「東京でも　雪が　ふりますか。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「ええ、ふりますよ。でも、きょねんは　あまり（　　　）。」</span></p></div>",
+      "text": "A「東京でも　雪が　ふりますか。」B「ええ、ふりますよ。でも、きょねんは　あまり（　　　）。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ふりませんでした",
+          "furigana": "ふりませんでした",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ふりません",
+          "furigana": "ふりません",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ふりました",
+          "furigana": "ふりました",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ふります",
+          "furigana": "ふります",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1/1",
+      "explanation": "**Correct Answer**\r\nAnswer 1: ふりませんでした — “Yes, it snows, but **last year it didn’t snow much**.”\r\n\r\n**Question Translation**\r\nでも、きょねんは あまり（　）。→ “But **last year** (it) **didn’t** (snow) **much**.”\r\n\r\n**Explanation**\r\n**あまり** needs a **negative**; past time “きょねん” → **ふりませんでした**.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8738",
+      "order": 13,
+      "html": "<div class=\"conversation\">（川で）<p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「見て　ください。小さな　魚が　たくさん（　　　）よ。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「ほんとうですね。30ぴきぐらい　いますね。」</span></p></div>",
+      "text": "（川で）A「見て　ください。小さな　魚が　たくさん（　　　）よ。」B「ほんとうですね。30ぴきぐらい　いますね。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "およぎます",
+          "furigana": "およぎます",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "およぎません",
+          "furigana": "およぎません",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "およぎました",
+          "furigana": "およぎました",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "およいで　います",
+          "furigana": "およいで　います",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\r\nAnswer 4: およいで います — “Look. Lots of small fish are **swimming**.”\r\n\r\n**Question Translation**\r\n…小さな魚が たくさん（　）よ。→ “Lots of small fish are **swimming**.”\r\n\r\n**Explanation**\r\nProgressive/state: **およいでいます** indicates what you **see happening now**.\r\n\r\n**Why Other Options Are Incorrect**\r\n- およぎます/ました: simple present/past; not the ongoing action being pointed out.\r\n- およぎません: negative.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8739",
+      "order": 14,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">中川</span><span class=\"text\">「山田さんの　その　カメラは　いいですね。どこで　かいましたか。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">山田</span><span class=\"text\">「いいえ、これは　兄に（　　　）。」</span></p></div>",
+      "text": "中川「山田さんの　その　カメラは　いいですね。どこで　かいましたか。」山田「いいえ、これは　兄に（　　　）。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "あげました",
+          "furigana": "あげました",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "もらいました",
+          "furigana": "もらいました",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "うりました",
+          "furigana": "うりました",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "かいました",
+          "furigana": "かいました",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\r\nAnswer 2: もらいました — “No, **I got this from** my older brother.”\r\n\r\n**Question Translation**\r\nいいえ、これは 兄に（　）。→ “No, I **received** this from my older brother.”\r\n\r\n**Explanation**\r\n**もらいました** = “received (from someone).”\r\n\r\n**Why Other Options Are Incorrect**\r\n- あげました: “(I) gave (to someone).”\r\n- うりました: “sold.”\r\n- かいました: “bought” (contradicts the reply).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8740",
+      "order": 15,
+      "html": "たまごりょうりの　じょうずな　作りかたを（　　　）読みました。",
+      "text": "たまごりょうりの　じょうずな　作りかたを（　　　）読みました。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "何に",
+          "furigana": "何に",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "何も",
+          "furigana": "何も",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "何かへ",
+          "furigana": "何かへ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "何かで",
+          "furigana": "何かで",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/1",
+      "explanation": "**Correct Answer**\r\nAnswer 4: 何かで — “I read about a good way to cook eggs **in something** (in some source).”\r\n\r\n**Question Translation**\r\n…作りかたを（　）読みました。→ “…read (it) **in** something.”\r\n\r\n**Explanation**\r\n**〜で 読む** marks the **medium/source** (e.g., 本で/インターネットで). **何かで** = “in something (unspecified).”\r\n\r\n**Why Other Options Are Incorrect**\r\n- 何に/何も/何かへ: not used with 読む to mark the reading medium.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8741",
+      "order": 16,
+      "html": "<div class=\"conversation\">（電話で）<p class=\"dialogue-line\"><span class=\"speaker\">本田</span><span class=\"text\">「はい、本田です。」 北山「あ、北山花子です。すみません、（　　　）。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">本田</span><span class=\"text\">「はい。ちょっと　まって　くださいね。」</span></p></div>",
+      "text": "（電話で）本田「はい、本田です。」 北山「あ、北山花子です。すみません、（　　　）。」本田「はい。ちょっと　まって　くださいね。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "ひろこさんを　おねがいします",
+          "furigana": "ひろこさんを　おねがいします",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "ひろこさんを　ください",
+          "furigana": "ひろこさんを　ください",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ひろこさんと　話しますか",
+          "furigana": "ひろこさんと　話しますか",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ひろこさんと　話しませんか",
+          "furigana": "ひろこさんと　話しませんか",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "1/1",
+      "explanation": "**Correct Answer**\nAnswer 1: ひろこさんを おねがいします — “May I speak to Hiroko, please?”\n\n**Question Translation**\n…すみません、（　）。→ “Excuse me, **Hiroko, please** (put her on).”\n\n**Explanation**\nOn the phone, **〜を おねがいします** politely asks for a person/extension.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8742",
+      "order": 17,
+      "html": "<div class=\"conversation\">（店で）<p class=\"dialogue-line\"><span class=\"speaker\">田中</span><span class=\"text\">「すみません。くだもの <span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span><span class=\"star\">★</span></span> <span class=\"blank-space\">______</span> か」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">店の人</span><span class=\"text\">「こちらです。」</span></p></div>",
+      "text": "（店で）田中「すみません。くだもの ______ ______ ★ ______ か」店の人「こちらです。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "どこ",
+          "furigana": "どこ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "あります",
+          "furigana": "あります",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "に",
+          "furigana": "に",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3",
+      "explanation": "**Correct Order**\r\n3 → 1 → 4 → 2  \r\n📌 は → どこ → に → あります\r\n\r\n**Chunk-by-Chunk Breakdown**\r\n③ は — topic marker after くだもの\r\n① どこ — “where”\r\n④ に — location/destination particle\r\n② あります — “there is/are; exist (inanimate)”\r\n\r\n**Reconstructed Sentence**\r\nすみません。**くだものは どこに あります**か。→ “Excuse me, **where are** the fruits?”\r\n\r\n**Why This Order Works**\r\nTopic (**は**) + question word (**どこ**) + location marker (**に**) + verb (**あります**).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8743",
+      "order": 18,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「山下さんは？」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「となりの　へやで <span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span><span class=\"star\">★</span></span> <span class=\"blank-space\">______</span> しています。」</span></p></div>",
+      "text": "A「山下さんは？」B「となりの　へやで ______ ______ ★ ______ しています。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "れんしゅう",
+          "furigana": "れんしゅう",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "の",
+          "furigana": "の",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "ギター",
+          "furigana": "ギター",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "を",
+          "furigana": "を",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "3/3",
+      "explanation": "**Answer (★ Position)**\nAnswer 1: れんしゅう\n\n**Correct Order**\n3 → 2 → 1 → 4  \n📌 ギター → の → れんしゅう → を\n\n**Chunk-by-Chunk Breakdown**\n③ ギター — “guitar”\n② の — links noun-to-noun\n① れんしゅう — “practice”\n④ を — object marker\n\n**Reconstructed Sentence**\nとなりの へやで **ギターのれんしゅうを** しています。→ “(He is) **practicing guitar** in the next room.”\n\n**Why This Order Works**\nNoun–nominal link (**の**) to make **ギターのれんしゅう**, then **を** marks it as the object of しています.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8744",
+      "order": 19,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">A</span><span class=\"text\">「会社<span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span><span class=\"star\">★</span></span> <span class=\"blank-space\">______</span> 行っていますか。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">B</span><span class=\"text\">「わたしは　あるいて　行っています。」</span></p></div>",
+      "text": "A「会社______ ______ ★ ______ 行っていますか。」B「わたしは　あるいて　行っています。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "で",
+          "furigana": "で",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "へ",
+          "furigana": "へ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "何",
+          "furigana": "何",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3",
+      "explanation": "**Answer (★ Position)**\nAnswer 4: 何\n\n**Correct Order**\n3 → 2 → 4 → 1  \n📌 へ → は → 何 → で\n\n**Chunk-by-Chunk Breakdown**\n③ へ — destination (“to the company”)\n② は — contrast/topic\n④ 何 — “what” (means)\n① で — means/instrument (“by”) \n\n**Reconstructed Sentence**\n会社**へは 何で** 行っていますか。→ “How (by what means) do you go to work?”\n\n**Why This Order Works**\nDestination (**へ**) + contrast (**は**) + interrogative (**何**) + means (**で**).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8745",
+      "order": 20,
+      "html": "<div class=\"conversation\"><p class=\"dialogue-line\"><span class=\"speaker\">山田</span><span class=\"text\">「ジョンさん、しゅくだいは　ぜんぶ　おわりましたか。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">ジョン</span><span class=\"text\">「いいえ、まだです。ここ<span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span><span class=\"star\">★</span></span> <span class=\"blank-space\">______</span> 、さいごの　もんだいが　むずかしいです。」</span></p></div>",
+      "text": "山田「ジョンさん、しゅくだいは　ぜんぶ　おわりましたか。」ジョン「いいえ、まだです。ここ______ ______ ★ ______ 、さいごの　もんだいが　むずかしいです。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "かんたんでした",
+          "furigana": "かんたんでした",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "まで",
+          "furigana": "まで",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/3",
+      "explanation": "**Answer (★ Position)**\nAnswer 2: かんたんでした\n\n**Correct Order**\n4 → 1 → 2 → 3  \n📌 まで → は → かんたんでした → が\n\n**Chunk-by-Chunk Breakdown**\n④ まで — “up to …”\n① は — topic/contrast\n② かんたんでした — “was easy”\n③ が — contrastive “but”\n\n**Reconstructed Sentence**\nここ**までは かんたんでしたが**、さいごの もんだいが むずかしいです。→ “**Up to here was easy, but** the last problem is difficult.”\n\n**Why This Order Works**\n“Range (まで) + contrastive topic (は) + evaluation + が (but) …”.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8746",
+      "order": 21,
+      "html": "<div class=\"conversation\">（本屋で）<p class=\"dialogue-line\"><span class=\"speaker\">ヤン</span><span class=\"text\">「わたしは　この　本を　買います。アンナさんは　どんな　本が　いいですか。」</span></p><p class=\"dialogue-line\"><span class=\"speaker\">アンナ</span><span class=\"text\">「わたしは　もう　少し<span class=\"blank-space\">______</span> <span class=\"blank-space\">______</span> <span class=\"star\">★</span> <span class=\"blank-space\">______</span>が　いいです。」</span></p></div>",
+      "text": "（本屋で）ヤン「わたしは　この　本を　買います。アンナさんは　どんな　本が　いいですか。」アンナ「わたしは　もう　少し______ ______ ★ ______が　いいです。」",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "本",
+          "furigana": "本",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "かんたんな",
+          "furigana": "かんたんな",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "が",
+          "furigana": "が",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "日本語",
+          "furigana": "日本語",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/3",
+      "explanation": "**Answer (★ Position)**\nAnswer 2: かんたんな\n\n**Correct Order**\n4 → 3 → 2 → 1  \n📌 日本語 → が → かんたんな → 本\n\n**Chunk-by-Chunk Breakdown**\n④ 日本語 — “Japanese (language)”\n③ が — subject for the relative clause\n② かんたんな — “easy; simple” (na-adjective in attributive form)\n① 本 — “book”\n\n**Reconstructed Sentence**\n…もう少し **日本語が かんたんな 本** が いいです。→ “I’d like a book with **easier Japanese**.”\n\n**Why This Order Works**\nRelative clause **日本語がかんたんな** modifies **本** (“a book whose Japanese is easy”).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8747",
+      "order": 22,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "行くから",
+          "furigana": "行くから",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "行ってから",
+          "furigana": "行ってから",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "来るから",
+          "furigana": "来るから",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "来てから",
+          "furigana": "来てから",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3",
+      "explanation": "**Correct Answer (for [22])**\r\nAnswer 4: 来てから — “After coming (to Japan)…”\r\n\r\n**Context & Translation**\r\n日本に **来てから** いろいろな店で食べました。→ “**After coming to Japan**, I ate at many places.”\r\n\r\n**Explanation**\r\nVerb-て**から** = “after doing …,” fitting the timeline of arriving in Japan and then eating sushi.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8748",
+      "order": 23,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "行きましたか",
+          "furigana": "行きましたか",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "行きませんか",
+          "furigana": "行きませんか",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "行っていましたか",
+          "furigana": "行っていましたか",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "行っていませんか",
+          "furigana": "行っていませんか",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/3",
+      "explanation": "**Correct Answer (for [23])**\nAnswer 2: 行きませんか — “Shall we go (together)?”\n\n**Context & Translation**\nすしが すきな 人は、いっしょに **行きませんか**。→ “If you like sushi, **shall we go together?**”\n\n**Explanation**\nPolite invitation uses **〜ませんか** (“won’t you ~ ? / shall we ~ ?”).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8749",
+      "order": 24,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "か",
+          "furigana": "か",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "と",
+          "furigana": "と",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "の",
+          "furigana": "の",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "は",
+          "furigana": "は",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3",
+      "explanation": "**Correct Answer (for [24])**\nAnswer 4: は — topic marker\n\n**Context & Translation**\nえきの ちかくの 本屋**は** 大きい お店です。→ “**As for** the bookstore near the station, it’s a big shop.”\n\n**Explanation**\n**は** sets the store as the topic for the comment that follows.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8750",
+      "order": 25,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "います",
+          "furigana": "います",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "読みます",
+          "furigana": "読みます",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あります",
+          "furigana": "あります",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "します",
+          "furigana": "します",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/3",
+      "explanation": "**Correct Answer (for [25])**\nAnswer 3: あります — “(They) **have** (them).”\n\n**Context & Translation**\nわたしの 国の も **あります**。→ “They **also have** books from my country.”\n\n**Explanation**\n**あります** is used for existence/availability of **inanimate** things (books).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8751",
+      "order": 26,
+      "html": "",
+      "text": "",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "だから",
+          "furigana": "だから",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "では",
+          "furigana": "では",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "それから",
+          "furigana": "それから",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "でも",
+          "furigana": "でも",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "3/3",
+      "explanation": "**Correct Answer (for [26])**\nAnswer 1: だから — “**Therefore**, I always buy (them) at the bookstore near the station.”\n\n**Context & Translation**\n…りょうりの 本も 多いです。**だから** 本は いつも えきの ちかくの 本屋で 買います。→ “There are also many cooking books I like. **So** I always buy my books at the bookstore near the station.”\n\n**Explanation**\n**だから** links the reason (selection/stock) to the result (habit of buying there).",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8752",
+      "order": 27,
+      "html": "「わたし」は　今日、何を　しましたか。",
+      "text": "「わたし」は　今日、何を　しましたか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "友だちと　えいがを　見に　行きました。",
+          "furigana": "友だちと　えいがを　見に　行きました。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "友だちと　DVDを　買いに　行きました。",
+          "furigana": "友だちと　DVDを　買いに　行きました。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "姉と　えいがを　見に　行きました。",
+          "furigana": "姉と　えいがを　見に　行きました。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "姉と　DVDを　買いに　行きました。",
+          "furigana": "姉と　DVDを　買いに　行きました。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/3",
+      "explanation": "**Correct Answer**\r\nAnswer 2: 友だちとDVDを買いに行きました — **“(I) went with a friend to buy a DVD.”**\r\n\r\n**Question Translation**\r\n「『わたし』は 今日、何をしましたか。」 → “What did ‘I’ do today?”\r\n\r\n**Explanation**\r\nThe passage says: 「今日、友だちと買い物に行きました。…えいがのDVDがほしかったからです。」 — They went shopping **with a friend** to buy a DVD.\r\n\r\n**Why Other Options Are Incorrect**\r\n- 1/3/4 mention **watching a movie** or going **with older sister** (姉), neither appears in the passage.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8753",
+      "order": 28,
+      "html": "今の　へやは　どれですか。",
+      "text": "今の　へやは　どれですか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-10.56.53.png?fit=740%2C570&ssl=1"
+      ],
+      "correct_answer": "3",
+      "points": "0/3",
+      "explanation": "**Correct Answer**\r\nAnswer 3 — **the picture that shows one table, two chairs, and one bookcase**.\r\n\r\n**Question Translation**\r\n「今のへやはどれですか。」 → “Which picture shows the current room?”\r\n\r\n**Explanation**\r\nRoom contents: **1 table**, **2 chairs**, **1 bookshelf**. They want a **bigger** bookshelf (so currently there is just one). Choose the diagram that matches these counts.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8754",
+      "order": 29,
+      "html": "森さんは　コピーを　した　あとで、本を　どうしますか。",
+      "text": "森さんは　コピーを　した　あとで、本を　どうしますか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "クラスで　使います。",
+          "furigana": "クラスで　使います。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "南さんに　わたします。",
+          "furigana": "南さんに　わたします。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "中川先生に　かえします。",
+          "furigana": "中川先生に　かえします。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "山口先生の　机の　上に　おきます。",
+          "furigana": "山口先生の　机の　上に　おきます。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3",
+      "explanation": "**Correct Answer**\r\nAnswer 4: 山口先生の机の上におきます — **“(He) will put it on Yamaguchi-sensei’s desk.”**\r\n\r\n**Question Translation**\r\n「森さんはコピーをしたあとで、本をどうしますか。」 → “After making the copies, what will Mori do with the book?”\r\n\r\n**Explanation**\r\nThe memo says: 「本は、…あした かえしますから、**わたしの机の上においてください**。」 So after copying, the book should be **placed on Yamaguchi’s desk**.\r\n\r\n**Why Other Options Are Incorrect**\r\n- 1/2/3 describe using in class, giving to Minami, or returning to Nakagawa — none match the instruction.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8756",
+      "order": 30,
+      "html": "どうして　<span style=\"text-decoration: underline;\">こまりました</span>か。",
+      "text": "どうして　こまりましたか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "おそい　時間に　駅に　着いたから",
+          "furigana": "おそい　時間に　駅に　着いたから",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "しごとが　たくさん　あったから",
+          "furigana": "しごとが　たくさん　あったから",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "とても　つかれたから",
+          "furigana": "とても　つかれたから",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "かさが　なかったから",
+          "furigana": "かさが　なかったから",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/3.5",
+      "explanation": "**Correct Answer**\r\nAnswer 4: かさがなかったから — **“Because (I) didn’t have an umbrella.”**\r\n\r\n**Question Translation**\r\n「どうして こまりましたか。」 → “Why was (the person) troubled?”\r\n\r\n**Explanation**\r\n「外は雨でしたが、**わたしは かさが ありませんでした**。とても こまりました。」 The problem was **no umbrella in the rain**.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8757",
+      "order": 31,
+      "html": "「わたし」は　あした　どうしますか。",
+      "text": "「わたし」は　あした　どうしますか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "お金を　はこの　中に　入れます。",
+          "furigana": "お金を　はこの　中に　入れます。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "お金を　駅の　人に　わたします。",
+          "furigana": "お金を　駅の　人に　わたします。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "かさを　はこの　中に　入れます。",
+          "furigana": "かさを　はこの　中に　入れます。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "かさを　駅の　人に　わたします。",
+          "furigana": "かさを　駅の　人に　わたします。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/3.5",
+      "explanation": "**Correct Answer**\nAnswer 3: かさを はこの中に 入れます — **“(I) will put the umbrella back in the box.”**\n\n**Question Translation**\n「『わたし』は あした どうしますか。」 → “What will ‘I’ do tomorrow?”\n\n**Explanation**\nStation staff said: 「お金はいりません。**あした、あの はこに かえして**ください。」 So tomorrow they will **return the umbrella to the box**.",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8758",
+      "order": 32,
+      "html": "あきらやで　トイレットペーパーと　にくと　やさいを　同じ　日に　買いたいです。いつが　安いですか。",
+      "text": "あきらやで　トイレットペーパーと　にくと　やさいを　同じ　日に　買いたいです。いつが　安いですか。",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "6月17日（日）と18日（月）",
+          "furigana": "6月17日（日）と18日（月）",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "6月13日（水）と14日（木）",
+          "furigana": "6月13日（水）と14日（木）",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "6月15日（金）と16日（土）",
+          "furigana": "6月15日（金）と16日（土）",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "6月11日（月）と12日（火）",
+          "furigana": "6月11日（月）と12日（火）",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/3.5",
+      "explanation": "**Proposed Answer**\r\nAnswer 2: 6月13日（水）と14日（木） — **“June 13 (Wed) and 14 (Thu).”**\r\n\r\n**Question Translation**\r\n「あきらやで トイレットペーパー と にく と やさいを **同じ日に** 買いたいです。いつが安いですか。」 → “At AkiRaya, I want to buy toilet paper, meat, and vegetables on the **same day**. When are they cheap?”\r\n\r\n**Explaination**\r\nWe want a day when toilet paper, meat, and vegetables are all cheap.\r\n\r\nToilet paper → cheap June 11–14 (Mon–Thu)\r\n\r\nMeat → cheap Wed–Thu\r\n\r\nVegetables → cheap Wed–Thu and Fri–Sat\r\n\r\nSo, the overlap where all three are discounted is:\r\n🟩 Wednesday, June 13, and Thursday, June 14",
+      "listening_script": null,
+      "listening_script_translation": null
+    },
+    {
+      "question_id": "8759",
+      "order": 1,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-11.15.46.png?fit=1024%2C799&ssl=1"
+      ],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>靴下<rt>くつした</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>で、<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、どの<ruby>靴下<rt>くつした</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。<br /><br />F： <ruby>子供<rt>こども</rt></ruby>の<ruby>靴下<rt>くつした</rt></ruby>、ありますか。<br />M： はい。<ruby>長<rt>なが</rt></ruby>いのですか、<ruby>短<rt>みじか</rt></ruby>いのですか。<br />F： <ruby>長<rt>なが</rt></ruby>いのです。<br />M： はい。<ruby>果物<rt>くだもの</rt></ruby>の<ruby>絵<rt>え</rt></ruby>と<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>絵<rt>え</rt></ruby>があります。どちらがいいですか。<br />F： そうですね。<ruby>動物<rt>どうぶつ</rt></ruby>のをください。<br /><br /><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、どの<ruby>靴下<rt>くつした</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。</div></div>",
+      "listening_script_translation": "At a sock store, a woman and a shop clerk are talking. Which socks will the woman buy?<br><br>F: Do you have children’s socks?<br>M: Yes. Long ones or short ones?<br>F: Long ones.<br>M: We have some with fruit designs and some with animal designs. Which would you like?<br>F: Let’s see… I’ll take the animal ones.<br><br>Which socks will the woman buy?"
+    },
+    {
+      "question_id": "8760",
+      "order": 2,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1かい",
+          "furigana": "1かい",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2かい",
+          "furigana": "2かい",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3かい",
+          "furigana": "3かい",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4かい",
+          "furigana": "4かい",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>病院<rt>びょういん</rt></ruby>で、<ruby>医者<rt>いしゃ</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、1<ruby>日<rt>にち</rt></ruby>に<ruby>何回<rt>なんかい</rt></ruby><ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。<br /><br />M： この<ruby>薬<rt>くすり</rt></ruby>は、<ruby>朝<rt>あさ</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>、<ruby>ご飯<rt>ごはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたあとで<ruby>飲<rt>の</rt></ruby>んでください。<br />F： <ruby>昼<rt>ひる</rt></ruby><ruby>ご飯<rt>ごはん</rt></ruby>のあと は？<br />M： <ruby>昼<rt>ひる</rt></ruby>は<ruby>飲<rt>の</rt></ruby>まないでください。<br />F： はい。<br />M： 4<ruby>日間<rt>にちかん</rt></ruby><ruby>飲<rt>の</rt></ruby>んでくださいね。<br />F： わかりました。<br /><br /><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、1<ruby>日<rt>にち</rt></ruby>に<ruby>何回<rt>なんかい</rt></ruby><ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。</div></div>",
+      "listening_script_translation": "At a hospital, a doctor and a woman are talking. How many times a day will the woman take the medicine?<br><br>M: Please take this medicine after breakfast and dinner.<br>F: What about after lunch?<br>M: Don’t take it at lunch.<br>F: Okay.<br>M: Take it for four days.<br>F: I understand.<br><br>How many times a day will the woman take the medicine?"
+    },
+    {
+      "question_id": "8761",
+      "order": 3,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-11.17.01.png?fit=1024%2C792&ssl=1"
+      ],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">[デパート]で、<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、どの<ruby>鞄<rt>かばん</rt></ruby>を<ruby>取<rt>と</rt></ruby>りますか。<br /><br />F： すみません。その<ruby>上<rt>うえ</rt></ruby>の<ruby>黒<rt>くろ</rt></ruby>い<ruby>鞄<rt>かばん</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってください。<br />M： どちらですか。この<ruby>小<rt>ちい</rt></ruby>さいのですか。<br />F： いいえ、<ruby>大<rt>おお</rt></ruby>きいのです。<br />M： はい。<br /><br /><ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、どの<ruby>鞄<rt>かばん</rt></ruby>を<ruby>取<rt>と</rt></ruby>りますか。</div></div>",
+      "listening_script_translation": "At a department store, a woman and a clerk are talking. Which bag will the clerk take?<br><br>F: Excuse me, please take that black bag on the upper shelf.<br>M: Which one? The small one?<br>F: No, the big one.<br>M: Okay.<br><br>Which bag will the clerk take?"
+    },
+    {
+      "question_id": "8762",
+      "order": 4,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4",
+          "furigana": "4",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-11.17.21.png?fit=1024%2C794&ssl=1"
+      ],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>先生<rt>せんせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>学生<rt>がくせい</rt></ruby>は<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に何を<ruby>置<rt>お</rt></ruby>きますか。<br /><br />M： 今からテストをします。このテストでは<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>問題<rt>もんだい</rt></ruby>がありますから、<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してください。<ruby>鉛筆<rt>えんぴつ</rt></ruby>と<ruby>消<rt>け</rt></ruby>し[ゴム]も<ruby>出<rt>だ</rt></ruby>してください。<ruby>時計<rt>とけい</rt></ruby>は<ruby>鞄<rt>かばん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてください。<br />F： <ruby>先生<rt>せんせい</rt></ruby>、[ノート]はどうしますか。<br />M： [ノート]も<ruby>鞄<rt>かばん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてください。<br /><br /><ruby>学生<rt>がくせい</rt></ruby>は<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に何を<ruby>置<rt>お</rt></ruby>きますか。</div></div>",
+      "listening_script_translation": "In the classroom, the teacher is speaking. What will the students put on their desks?<br><br>M: We’ll start the test now. There are questions where you can use a dictionary, so please put your dictionary on the desk. Also take out your pencil and eraser. Please put your watch in your bag.<br>F: Teacher, what about our notebooks?<br>M: Put your notebooks in your bags too.<br><br>What will the students put on their desks?"
+    },
+    {
+      "question_id": "8763",
+      "order": 5,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "レストランで　ばんごはんを　たべます。",
+          "furigana": "レストランで　ばんごはんを　たべます。",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "へやで　にもつを　かたづけます。",
+          "furigana": "へやで　にもつを　かたづけます。",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "かいものに　いきます。",
+          "furigana": "かいものに　いきます。",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "テレビを　みます。",
+          "furigana": "テレビを　みます。",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">[バス]の<ruby>中<rt>なか</rt></ruby>で<ruby>旅行会社<rt>りょこうがいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>学生<rt>がくせい</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しています。<ruby>学生<rt>がくせい</rt></ruby>は、<ruby>始<rt>はじ</rt></ruby>めに何をしますか。<br /><br />F： みなさん、[ホテル]に<ruby>着<rt>つ</rt></ruby>きました。今から1<ruby>階<rt>かい</rt></ruby>の[レストラン]で<ruby>晩ご飯<rt>ばんごはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。<ruby>晩ご飯<rt>ばんごはん</rt></ruby>は7<ruby>時<rt>じ</rt></ruby>からです。今6<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>ですから、すぐに<ruby>行<rt>い</rt></ruby>ってください。みなさんの<ruby>荷物<rt>にもつ</rt></ruby>は、[ホテル]の<ruby>人<rt>ひと</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>に<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。<ruby>晩ご飯<rt>ばんごはん</rt></ruby>の<ruby>後<rt>あと</rt></ruby>は[テレビ]を<ruby>見<rt>み</rt></ruby>たり、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしたりしてください。<br /><br /><ruby>学生<rt>がくせい</rt></ruby>は、<ruby>始<rt>はじ</rt></ruby>めに何をしますか。</div></div>",
+      "listening_script_translation": "On the bus, a travel company staff member is speaking to the students. What will the students do first?<br><br>F: Everyone, we’ve arrived at the hotel. From now, we’ll have dinner in the first-floor restaurant. Dinner starts at seven o’clock. It’s now 6:50, so please go there right away. The hotel staff will bring your luggage to your rooms. After dinner, you can watch TV or go shopping.<br><br>What will the students do first?"
+    },
+    {
+      "question_id": "8764",
+      "order": 6,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "おにぎり",
+          "furigana": "おにぎり",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "のみもの",
+          "furigana": "のみもの",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "サッカーボール",
+          "furigana": "サッカーボール",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "おかし",
+          "furigana": "おかし",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は何を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きますか。<br /><br />M： <ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>海<rt>うみ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きますね。何を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きましょうか。<br />F： わたしはおにぎりを<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。<br />M： じゃあ、ぼくは……<br />F： <ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>とお<ruby>菓子<rt>かし</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。<br />M： はい。<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>とお<ruby>菓子<rt>かし</rt></ruby>ですね。<br />F： あ、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>は<ruby>重<rt>おも</rt></ruby>いですね。<ruby>海<rt>うみ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いてから<ruby>買<rt>か</rt></ruby>いましょう。<br />M： そうですね。<br /><br /><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は何を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きますか。</div></div>",
+      "listening_script_translation": "A man and a woman are talking. What will the man bring?<br><br>M: We’re going to the beach next Sunday, right? What should we bring?<br>F: I’ll bring rice balls.<br>M: Then I’ll…<br>F: Please bring drinks and snacks.<br>M: Okay, drinks and snacks.<br>F: Oh, drinks are heavy. Let’s buy them after we get to the beach.<br>M: That’s true.<br><br>What will the man bring?"
+    },
+    {
+      "question_id": "8765",
+      "order": 7,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1ばん",
+          "furigana": "1ばん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "3ばん",
+          "furigana": "3ばん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "5ばん",
+          "furigana": "5ばん",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "7ばん",
+          "furigana": "7ばん",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>バス停<rt>ばすてい</rt></ruby>で、<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>バス会社<rt>ばすがいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>何番<rt>なんばん</rt></ruby>の[バス]に<ruby>乗<rt>の</rt></ruby>りますか。<br /><br />F： すみません、1<ruby>番<rt>ばん</rt></ruby>の[バス]が<ruby>緑駅<rt>みどりえき</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。<br />M： いいえ、<ruby>緑駅<rt>みどりえき</rt></ruby>に<ruby>行<rt>い</rt></ruby>く[バス]は3<ruby>番<rt>ばん</rt></ruby>と5<ruby>番<rt>ばん</rt></ruby>と7<ruby>番<rt>ばん</rt></ruby>ですよ。<br />F： そうですか。<br />M： あ、でも<ruby>今日<rt>きょう</rt></ruby>は<ruby>日曜日<rt>にちようび</rt></ruby>ですから、5<ruby>番<rt>ばん</rt></ruby>の[バス]はありません。<br />F： そうですか。<br />M： それから、3<ruby>番<rt>ばん</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>と<ruby>夕方<rt>ゆうがた</rt></ruby>の[バス]ですから、今の<ruby>時間<rt>じかん</rt></ruby>は7<ruby>番<rt>ばん</rt></ruby>ですね。<br />F： わかりました。ありがとうございます。<br /><br /><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>何番<rt>なんばん</rt></ruby>の[バス]に<ruby>乗<rt>の</rt></ruby>りますか。</div></div>",
+      "listening_script_translation": "At a bus stop, a woman and a bus company staff member are talking. Which bus will the woman take?<br><br>F: Excuse me, does bus number 1 go to Midori Station?<br>M: No, the buses that go to Midori Station are numbers 3, 5, and 7.<br>F: I see.<br>M: Ah, but today is Sunday, so there is no number 5 bus.<br>F: I see.<br>M: Also, number 3 runs only in the morning and evening, so right now you should take number 7.<br>F: Got it. Thank you very much.<br><br>Which bus will the woman take?"
+    },
+    {
+      "question_id": "8769",
+      "order": 1,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1じかん",
+          "furigana": "1じかん",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2じかん",
+          "furigana": "2じかん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3じかん",
+          "furigana": "3じかん",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "4じかん",
+          "furigana": "4じかん",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>大学<rt>だいがく</rt></ruby>で、<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby><ruby>何時間<rt>なんじかん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しますか。<br /><br />M： <ruby>山田<rt>やまだ</rt></ruby>さんは、いつも<ruby>何時間<rt>なんじかん</rt></ruby>ぐらい<ruby>勉強<rt>べんきょう</rt></ruby>しますか。<br />F： ううん、<ruby>毎日<rt>まいにち</rt></ruby>3<ruby>時間<rt>じかん</rt></ruby>ぐらいです。<br />M： えっ、<ruby>私<rt>わたし</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>1<ruby>時間<rt>じかん</rt></ruby>です。<br />F： あ、でも<ruby>明日<rt>あした</rt></ruby>はテストがありますから、<ruby>今日<rt>きょう</rt></ruby>は4<ruby>時間<rt>じかん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>します。<br />M： そうですか。<br /><br /><ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby><ruby>何時間<rt>なんじかん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しますか。</div></div>",
+      "listening_script_translation": "At the university, a male and a female student are talking. How many hours will the female student study today?<br><br>M: Yamada, how many hours do you usually study?<br>F: Hmm, about three hours every day.<br>M: Oh, I only study one hour a day.<br>F: Ah, but since we have a test tomorrow, I’ll study for four hours today.<br>M: I see.<br><br>How many hours will the female student study today?"
+    },
+    {
+      "question_id": "8770",
+      "order": 2,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "512-7734",
+          "furigana": "512-7734",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "512-7744",
+          "furigana": "512-7744",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "512-7743",
+          "furigana": "512-7743",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "512-7343",
+          "furigana": "512-7343",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>電話番号<rt>でんわばんごう</rt></ruby>は<ruby>何番<rt>なんばん</rt></ruby>ですか。<br /><br />M： あのう、<ruby>山田<rt>やまだ</rt></ruby>さんの<ruby>電話番号<rt>でんわばんごう</rt></ruby>は512−7734ですね？<br />F： いいえ、7734じゃなくて7743です。<br />M： えっ、ちょっと<ruby>待<rt>ま</rt></ruby>ってください。メモします。512の……<br />F： 7743です。<br />M： はい、ありがとうございました。<br /><br /><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>電話番号<rt>でんわばんごう</rt></ruby>は<ruby>何番<rt>なんばん</rt></ruby>ですか。</div></div>",
+      "listening_script_translation": "A man and a woman are talking. What is the woman’s phone number?<br><br>M: Um, Yamada’s phone number is 512-7734, right?<br>F: No, not 7734 — it’s 7743.<br>M: Oh, please wait a moment. I’ll write it down. 512…<br>F: 7743.<br>M: Okay, thank you very much.<br><br>What is the woman’s phone number?"
+    },
+    {
+      "question_id": "8771",
+      "order": 3,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "両親りょうしん と　いっしょ",
+          "furigana": "両親りょうしん と　いっしょ",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "あね と　いっしょ",
+          "furigana": "あね と　いっしょ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "いもうと と　いっしょ",
+          "furigana": "いもうと と　いっしょ",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "ともだち と　いっしょ",
+          "furigana": "ともだち と　いっしょ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>と<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は、だれと<ruby>住<rt>す</rt></ruby>んでいますか。<br /><br />F： <ruby>山田<rt>やまだ</rt></ruby>さんは、お<ruby>父<rt>とう</rt></ruby>さんとお<ruby>母<rt>かあ</rt></ruby>さんと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいますか。<br />M： いいえ、<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいます。<br />F： そうですか。<br />M： 今、<ruby>姉<rt>あね</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。<br />F： <ruby>兄弟<rt>きょうだい</rt></ruby>は<ruby>一人<rt>ひとり</rt></ruby>ですか。<br />M： あ、<ruby>弟<rt>おとうと</rt></ruby>もいますよ。<ruby>弟<rt>おとうと</rt></ruby>は<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>です。<br /><br /><ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は、だれと<ruby>住<rt>す</rt></ruby>んでいますか。</div></div>",
+      "listening_script_translation": "A female and a male student are talking. Who does the male student live with?<br><br>F: Yamada, do you live with your father and mother?<br>M: No, my parents live far away.<br>F: I see.<br>M: Right now, I live with my older sister.<br>F: Do you have any siblings?<br>M: Oh, I also have a younger brother. He lives with our parents.<br><br>Who does the male student live with?"
+    },
+    {
+      "question_id": "8772",
+      "order": 4,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "がっこうの　食堂しょくどう",
+          "furigana": "がっこうの　食堂しょくどう",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "えきまえの　きっさてん",
+          "furigana": "えきまえの　きっさてん",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "パンや",
+          "furigana": "パンや",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "きょうしつ",
+          "furigana": "きょうしつ",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "4",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>学校<rt>がっこう</rt></ruby>で、<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。二人はどこで<ruby>昼ご飯<rt>ひるごはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。<br /><br />M： もう1<ruby>時<rt>じ</rt></ruby>ですね。何か<ruby>食<rt>た</rt></ruby>べませんか。<br />F： そうですね。でも<ruby>今日<rt>きょう</rt></ruby>は<ruby>土曜日<rt>どようび</rt></ruby>だから、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>食堂<rt>しょくどう</rt></ruby>や<ruby>喫茶店<rt>きっさてん</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みですよ。<br />M： じゃあ、<ruby>パン屋<rt>ぱんや</rt></ruby>でパンを<ruby>買<rt>か</rt></ruby>って、<ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>食<rt>た</rt></ruby>べましょうか。<br />F： そうですね。<br /><br />二人はどこで<ruby>昼ご飯<rt>ひるごはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。</div></div>",
+      "listening_script_translation": "At school, a male and a female student are talking. Where will they eat lunch?<br><br>M: It’s already one o’clock. Shall we eat something?<br>F: Yes, but today is Saturday, so the school cafeteria and café are closed.<br>M: Then, shall we buy bread at the bakery and eat it in the classroom?<br>F: Sounds good.<br><br>Where will they eat lunch?"
+    },
+    {
+      "question_id": "8773",
+      "order": 5,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "くろの　ボールペン",
+          "furigana": "くろの　ボールペン",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "えんぴつ",
+          "furigana": "えんぴつ",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "あかペン",
+          "furigana": "あかペン",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "あおペン",
+          "furigana": "あおペン",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>教室<rt>きょうしつ</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>が<ruby>学生<rt>がくせい</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しています。<ruby>学生<rt>がくせい</rt></ruby>は何で<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きますか。<br /><br />F： はい。じゃあ、ちょっと<ruby>聞<rt>き</rt></ruby>いてください。ええ、<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>バス旅行<rt>ばすりょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたい<ruby>人<rt>ひと</rt></ruby>は、この<ruby>紙<rt>かみ</rt></ruby>にボールペンで<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。<ruby>鉛筆<rt>えんぴつ</rt></ruby>じゃなくて、ボールペンですよ。<ruby>黒<rt>くろ</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてください。<ruby>赤<rt>あか</rt></ruby>で<ruby>書<rt>か</rt></ruby>かないでくださいね。<br /><br /><ruby>学生<rt>がくせい</rt></ruby>は何で<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きますか。</div></div>",
+      "listening_script_translation": "In the classroom, the teacher is talking to the students. What will the students use to write their names?<br><br>F: Okay, please listen. Um, those who want to go on next month’s bus trip, please write your name on this paper with a ballpoint pen. Not a pencil, use a pen. Write in black ink. Please don’t write in red.<br><br>What will the students use to write their names?"
+    },
+    {
+      "question_id": "8774",
+      "order": 6,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "えき",
+          "furigana": "えき",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "バスてい",
+          "furigana": "バスてい",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "えきまえの　きっさてん",
+          "furigana": "えきまえの　きっさてん",
+          "has_image": false
+        },
+        {
+          "label": "4.",
+          "text": "レストラン",
+          "furigana": "レストラン",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>と<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。二人は<ruby>明日<rt>あした</rt></ruby>どこで<ruby>会<rt>あ</rt></ruby>いますか。<br /><br />F： <ruby>明日<rt>あした</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>一緒<rt>いっしょ</rt></ruby>にサッカーを<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。<br />M： いいですね。どこで<ruby>会<rt>あ</rt></ruby>いましょうか。<br />F： 5<ruby>時<rt>じ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>で<ruby>会<rt>あ</rt></ruby>いませんか。<br />M： <ruby>駅<rt>えき</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですよ。<br />F： そうですね。じゃあ、<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>喫茶店<rt>きっさてん</rt></ruby>はどうですか。<br />M： はい、そうしましょう。あっ、サッカーを<ruby>見<rt>み</rt></ruby>てから<ruby>近<rt>ちか</rt></ruby>くの[レストラン]で<ruby>晩ご飯<rt>ばんごはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べませんか。<br />F： ええ、じゃあ<ruby>明日<rt>あした</rt></ruby>5<ruby>時<rt>じ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いましょう。<br /><br />二人は<ruby>明日<rt>あした</rt></ruby>どこで<ruby>会<rt>あ</rt></ruby>いますか。</div></div>",
+      "listening_script_translation": "A female and a male student are talking. Where will they meet tomorrow?<br><br>F: How about going to see the soccer game together tomorrow night?<br>M: Sounds good. Where shall we meet?<br>F: Shall we meet at the station at five?<br>M: The station will be crowded.<br>F: That’s true. Then how about the café in front of the station?<br>M: Yes, let’s do that. Oh, after watching soccer, shall we have dinner at a nearby restaurant?<br>F: Sure. Then, let’s meet at five tomorrow.<br><br>Where will they meet tomorrow?"
+    },
+    {
+      "question_id": "8775",
+      "order": 1,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-11.28.26.png?fit=1024%2C807&ssl=1"
+      ],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。なんと<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. ごちそうさまでした。<br />2. いただきます。<br />3. どういたしまして。</div></div>",
+      "listening_script_translation": "You have finished eating. What do you say?<br><br>1. Thank you for the meal. (polite phrase said after eating)<br>2. I humbly receive. (said before eating)<br>3. You’re welcome."
+    },
+    {
+      "question_id": "8776",
+      "order": 2,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-11.28.47.png?fit=1024%2C798&ssl=1"
+      ],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>です。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。なんと<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. どうもありがとう。<br />2. はじめまして。<br />3. ここ、どうぞ。</div></div>",
+      "listening_script_translation": "You are on a train. A woman has come. What do you say?<br><br>1. Thank you very much.<br>2. Nice to meet you.<br>3. Here, please. (offering your seat)"
+    },
+    {
+      "question_id": "8777",
+      "order": 3,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-11.29.05.png?fit=1024%2C795&ssl=1"
+      ],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">うちへ<ruby>帰<rt>かえ</rt></ruby>ります。<ruby>友達<rt>ともだち</rt></ruby>になんと<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. <ruby>行<rt>い</rt></ruby>ってきます。<br />2. じゃ、まだ。<br />3. ただいま。</div></div>",
+      "listening_script_translation": "You are going home. What do you say to your friend?<br><br>1. I’m off / I’ll be back soon. (said when leaving home)<br>2. See you later.<br>3. I’m home. (said upon returning)"
+    },
+    {
+      "question_id": "8778",
+      "order": 4,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-11.29.22.png?fit=1024%2C803&ssl=1"
+      ],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>郵便局<rt>ゆうびんきょく</rt></ruby>で<ruby>切手<rt>きって</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。なんと<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. <ruby>切手<rt>きって</rt></ruby>を<ruby>買<rt>か</rt></ruby>いませんか。<br />2. <ruby>切手<rt>きって</rt></ruby>をどうぞ。<br />3. <ruby>切手<rt>きって</rt></ruby>をください。</div></div>",
+      "listening_script_translation": "At the post office, you want to buy stamps. What do you say?<br><br>1. Shall we buy stamps? (inviting)<br>2. Here are some stamps. (offering)<br>3. Please give me stamps. ✅"
+    },
+    {
+      "question_id": "8779",
+      "order": 5,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [
+        "https://i0.wp.com/nihonez.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-11.29.41.png?fit=1024%2C774&ssl=1"
+      ],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>友達<rt>ともだち</rt></ruby>は<ruby>鉛筆<rt>えんぴつ</rt></ruby>がありません。<ruby>友達<rt>ともだち</rt></ruby>になんと<ruby>言<rt>い</rt></ruby>いますか。<br /><br />1. えんぴつ、<ruby>借<rt>か</rt></ruby>りましょうか。<br />2. えんぴつ、<ruby>使<rt>つか</rt></ruby>いますか。<br />3. えんぴつ、<ruby>貸<rt>か</rt></ruby>してください。</div></div>",
+      "listening_script_translation": "Your friend doesn’t have a pencil. What do you say to them?<br><br>1. Shall I borrow a pencil? (incorrect direction)<br>2. Will you use a pencil?<br>3. Please lend me a pencil. ✅"
+    },
+    {
+      "question_id": "8780",
+      "order": 1,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>今日<rt>きょう</rt></ruby>は<ruby>何日<rt>なんにち</rt></ruby>ですか。<br /><br />1. 三<ruby>日<rt>にち</rt></ruby>です。<br />2. 三<ruby>週間<rt>しゅうかん</rt></ruby>です。<br />3. 三<ruby>時<rt>じ</rt></ruby>です。</div></div>",
+      "listening_script_translation": "What is the date today?<br><br>1. It’s the 3rd.<br>2. It’s three weeks.<br>3. It’s three o’clock."
+    },
+    {
+      "question_id": "8781",
+      "order": 2,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">すみません。<ruby>図書館<rt>としょかん</rt></ruby>はどこですか。<br /><br />1. あそこです。<br />2. 六<ruby>時<rt>じ</rt></ruby>までです。<br />3. <ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>ります。</div></div>",
+      "listening_script_translation": "Excuse me, where is the library?<br><br>1. It’s over there.<br>2. It’s open until six o’clock.<br>3. I’ll borrow a book."
+    },
+    {
+      "question_id": "8782",
+      "order": 3,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "2",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>明日<rt>あした</rt></ruby>、<ruby>何時<rt>なんじ</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>ますか。<br /><br />1. バスで<ruby>来<rt>き</rt></ruby>ます。<br />2. 九<ruby>時半<rt>じはん</rt></ruby>です。<br />3. 六<ruby>人<rt>にん</rt></ruby>です。</div></div>",
+      "listening_script_translation": "Tomorrow, what time will you come to school?<br><br>1. I’ll come by bus.<br>2. At 9:30.<br>3. Six people."
+    },
+    {
+      "question_id": "8783",
+      "order": 4,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\"><ruby>田中<rt>たなか</rt></ruby>さん、その<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちましょうか。<br /><br />1. どういたしまして。<br />2. <ruby>持<rt>も</rt></ruby>ちませんでした。<br />3. ありがとうございます。</div></div>",
+      "listening_script_translation": "Mr. Tanaka, shall I carry that luggage for you?<br><br>1. You’re welcome.<br>2. I didn’t carry it.<br>3. Thank you."
+    },
+    {
+      "question_id": "8784",
+      "order": 5,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "3",
+      "points": "0/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">ちょっと<ruby>休<rt>やす</rt></ruby>みませんか。<br /><br />1. <ruby>日曜日<rt>にちようび</rt></ruby>です。<br />2. お<ruby>元気<rt>げんき</rt></ruby>ですか。<br />3. そうしましょう。</div></div>",
+      "listening_script_translation": "Shall we take a short rest?<br><br>1. It’s Sunday.<br>2. How are you?<br>3. Let’s do that."
+    },
+    {
+      "question_id": "8785",
+      "order": 6,
+      "html": "ばん",
+      "text": "ばん",
+      "passage": null,
+      "options": [
+        {
+          "label": "1.",
+          "text": "1",
+          "furigana": "1",
+          "has_image": false
+        },
+        {
+          "label": "2.",
+          "text": "2",
+          "furigana": "2",
+          "has_image": false
+        },
+        {
+          "label": "3.",
+          "text": "3",
+          "furigana": "3",
+          "has_image": false
+        }
+      ],
+      "audio": null,
+      "images": [],
+      "correct_answer": "1",
+      "points": "2.5/2.5",
+      "explanation": null,
+      "listening_script": "<div class=\"jlpt-passages\"><div class=\"passage\">それはなんの<ruby>本<rt>ほん</rt></ruby>ですか。<br /><br />1. <ruby>料理<rt>りょうり</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>です。<br />2. <ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>です。<br />3. はい、そうです。</div></div>",
+      "listening_script_translation": "What kind of book is that?<br><br>1. It’s a cookbook.<br>2. It’s my book.<br>3. Yes, it is."
+    }
+  ],
+  "listening_audio": [
+    "https://nihonez.com/wp-content/uploads/2025/09/audio-jlpt-n5-past-test-2010-2011-real-exam-task-based-comprehension.mp3",
+    "https://nihonez.com/wp-content/uploads/2025/09/audio-jlpt-n5-past-test-2010-2011-real-exam-comprehension-of-key-points.mp3",
+    "https://nihonez.com/wp-content/uploads/2025/09/audio-jlpt-n5-past-test-2010-2011-real-exam-verbal-expressions.mp3",
+    "https://nihonez.com/wp-content/uploads/2025/09/audio-jlpt-n5-past-test-2010-2011-real-exam-quick-response.mp3"
+  ]
+}

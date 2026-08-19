@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-77337817835e",
+    "slug": "jlpt-n5-kanji-exercise-01",
+    "title": "JLPT N5 – Kanji Exercise 01",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-01",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "来月",
+      "choices": [
+        "くげつ",
+        "らいがつ",
+        "くがつ",
+        "らいげつ"
+      ],
+      "correct_answer": "らいげつ",
+      "explanation": "来月: らいげつ"
+    },
+    {
+      "question_number": 2,
+      "prompt": "七月",
+      "choices": [
+        "しちがつ",
+        "しちげつ",
+        "なのがつ",
+        "なのげつ"
+      ],
+      "correct_answer": "しちがつ",
+      "explanation": "七月: しちがつ"
+    },
+    {
+      "question_number": 3,
+      "prompt": "木よう日",
+      "choices": [
+        "きにょうび",
+        "すいようび",
+        "かようび",
+        "もくようび"
+      ],
+      "correct_answer": "もくようび",
+      "explanation": "木よう日: もくようび"
+    },
+    {
+      "question_number": 4,
+      "prompt": "九時",
+      "choices": [
+        "くうじ",
+        "きゅじ",
+        "くじ",
+        "きゅうじ"
+      ],
+      "correct_answer": "くじ",
+      "explanation": "九時: くじ"
+    },
+    {
+      "question_number": 5,
+      "prompt": "お金",
+      "choices": [
+        "おちゃ",
+        "おかし",
+        "おさら",
+        "おかね"
+      ],
+      "correct_answer": "おかね",
+      "explanation": "お金: おかね"
+    },
+    {
+      "question_number": 6,
+      "prompt": "八万円",
+      "choices": [
+        "はちまんえん",
+        "はっせんえん",
+        "はちばんえん",
+        "はっけんえん"
+      ],
+      "correct_answer": "はちまんえん",
+      "explanation": "八万円: はちまんえん"
+    },
+    {
+      "question_number": 7,
+      "prompt": "入って",
+      "choices": [
+        "いれって",
+        "いって",
+        "はって",
+        "はいって"
+      ],
+      "correct_answer": "はいって",
+      "explanation": "入って: はいって"
+    },
+    {
+      "question_number": 8,
+      "prompt": "天気",
+      "choices": [
+        "げんき",
+        "けんき",
+        "てんき",
+        "でんき"
+      ],
+      "correct_answer": "てんき",
+      "explanation": "天気: てんき"
+    },
+    {
+      "question_number": 9,
+      "prompt": "北",
+      "choices": [
+        "みなみ",
+        "きた",
+        "ひがし",
+        "にし"
+      ],
+      "correct_answer": "きた",
+      "explanation": "北: きた"
+    },
+    {
+      "question_number": 10,
+      "prompt": "白い",
+      "choices": [
+        "たかい",
+        "ひろい",
+        "しろい",
+        "おかい"
+      ],
+      "correct_answer": "しろい",
+      "explanation": "白い: しろい"
+    }
+  ]
+}

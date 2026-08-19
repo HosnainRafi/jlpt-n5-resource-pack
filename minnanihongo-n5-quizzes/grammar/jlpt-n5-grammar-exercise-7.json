@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-cbdc38bab635",
+    "slug": "jlpt-n5-grammar-exercise-7",
+    "title": "JLPT N5 – Grammar Exercise 7",
+    "level": "N5",
+    "categories": [
+      "grammar"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-grammar-exercise-7",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "わたしはもっと _______ たいです。",
+      "choices": [
+        "はなし",
+        "はなす",
+        "はなした",
+        "はなします"
+      ],
+      "correct_answer": "はなし",
+      "explanation": "わたしはもっと はなし たいです。"
+    },
+    {
+      "question_number": 2,
+      "prompt": "ここで _______ ください。",
+      "choices": [
+        "あそばない",
+        "あそばなく",
+        "あそばなくて",
+        "あそばないで"
+      ],
+      "correct_answer": "あそばないで",
+      "explanation": "ここで あそばないで ください。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "わたしはきのう _______ まえに、てがみをかきました。",
+      "choices": [
+        "ねる",
+        "ねた",
+        "ねるの",
+        "ねたの"
+      ],
+      "correct_answer": "ねる",
+      "explanation": "わたしはきのう ねる まえに、てがみをかきました。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "きのう本を _______ に行きました。",
+      "choices": [
+        "かって",
+        "かう",
+        "かわ",
+        "かい"
+      ],
+      "correct_answer": "かい",
+      "explanation": "きのう本を かい に行きました。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "わたしはおんがくを _______ ながらべんきょうします。",
+      "choices": [
+        "きく",
+        "きき",
+        "きいた",
+        "きいて"
+      ],
+      "correct_answer": "きき",
+      "explanation": "わたしはおんがくを きき ながらべんきょうします。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "あした山田さんが _______ 人はだれですか？",
+      "choices": [
+        "あって",
+        "あいます",
+        "あった",
+        "あう"
+      ],
+      "correct_answer": "あう",
+      "explanation": "あした山田さんが あう 人はだれですか？"
+    },
+    {
+      "question_number": 7,
+      "prompt": "いますぐビールをのみますか？いいえ、おふろに _______ からのみます。",
+      "choices": [
+        "はいる",
+        "はいり",
+        "はいります",
+        "はいって"
+      ],
+      "correct_answer": "はいって",
+      "explanation": "「いますぐビールをのみますか？」「いいえ、おふろに はいって からのみます。」"
+    },
+    {
+      "question_number": 8,
+      "prompt": "かべにポスターがはって _______ 。",
+      "choices": [
+        "います",
+        "なります",
+        "あります",
+        "します"
+      ],
+      "correct_answer": "あります",
+      "explanation": "かべにポスターがはって あります 。"
+    },
+    {
+      "question_number": 9,
+      "prompt": "このえはわたしがきのうこうえんで _______ えです。",
+      "choices": [
+        "かく",
+        "かかない",
+        "かいた",
+        "かいて"
+      ],
+      "correct_answer": "かいた",
+      "explanation": "このえはわたしがきのうこうえんで かいた えです。"
+    },
+    {
+      "question_number": 10,
+      "prompt": "こどもはゆうべばんごはんを _______ ねました。",
+      "choices": [
+        "たべなくた",
+        "たべないで",
+        "たべない",
+        "たべなく"
+      ],
+      "correct_answer": "たべないで",
+      "explanation": "こどもはゆうべばんごはんを たべないで ねました。"
+    }
+  ]
+}

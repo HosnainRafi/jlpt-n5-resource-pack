@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "quiz_id": "crawl-80c4740f216c",
+    "slug": "jlpt-n5-kanji-exercise-10",
+    "title": "JLPT N5 – Kanji Exercise 10",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 7,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-10",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 7,
+    "score": 43,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "しんぶん",
+      "choices": [
+        "新聞",
+        "新刊",
+        "新間",
+        "新門"
+      ],
+      "correct_answer": "新聞",
+      "explanation": "しんぶん: 新聞"
+    },
+    {
+      "question_number": 2,
+      "prompt": "かい",
+      "choices": [
+        "会い",
+        "行い",
+        "食い",
+        "買い"
+      ],
+      "correct_answer": "買い",
+      "explanation": "かい: 買い"
+    },
+    {
+      "question_number": 3,
+      "prompt": "時間",
+      "choices": [
+        "じかん",
+        "じけん",
+        "しかん",
+        "しけん"
+      ],
+      "correct_answer": "じかん",
+      "explanation": "時間: じかん"
+    },
+    {
+      "question_number": 4,
+      "prompt": "六十分",
+      "choices": [
+        "ろくじゅうふん",
+        "ろくじゅうふん",
+        "ろっくじゅっぷん",
+        "ろくじゅっぷん"
+      ],
+      "correct_answer": "ろくじゅっぷん",
+      "explanation": "六十分: ろくじゅっぷん"
+    },
+    {
+      "question_number": 5,
+      "prompt": "ながい",
+      "choices": [
+        "高い",
+        "張い",
+        "長い",
+        "短い"
+      ],
+      "correct_answer": "長い",
+      "explanation": "ながい: 長い"
+    },
+    {
+      "question_number": 6,
+      "prompt": "でんしゃ",
+      "choices": [
+        "雷車",
+        "雷社",
+        "電社",
+        "電車"
+      ],
+      "correct_answer": "電車",
+      "explanation": "でんしゃ: 電車"
+    },
+    {
+      "question_number": 7,
+      "prompt": "あかるく",
+      "choices": [
+        "明るく",
+        "昼るく",
+        "月るく",
+        "日るく"
+      ],
+      "correct_answer": "明るく",
+      "explanation": "あかるく: 明るく"
+    }
+  ]
+}

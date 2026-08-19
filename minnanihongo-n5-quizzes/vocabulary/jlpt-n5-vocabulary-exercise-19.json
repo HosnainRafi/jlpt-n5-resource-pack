@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "quiz_id": "crawl-a6586aaf5045",
+    "slug": "jlpt-n5-vocabulary-exercise-19",
+    "title": "JLPT N5 – Vocabulary Exercise 19",
+    "level": "N5",
+    "categories": [
+      "vocabulary"
+    ],
+    "total_questions": 10,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-vocabulary-exercise-19",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 10,
+    "score": 20,
+    "correct_count": 2
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "国で日本語を _______ しましたか？",
+      "choices": [
+        "うんてん",
+        "りょうり",
+        "まなぶ",
+        "べんきょう"
+      ],
+      "correct_answer": "べんきょう",
+      "explanation": "国で日本語を べんきょう しましたか？"
+    },
+    {
+      "question_number": 2,
+      "prompt": "ふうとうにきってを _______ だします。",
+      "choices": [
+        "おいて",
+        "かいて",
+        "はって",
+        "みせて"
+      ],
+      "correct_answer": "はって",
+      "explanation": "ふうとうにきってを はって だします。"
+    },
+    {
+      "question_number": 3,
+      "prompt": "わたしはうたがへたです。でも、うたは _______ 。",
+      "choices": [
+        "すきです",
+        "じょうずです",
+        "じょうぶです",
+        "りっぱです"
+      ],
+      "correct_answer": "すきです",
+      "explanation": "わたしはうたがへたです。でも、うたは すきです 。"
+    },
+    {
+      "question_number": 4,
+      "prompt": "_______ がふりはじめた。",
+      "choices": [
+        "うみ",
+        "かぜ",
+        "あめ",
+        "かみなり"
+      ],
+      "correct_answer": "あめ",
+      "explanation": "あめ がふりはじめた。"
+    },
+    {
+      "question_number": 5,
+      "prompt": "_______ ですね。でんきをつけましょう。",
+      "choices": [
+        "うすい",
+        "くらい",
+        "しろい",
+        "あかるい"
+      ],
+      "correct_answer": "くらい",
+      "explanation": "くらい ですね。でんきをつけましょう。"
+    },
+    {
+      "question_number": 6,
+      "prompt": "A: ありがとうございます。 B: いいえ、 _______ 。",
+      "choices": [
+        "すみません",
+        "おつかれさまでした",
+        "ちがいます",
+        "どういたしまして"
+      ],
+      "correct_answer": "どういたしまして",
+      "explanation": "A: ありがとうございます。B: いいえ、 どういたしまして 。"
+    },
+    {
+      "question_number": 7,
+      "prompt": "きょうは彼と _______ に来ましたか？",
+      "choices": [
+        "もっと",
+        "だけ",
+        "いっしょ",
+        "いつも"
+      ],
+      "correct_answer": "いっしょ",
+      "explanation": "きょうは彼と いっしょ に来ましたか？"
+    },
+    {
+      "question_number": 8,
+      "prompt": "学校の _______ はなんですか？",
+      "choices": [
+        "かず",
+        "ゆき",
+        "そら",
+        "でんわばんごう"
+      ],
+      "correct_answer": "でんわばんごう",
+      "explanation": "学校の でんわばんごう はなんですか？"
+    },
+    {
+      "question_number": 9,
+      "prompt": "だれにいちばん _______ ですか？",
+      "choices": [
+        "すみたい",
+        "あいたい",
+        "いきたい",
+        "のみたい"
+      ],
+      "correct_answer": "あいたい",
+      "explanation": "だれにいちばん あいたい ですか？"
+    },
+    {
+      "question_number": 10,
+      "prompt": "へやはストーブがついていて、とても _______ です。",
+      "choices": [
+        "あたたかい",
+        "ひくい",
+        "すずしい",
+        "さむい"
+      ],
+      "correct_answer": "あたたかい",
+      "explanation": "へやはストーブがついていて、とても あたたかい です。"
+    }
+  ]
+}

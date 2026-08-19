@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "quiz_id": "crawl-d7663a2f7e7e",
+    "slug": "jlpt-n5-kanji-exercise-7",
+    "title": "JLPT N5 – Kanji Exercise 7",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 8,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-7",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 8,
+    "score": 38,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "手紙",
+      "choices": [
+        "てかみ",
+        "しゅかみ",
+        "てがみ",
+        "しゅがみ"
+      ],
+      "correct_answer": "てがみ",
+      "explanation": "手紙: てがみ"
+    },
+    {
+      "question_number": 2,
+      "prompt": "半分",
+      "choices": [
+        "かんぶん",
+        "はんぶん",
+        "はんふｎ",
+        "かんふｎ"
+      ],
+      "correct_answer": "はんぶん",
+      "explanation": "半分: はんぶん"
+    },
+    {
+      "question_number": 3,
+      "prompt": "たかい",
+      "choices": [
+        "高い",
+        "重い",
+        "低い",
+        "広い"
+      ],
+      "correct_answer": "高い",
+      "explanation": "たかい: 高い"
+    },
+    {
+      "question_number": 4,
+      "prompt": "銀行",
+      "choices": [
+        "きんこう",
+        "ぎんこう",
+        "ぎんきょ",
+        "きんきょ"
+      ],
+      "correct_answer": "ぎんこう",
+      "explanation": "銀行: ぎんこう"
+    },
+    {
+      "question_number": 5,
+      "prompt": "道",
+      "choices": [
+        "みち",
+        "まち",
+        "どう",
+        "とう"
+      ],
+      "correct_answer": "みち",
+      "explanation": "道: みち"
+    },
+    {
+      "question_number": 6,
+      "prompt": "西",
+      "choices": [
+        "にし",
+        "きた",
+        "みなみ",
+        "ひがし"
+      ],
+      "correct_answer": "にし",
+      "explanation": "西: にし"
+    },
+    {
+      "question_number": 7,
+      "prompt": "四",
+      "choices": [
+        "し",
+        "いし",
+        "よん",
+        "よ"
+      ],
+      "correct_answer": "よん",
+      "explanation": "四: よん"
+    },
+    {
+      "question_number": 8,
+      "prompt": "左",
+      "choices": [
+        "みぎ",
+        "した",
+        "うえ",
+        "ひだり"
+      ],
+      "correct_answer": "ひだり",
+      "explanation": "左: ひだり"
+    }
+  ]
+}

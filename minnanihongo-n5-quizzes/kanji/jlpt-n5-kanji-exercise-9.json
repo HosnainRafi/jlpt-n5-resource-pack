@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "quiz_id": "crawl-8c79e4f54fd5",
+    "slug": "jlpt-n5-kanji-exercise-9",
+    "title": "JLPT N5 – Kanji Exercise 9",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 7,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-9",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 7,
+    "score": 14,
+    "correct_count": 1
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "今月",
+      "choices": [
+        "こんつき",
+        "こんげつ",
+        "いまつき",
+        "こんがつ"
+      ],
+      "correct_answer": "こんげつ",
+      "explanation": "今月: こんげつ"
+    },
+    {
+      "question_number": 2,
+      "prompt": "五日",
+      "choices": [
+        "ごにち",
+        "ごひ",
+        "いつか",
+        "いっか"
+      ],
+      "correct_answer": "いつか",
+      "explanation": "五日: いつか"
+    },
+    {
+      "question_number": 3,
+      "prompt": "みなみ",
+      "choices": [
+        "北",
+        "東",
+        "南",
+        "西"
+      ],
+      "correct_answer": "南",
+      "explanation": "みなみ: 南"
+    },
+    {
+      "question_number": 4,
+      "prompt": "いって",
+      "choices": [
+        "来て",
+        "行って",
+        "着て",
+        "住て"
+      ],
+      "correct_answer": "行って",
+      "explanation": "いって: 行って"
+    },
+    {
+      "question_number": 5,
+      "prompt": "おおきい",
+      "choices": [
+        "小きい",
+        "太きい",
+        "大きい",
+        "少きい"
+      ],
+      "correct_answer": "大きい",
+      "explanation": "おおきい: 大きい"
+    },
+    {
+      "question_number": 6,
+      "prompt": "入って",
+      "choices": [
+        "いって",
+        "はいって",
+        "はって",
+        "いて"
+      ],
+      "correct_answer": "はいって",
+      "explanation": "入って: はいって"
+    },
+    {
+      "question_number": 7,
+      "prompt": "休んで",
+      "choices": [
+        "やすんで",
+        "すすんで",
+        "ぬすんで",
+        "やんで"
+      ],
+      "correct_answer": "やすんで",
+      "explanation": "休んで: やすんで"
+    }
+  ]
+}

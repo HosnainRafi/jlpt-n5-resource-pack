@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "quiz_id": "crawl-cdedf853d741",
+    "slug": "jlpt-n5-kanji-exercise-05",
+    "title": "JLPT N5 – Kanji Exercise 05",
+    "level": "N5",
+    "categories": [
+      "kanji"
+    ],
+    "total_questions": 7,
+    "source": "https://www.minnanihongo.com/quiz/jlpt-n5-kanji-exercise-05",
+    "extracted": "2026-08-19"
+  },
+  "score": {
+    "total": 7,
+    "score": 43,
+    "correct_count": 3
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "prompt": "朝",
+      "choices": [
+        "あさ",
+        "ひる",
+        "よる",
+        "ばん"
+      ],
+      "correct_answer": "あさ",
+      "explanation": "朝: あさ"
+    },
+    {
+      "question_number": 2,
+      "prompt": "七時",
+      "choices": [
+        "ななじ",
+        "しちじ",
+        "はち",
+        "ろくじ"
+      ],
+      "correct_answer": "しちじ",
+      "explanation": "七時: しちじ"
+    },
+    {
+      "question_number": 3,
+      "prompt": "きた",
+      "choices": [
+        "非",
+        "化",
+        "北",
+        "比"
+      ],
+      "correct_answer": "北",
+      "explanation": "きた: 北"
+    },
+    {
+      "question_number": 4,
+      "prompt": "うまれ",
+      "choices": [
+        "主まれ",
+        "佳まれ",
+        "住まれ",
+        "生まれ"
+      ],
+      "correct_answer": "生まれ",
+      "explanation": "うまれ: 生まれ"
+    },
+    {
+      "question_number": 5,
+      "prompt": "後ろ",
+      "choices": [
+        "うしろ",
+        "いしろ",
+        "あしろ",
+        "おしろ"
+      ],
+      "correct_answer": "うしろ",
+      "explanation": "後ろ: うしろ"
+    },
+    {
+      "question_number": 6,
+      "prompt": "何",
+      "choices": [
+        "なに",
+        "なん",
+        "か",
+        "なんに"
+      ],
+      "correct_answer": "なに",
+      "explanation": "何: なに"
+    },
+    {
+      "question_number": 7,
+      "prompt": "小さい",
+      "choices": [
+        "ちさい",
+        "すくさい",
+        "ちいさい",
+        "しさい"
+      ],
+      "correct_answer": "ちいさい",
+      "explanation": "小さい: ちいさい"
+    }
+  ]
+}
