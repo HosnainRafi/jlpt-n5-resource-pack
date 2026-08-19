@@ -24,9 +24,12 @@ jlpt-n5-resource-pack/
 │   ├── kanji/                          # 19 quizzes
 │   ├── listening/                      # 43 quizzes
 │   └── reading/                        # 1 quiz
-└── minna-no-nihongo-listening/         # Official book audio, Lessons 1–25
-    ├── index.json                      # Lesson → track mapping with durations
-    └── lesson-{01..25}/                # 3–5 audio tracks per lesson (87 total)
+├── minna-no-nihongo-listening/         # Official book audio, Lessons 1–25
+│   ├── index.json                      # Lesson → track mapping with durations
+│   └── lesson-{01..25}/                # 3–5 audio tracks per lesson (87 total)
+└── jlpt-official-workbook-vol2-n5/     # Official JLPT Workbook Vol. 2 (2018) – N5
+    ├── pdf/                            # All 3 test sections, answer key, scripts
+    └── audio/                          # 4 listening audio tracks
 ```
 
 ## Contents Summary
@@ -37,6 +40,7 @@ jlpt-n5-resource-pack/
 | `minnanihongo-n5-mocks` | [minnanihongo.com](https://www.minnanihongo.com/jlpt-mock-tests/n5) | 5 mocks, 335 questions | Questions, listening transcripts (scripts), audio, images. Answer keys are not exposed to guest sessions and are therefore not included |
 | `minnanihongo-n5-quizzes` | [minnanihongo.com](https://www.minnanihongo.com/quizzes?level=N5) | 112 quizzes | Each quiz has prompts, choices, correct answers, and explanations |
 | `minna-no-nihongo-listening` | 3A Corporation (official publisher) | Lessons 1–25, 87 tracks | Official audio of *Minna no Nihongo Shokyu I* 2nd edition |
+| `jlpt-official-workbook-vol2-n5` | Japan Foundation / JEES ([jlpt.jp](https://www.jlpt.jp/e/samples/sampleindex.html)) | Full official practice test | Official Workbook Vol. 2 (2018) N5 sections, answer key, scripts, and listening audio |
 
 ### N5 Test Collection (nihonez.com)
 
@@ -106,4 +110,22 @@ This repository is a personal study archive. All questions, audio, and images re
 - **minnanihongo.com** – mock tests and quizzes (minnanihongo.com)
 - **3A Corporation** – *Minna no Nihongo* listening audio (official free download, [3anet.co.jp](https://www.3anet.co.jp/np/en/resrcs/230020/))
 
-Use these materials for personal study or in apps with appropriate attribution and in accordance with each source's terms of service.
+Use these materials for personal study or in apps with appropriate attribution and in accordance with each source's terms of service. Note that the official JLPT Workbook listening audio contains third-party works; see `jlpt-official-workbook-vol2-n5/README.md` for details.
+
+## Other Useful N5 Mock Test Resources (not included)
+
+If you want even more practice, these external sources were identified during research:
+
+| Resource | What it offers |
+| --- | --- |
+| [jlpt.jp – Let's Try Sample Questions](https://www.jlpt.jp/e/samples/forlearners.html) | Official interactive sample questions for each N5 item type |
+| [jlpt.jp – Official Sample Questions (2009)](https://www.jlpt.jp/e/samples/sample09.html) | Free PDF full test, answer list, and audio in the pre-2010 format |
+| [migii.net N5 Mock Tests](https://jlpt.migii.net/en/mock-test/jlpt-n5) | Free online N5 mock tests with daily practice |
+| [migii.net – Free N5 PDF](https://migii.net/en/blog/jlpt-n5-test-practice) | Free downloadable full N5 practice test PDF with answers |
+| [jlptbooks.com Practice Test](https://www.jlptbooks.com/jlpt-n5-practice-test/) | Free 10-question mini test plus mock exam links |
+| [Nihongo Master N5 Test](https://www.nihongomaster.com/jlpt-n5-practice-test) | Free 25-question beginner practice test |
+| [japanesetest4you.com](https://japanesetest4you.com/) | Hundreds of practice tests, including kanji and grammar tests for N5 |
+| [r/jlpt past-paper collection](https://www.reddit.com/r/jlpt/comments/1gty1tv/jlpt_n1_n5_past_paper/) | Community Google Drive with past-style N5 papers (2010–2017) |
+| Japan Times "JLPT N5" study guide | Commercial book with five full practice tests |
+
+> Note: the JLPT has never officially released past exam papers. The only full official practice content is the two Official Practice Workbooks (2012 and 2018); the Vol. 2 N5 content is included in this repository, and the 2009 sample questions (pre-2010 format) are available free from jlpt.jp.

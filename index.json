@@ -952,6 +952,26 @@
       ]
     },
     {
+      "name": "jlpt-official-workbook-vol2-n5",
+      "source": "https://www.jlpt.jp/e/samples/sampleindex.html",
+      "description": "JLPT Official Practice Workbook Vol.2 (2018) N5: test sections, answer key, listening scripts, audio",
+      "pdf": [
+        "N5G.pdf",
+        "N5L.pdf",
+        "N5R.pdf",
+        "N5V.pdf",
+        "N5answer.pdf",
+        "N5script.pdf",
+        "N5sheet.pdf"
+      ],
+      "audio": [
+        "N5Q1.mp3",
+        "N5Q2.mp3",
+        "N5Q3.mp3",
+        "N5Q4.mp3"
+      ]
+    },
+    {
       "name": "minna-no-nihongo-listening",
       "source": "3A Corporation official audio",
       "lesson_count": 25,
